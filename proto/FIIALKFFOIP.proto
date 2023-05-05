@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "AEOEGPONFFP.proto";
+import "ODCAIOHFMMK.proto";
+
+message FIIALKFFOIP {
+	repeated ODCAIOHFMMK AONFLJENNEK = 9;
+	uint32 HLMBFANOJCD = 1;
+	repeated AEOEGPONFFP KPHOFGFBIMH = 10;
+}

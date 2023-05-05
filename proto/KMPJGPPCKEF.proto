@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "IEGJCHIKMKK.proto";
+import "FHMNLONCEHB.proto";
+import "SceneEntityInfo.proto";
+import "BHJOBIFPEOO.proto";
+import "MNCFAAKJFPL.proto";
+
+message KMPJGPPCKEF {
+	uint32 KNHLGFPLOGN = 15;
+	uint32 BPAJNIMNAAH = 8;
+	uint32 CKILNJFFCHI = 13;
+	uint32 FFEMKJAOBAN = 14;
+	repeated uint32 KOPDKEGBLHE = 2;
+	repeated MNCFAAKJFPL HPIKPGFKAFE = 9;
+	repeated uint32 JOMDKHBPHJO = 12;
+	repeated BHJOBIFPEOO CJDOMOLMIAL = 10;
+	uint32 HIKAACNHGGP = 7;
+	uint32 AMMFOMCDANL = 1;
+	repeated SceneEntityInfo KMAEGKFMFOO = 4;
+	uint32 MHLCLHNPDMA = 11;
+	repeated FHMNLONCEHB MHHGBHECHBC = 3;
+	IEGJCHIKMKK HCFPOINDOHI = 5;
+}

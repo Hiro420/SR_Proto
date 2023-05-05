@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JAEPBHMBAKN.proto";
+
+message HDNMOMPCCBH {
+	bytes LJKKGFJKPMJ = 3;
+	uint32 HLMBFANOJCD = 15;
+	repeated JAEPBHMBAKN GEPOFOEDHBP = 12;
+}

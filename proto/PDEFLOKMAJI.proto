@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "CPHMKFONMKK.proto";
+import "LHMNIJFJJOK.proto";
+
+message PDEFLOKMAJI {
+	uint32 HLMBFANOJCD = 13;
+	LHMNIJFJJOK BJFLBLFAJAD = 6;
+	repeated CPHMKFONMKK FJADMACNMON = 1;
+}

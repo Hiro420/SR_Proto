@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DCHKIFBIDGL {
+	uint32 HALEDPILCBI = 3;
+	uint32 HLMBFANOJCD = 4;
+}

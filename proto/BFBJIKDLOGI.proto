@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ExtraLineupType.proto";
-
-message BFBJIKDLOGI {
-	ExtraLineupType KKLALCMLEGB = 10;
-}

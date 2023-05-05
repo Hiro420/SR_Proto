@@ -3,8 +3,8 @@ syntax = "proto3";
 import "ItemList.proto";
 
 message TakeCityShopRewardScRsp {
-	uint32 Retcode = 8;
-	uint32 ShopId = 12;
-	ItemList Reward = 7;
-	uint32 Level = 3;
+	uint32 level = 8;
+	ItemList reward = 5;
+	uint32 shopId = 11;
+	uint32 retcode = 1;
 }

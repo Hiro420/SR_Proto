@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-import "TutorialGuide.proto";
 import "ItemList.proto";
+import "TutorialGuide.proto";
 
 message FinishTutorialGuideScRsp {
-	ItemList Reward = 10;
-	uint32 Retcode = 2;
-	TutorialGuide TutorialGuide = 14;
+	uint32 retcode = 12;
+	TutorialGuide tutorialGuide = 14;
+	ItemList reward = 7;
 }

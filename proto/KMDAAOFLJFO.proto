@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "AAIBPJCPOIL.proto";
-
-message KMDAAOFLJFO {
-	AAIBPJCPOIL BDGOOIJDGJI = 11;
-}

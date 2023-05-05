@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PMBBJPOFMFN.proto";
+
+message JFDNBKCHNMK {
+	uint32 ENFGPHBELLH = 2;
+	string ACLFFNLEALK = 12;
+	repeated PMBBJPOFMFN GABPEEJIOJD = 9;
+}

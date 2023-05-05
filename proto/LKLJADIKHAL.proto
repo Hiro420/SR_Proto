@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LKLJADIKHAL {
+	uint32 HDCECKHKOOB = 1;
+	uint32 KFHKDMDNGBO = 2;
+}

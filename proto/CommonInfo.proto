@@ -1,14 +1,12 @@
 syntax = "proto3";
 
-import "MapField<string,.proto";
-
 message CommonInfo {
-	string UserId = 1;
-	string Platform = 2;
-	string DeviceName = 3;
-	string SystemVersion = 4;
-	string DeviceId = 5;
-	string AppVersion = 6;
-	string PkgChannel = 7;
-	MapField<string, string> = 8;
+	string userId = 1;
+	string platform = 2;
+	string deviceName = 3;
+	string systemVersion = 4;
+	string deviceId = 5;
+	string appVersion = 6;
+	string pkgChannel = 7;
+	map<string, string> extraInfo = 8;
 }

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message CCAKCPPBOKI {
+	repeated uint32 BOALMILBFAK = 8;
+	uint32 AFCPEEJKJOC = 12;
+	repeated uint32 GNBECBAACOD = 10;
+	uint32 GCOPLAIEOCJ = 1;
+	uint32 LFAFFJAANFC = 5;
+}

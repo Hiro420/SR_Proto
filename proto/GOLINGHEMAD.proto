@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PNKBMIEBDGA.proto";
+
+message GOLINGHEMAD {
+	PNKBMIEBDGA IFDBKBJBMKE = 14;
+	bool OKOALBJDOEM = 5;
+}

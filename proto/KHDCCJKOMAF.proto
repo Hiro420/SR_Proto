@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OHJGCNJBOOC.proto";
-
-message KHDCCJKOMAF {
-	uint32 DEHKCBNCDPN = 15;
-	repeated OHJGCNJBOOC HIAAIOCMICE = 10;
-}

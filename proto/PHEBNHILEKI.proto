@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MPANFNCCGPC.proto";
-
-message PHEBNHILEKI {
-	uint32 JJLHHBNEAPH = 4;
-	uint32 OCEPGBFOMNN = 7;
-	MPANFNCCGPC NJMPDLABFLM = 1;
-}

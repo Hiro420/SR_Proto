@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message KOAAJIDBDAJ {
-	string OMPMDEAKKEP = 1;
-	uint32 OCAJOABJHKP = 2;
-	double ICKAKLNMFAO = 3;
-}

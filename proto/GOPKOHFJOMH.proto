@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "FightActivityGroup.proto";
+
+message GOPKOHFJOMH {
+	uint32 NBHLEDCKDKD = 11;
+	uint32 HLMBFANOJCD = 15;
+	map<uint32, uint32> ACEKOIIAIDE = 2;
+	repeated FightActivityGroup EDNCIGACMKL = 10;
+	bool JIBCLNKEHHM = 3;
+}

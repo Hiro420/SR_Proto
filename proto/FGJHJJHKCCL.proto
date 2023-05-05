@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "RogueAreaStatus.proto";
-
-message FGJHJJHKCCL {
-	bool DFMOPECDPBN = 15;
-	RogueAreaStatus COOGBOHMBHO = 1;
-	uint32 KKNIOIKGFCJ = 7;
-}

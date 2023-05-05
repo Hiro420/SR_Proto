@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "GDPCEDBIOGP.proto";
-
-message LCIKOENMNNP {
-	bool PKJPNJGAKIC = 6;
-	repeated GDPCEDBIOGP IAFFGAMDHPD = 3;
-	uint32 PPJKBDJDMIN = 4;
-}

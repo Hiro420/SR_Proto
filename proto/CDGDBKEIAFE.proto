@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CDGDBKEIAFE {
+	uint32 JPAEIENCPLL = 3;
+	uint32 CCKELFELGAK = 4;
+}

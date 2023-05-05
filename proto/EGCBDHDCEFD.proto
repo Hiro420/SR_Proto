@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "EIPIMNIEOEL.proto";
-
-message EGCBDHDCEFD {
-	uint32 PKDEAIAINAC = 4;
-	EIPIMNIEOEL CPJKBBCBLAH = 5;
-	uint32 NCGCJEKJHIN = 2;
-}

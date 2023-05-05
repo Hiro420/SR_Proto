@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message PEAMNAMHPJF {
-	uint32 DEHKCBNCDPN = 12;
-	uint32 KFCFCGEBDIL = 6;
-	uint32 ALGELMEBKAA = 8;
-}

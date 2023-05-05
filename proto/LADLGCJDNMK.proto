@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LADLGCJDNMK {
+	uint32 MGIPBDIIMNP = 1;
+	uint32 JPAEIENCPLL = 2;
+}

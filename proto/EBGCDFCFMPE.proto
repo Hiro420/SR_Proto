@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EBGCDFCFMPE {
+	uint32 ACPOEJMAMMI = 13;
+	uint64 BCNMFPDGLEP = 9;
+}

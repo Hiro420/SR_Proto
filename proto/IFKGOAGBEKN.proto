@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "EHKLHKGGBCA.proto";
+
+message IFKGOAGBEKN {
+	repeated EHKLHKGGBCA OLGNNLAGCOK = 3;
+	uint32 HLMBFANOJCD = 8;
+	ItemList CGHHNLCFFJP = 7;
+	uint32 OIKGOODEFNI = 10;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "DIBCOKLPOBL.proto";
+
+message FPNDOHKMBHK {
+	DIBCOKLPOBL ANGGNKDALNO = 5;
+	uint32 HEJMODKDOHD = 2;
+	uint64 BBCNGALCBJL = 6;
+}

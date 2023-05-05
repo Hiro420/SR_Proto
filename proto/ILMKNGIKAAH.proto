@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NPOMDNOHBOK.proto";
-
-message ILMKNGIKAAH {
-	NPOMDNOHBOK LPLOCHPPFEO = 10;
-	uint32 NHEGHMOEAKE = 13;
-}

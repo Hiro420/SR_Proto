@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message HNFAAPPLIIO {
+	uint32 OPFIGPKHGAB = 1;
+	uint32 NPKLHOOPEBF = 2;
+}

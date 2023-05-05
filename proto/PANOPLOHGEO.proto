@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PNKBMIEBDGA.proto";
+
+message PANOPLOHGEO {
+	uint32 HLMBFANOJCD = 14;
+	repeated PNKBMIEBDGA HABGJNLOKIA = 10;
+	repeated uint32 PAJIJHLJMKK = 1;
+}

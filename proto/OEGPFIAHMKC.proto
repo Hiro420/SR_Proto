@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ENAMPBJAFAA.proto";
+
+message OEGPFIAHMKC {
+	uint32 HLMBFANOJCD = 2;
+	uint32 NFFMLNLEEIM = 15;
+	uint32 PLPKDMBMMEG = 11;
+	ENAMPBJAFAA MKDCBLKNKDB = 13;
+}

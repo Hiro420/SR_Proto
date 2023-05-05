@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MFFIAEJKBLK.proto";
+
+message NLBGEIIMOKJ {
+	uint32 BNAOHPAPPKI = 15;
+	uint32 IOIPECHNFPJ = 7;
+	repeated MFFIAEJKBLK OPHMOMBDDBA = 2;
+	uint32 GDEPKDKMBAH = 1;
+}

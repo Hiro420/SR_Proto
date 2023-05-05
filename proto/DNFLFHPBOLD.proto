@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DNFLFHPBOLD {
-	bool OMEBLCANDAO = 7;
-}

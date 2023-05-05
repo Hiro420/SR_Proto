@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JHPCDMLABKC.proto";
+
+message CDGAPOPLOCJ {
+	uint32 EGFKNNHEDKB = 13;
+	repeated JHPCDMLABKC OBFGCODBHOE = 2;
+}

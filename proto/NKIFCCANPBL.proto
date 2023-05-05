@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NKIFCCANPBL {
+	uint32 IMJFDNEOFAE = 3;
+	uint32 HLMBFANOJCD = 11;
+}

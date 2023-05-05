@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DBGEONBKHLN.proto";
+import "ItemList.proto";
+
+message BGOOBEMAGFB {
+	uint32 HLMBFANOJCD = 2;
+	ItemList CGHHNLCFFJP = 10;
+	DBGEONBKHLN OGFABHKEHEL = 9;
+}

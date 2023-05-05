@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EBGCDFCFMPE.proto";
+import "KHLBNEKLPKD.proto";
+
+message HNAOHBOMAEE {
+	repeated KHLBNEKLPKD DFEFDKPHOKA = 5;
+	repeated EBGCDFCFMPE OGPAMMKKJFK = 2;
+	uint32 HLMBFANOJCD = 7;
+}

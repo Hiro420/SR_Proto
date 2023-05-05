@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message BEADNBMFHDP {
+	double IDIFPHEMPHI = 1;
+	double FPOIPMGCEAM = 2;
+	double OOANEECHJPN = 3;
+	double DLLOKHAHKNL = 4;
+	double AKKKEMEDECL = 5;
+	double DJIKEBJHAPN = 6;
+	double KHNLPKKKHPP = 7;
+}

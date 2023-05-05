@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "JBINJAPLEJA.proto";
-
-message FMDFAAMIOOI {
-	uint32 LKJACGGEKLI = 11;
-	JBINJAPLEJA GEANEEAKEKK = 15;
-	uint32 CKPAOHGCJBF = 4;
-}

@@ -1,12 +1,12 @@
 syntax = "proto3";
 
 message GetBasicInfoScRsp {
-	uint32 ExchangeTimes = 1;
-	uint32 Retcode = 11;
-	int64 LastSetNicknameTime = 3;
-	uint32 CurDay = 6;
-	int64 NextRecoverTime = 12;
-	uint32 GameplayBirthday = 5;
-	bool IsProtectedEquipmentRarity4 = 4;
-	uint32 WeekCocoonFinishedCount = 14;
+	bool isProtectedEquipmentRarity4 = 15;
+	uint32 exchangeTimes = 10;
+	int64 lastSetNicknameTime = 7;
+	int64 nextRecoverTime = 14;
+	uint32 retcode = 12;
+	uint32 weekCocoonFinishedCount = 9;
+	uint32 gameplayBirthday = 5;
+	uint32 curDay = 1;
 }

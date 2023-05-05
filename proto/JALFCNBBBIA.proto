@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MBPOAJOPMEA.proto";
+
+message JALFCNBBBIA {
+	MBPOAJOPMEA JAMJCBNFMGO = 7;
+	repeated string APFEJIFKLPI = 13;
+}

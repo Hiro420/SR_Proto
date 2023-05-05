@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CNOILJKOIHG.proto";
+
+message OOHIEFGHNEB {
+	CNOILJKOIHG HEGGIIMCKDB = 9;
+	uint32 IHCNKCAILII = 10;
+	bool FIDMMBPBJHK = 8;
+}

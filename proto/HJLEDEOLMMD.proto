@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HLMHGEIBLKG.proto";
+
+message HJLEDEOLMMD {
+	HLMHGEIBLKG CDPLIJPNHPB = 5;
+	uint32 HLMBFANOJCD = 11;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NFLCFHIKECN {
+	uint32 EGHEACJPPIJ = 1;
+	int32 LFNOHILNEGM = 2;
+}

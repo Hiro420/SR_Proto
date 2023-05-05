@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message ENCNGACJJDB {
+	string IBPHEEIIDHE = 1;
+	string JBLDNNDGCBJ = 2;
+	string PFPJJOPCGGH = 3;
+	string EBODFAFMLLL = 4;
+	string EEABJAACAOM = 5;
+	string JPHBEMEFPBN = 6;
+	string MHCFHIANDKL = 7;
+}

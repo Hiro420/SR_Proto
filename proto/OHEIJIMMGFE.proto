@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ICIFBMBJLIN.proto";
+
+message OHEIJIMMGFE {
+	uint32 HLMBFANOJCD = 15;
+	ICIFBMBJLIN DEKNFEPMALF = 9;
+}

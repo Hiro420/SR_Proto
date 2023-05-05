@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FPNILMFEMPM {
-	uint32 DEHKCBNCDPN = 14;
-	uint32 MMDKGNLLBGJ = 2;
-}

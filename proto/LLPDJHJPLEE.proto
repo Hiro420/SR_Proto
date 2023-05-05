@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "GAMGDHOIOBE.proto";
+
+message LLPDJHJPLEE {
+	uint32 OKIFDBBIMBB = 12;
+	uint32 HPGMDJMKLAP = 10;
+	repeated GAMGDHOIOBE KOHBMDJCKNK = 8;
+	uint32 DLOINLPHONE = 7;
+	uint32 OFPAPNBLBEE = 6;
+	uint32 HLMBFANOJCD = 2;
+}

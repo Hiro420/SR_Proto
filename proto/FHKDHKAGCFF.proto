@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OEFEOGHDJIO.proto";
-
-message FHKDHKAGCFF {
-	uint32 PDBFANBEGDH = 11;
-	uint32 PKDEAIAINAC = 4;
-	OEFEOGHDJIO HDEEFHJCJDI = 6;
-}

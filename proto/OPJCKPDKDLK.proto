@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "object.proto";
+import "GENGBLBFDNO.proto";
+
+message OPJCKPDKDLK {
+	GENGBLBFDNO JKJMMFNNOLO = 1;
+	repeated uint32 GOEMEJFHDPC = 5;
+	object ICABBCMPEFE = 8;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "CANLJCDDGNI.proto";
+
+message BKHPIOJJMDK {
+	uint32 OMGJDMGPJFL = 4;
+	uint32 LGPCKAOAHMK = 14;
+	uint32 ENPJGOLANGG = 15;
+	CANLJCDDGNI BALHFKGFNJJ = 2;
+	uint32 HJKGIBEBFPC = 13;
+}

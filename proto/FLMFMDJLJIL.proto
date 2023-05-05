@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HeroBasicType.proto";
-
-message FLMFMDJLJIL {
-	uint32 DEHKCBNCDPN = 10;
-	HeroBasicType KPBHFGKMBFF = 2;
-}

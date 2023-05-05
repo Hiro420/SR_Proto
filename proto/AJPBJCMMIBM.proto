@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BIHMPJLMAPH.proto";
+
+message AJPBJCMMIBM {
+	BIHMPJLMAPH HGHCNNLKGKO = 4;
+	uint32 GGCJOOFBNMM = 14;
+	uint32 HLMBFANOJCD = 6;
+}

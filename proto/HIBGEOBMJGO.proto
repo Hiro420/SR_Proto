@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "OICHPOFMKED.proto";
+
+message HIBGEOBMJGO {
+	OICHPOFMKED LBMCGGEFKCL = 10;
+	uint32 PLPKDMBMMEG = 9;
+	bool ODEJEIGKONK = 5;
+}

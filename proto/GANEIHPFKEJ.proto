@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "KPHNHCEMGMO.proto";
+import "CKJJEGNFKPA.proto";
+import "AKMLBLDCBEK.proto";
+
+message GANEIHPFKEJ {
+	repeated AKMLBLDCBEK EHDNCJKFPKI = 1;
+	string EIGOBBLDIAD = 2;
+	string EADDHLJMGAC = 3;
+	repeated CKJJEGNFKPA BCABNMJHBEN = 4;
+	uint32 HIKAACNHGGP = 5;
+	uint32 MHLCLHNPDMA = 6;
+	uint32 JEKCOJKMNHO = 7;
+	uint32 NFEODNPAIHH = 8;
+	KPHNHCEMGMO DBLJMKPHGNF = 9;
+}

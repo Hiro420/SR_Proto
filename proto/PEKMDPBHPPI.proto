@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MGLINIAEDEI.proto";
+import "FBIIADIAEGH.proto";
+
+message PEKMDPBHPPI {
+	repeated FBIIADIAEGH LBAJOIGDHIO = 1;
+	uint32 HLMBFANOJCD = 8;
+	repeated MGLINIAEDEI CCGDGCIDNHE = 10;
+}

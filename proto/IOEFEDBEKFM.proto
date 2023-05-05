@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NLDBAJLBELG.proto";
+
+message IOEFEDBEKFM {
+	bool JLKCAJJKPOB = 4;
+	uint32 HLMBFANOJCD = 6;
+	NLDBAJLBELG HEGGPFEBDHA = 5;
+}

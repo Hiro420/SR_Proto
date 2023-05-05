@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "NONBEIKJIHE.proto";
+import "CFODGIFPDCE.proto";
+
+message LNAGKAKPFMA {
+	uint32 DFLANIPLMKB = 1;
+	CFODGIFPDCE HEGGIIMCKDB = 2;
+	repeated NONBEIKJIHE PDFIDAPCBCO = 3;
+}

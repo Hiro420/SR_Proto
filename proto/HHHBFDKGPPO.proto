@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BIFODMCFJDN.proto";
+
+message HHHBFDKGPPO {
+	uint32 HOIDGCAFDGC = 4;
+	BIFODMCFJDN FCELAOGPDPE = 11;
+	string NEFJDKAFEPO = 8;
+	bool IBNFNOAONCF = 5;
+	uint32 BDJDONAOJFF = 2;
+	string IPKBOEOHDIC = 7;
+}

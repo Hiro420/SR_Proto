@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OCLMMPOFKMD.proto";
-
-message KCGNEHAKCKF {
-	repeated OCLMMPOFKMD CINBCFNALEN = 8;
-	uint32 DEHKCBNCDPN = 10;
-}

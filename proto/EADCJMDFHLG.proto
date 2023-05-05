@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "object.proto";
+
+message EADCJMDFHLG {
+	uint32 GIEDBINHPKG = 11;
+	object MBMIBCGHPFN = 12;
+}

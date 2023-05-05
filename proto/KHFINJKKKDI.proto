@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IBGNDFBIAHK.proto";
-
-message KHFINJKKKDI {
-	uint32 DEHKCBNCDPN = 11;
-	repeated IBGNDFBIAHK BCAKPDKFCEE = 4;
-}

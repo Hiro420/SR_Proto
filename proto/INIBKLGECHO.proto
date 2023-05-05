@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message INIBKLGECHO {
-	ItemList JDBLEPNFLJM = 11;
-	uint32 DEHKCBNCDPN = 2;
-}

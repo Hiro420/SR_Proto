@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OCMEKLCGAKE.proto";
+import "NLDBAJLBELG.proto";
+
+message MKAMJGHCHOL {
+	repeated NLDBAJLBELG BJIACGBBGNM = 3;
+	repeated OCMEKLCGAKE NDHCMJBALKK = 7;
+	repeated NLDBAJLBELG KFFBAIFDIEC = 13;
+	uint32 ODHFNPPLPFJ = 6;
+	bool HGPPECICBEP = 14;
+}

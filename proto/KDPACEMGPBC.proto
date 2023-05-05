@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message KDPACEMGPBC {
-	uint32 JJLHHBNEAPH = 12;
-	uint32 JDBHCJHNPOA = 1;
-	uint32 PNBPPNGKPCP = 6;
-	uint32 EFDAODALKEC = 15;
-	uint32 EIBMIGMOLOH = 11;
-}

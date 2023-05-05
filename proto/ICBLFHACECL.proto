@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message ICBLFHACECL {
+	repeated uint32 EPHPMEBABKG = 13;
+	repeated uint32 FOKCLCIMJDK = 8;
+	repeated uint32 MICEDNIHOKE = 3;
+}

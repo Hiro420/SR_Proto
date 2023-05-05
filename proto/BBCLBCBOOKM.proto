@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "GLPCIOANLEK.proto";
-
-message BBCLBCBOOKM {
-	GLPCIOANLEK DHCHJNDJDEG = 8;
-	uint32 DEHKCBNCDPN = 15;
-}

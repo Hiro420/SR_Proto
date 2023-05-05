@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "IBMBELOICJL.proto";
+import "PNJLBFLCPGJ.proto";
+
+message MKGIJPBLLAB {
+	uint32 FAIEJKNKGNJ = 15;
+	uint32 HLMBFANOJCD = 1;
+	PNJLBFLCPGJ ELCDGGIJOLO = 14;
+	IBMBELOICJL LKHLIALAMMF = 4;
+}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GDPCEDBIOGP {
-	uint32 OAABLMCNPOB = 7;
-	uint32 BNIEEHNNBEM = 3;
-}

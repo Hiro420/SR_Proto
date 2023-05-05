@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message EJBHMNPFFCD {
-	uint32 PGMJPGJLADD = 7;
-	uint32 FDDOBJMHMIC = 1;
-	int64 NOMNNEAHHPN = 9;
-	repeated uint32 EIBPMEKBPFG = 2;
-}

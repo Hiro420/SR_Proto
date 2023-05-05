@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IKAJDOKKEAI.proto";
+import "OEDCHLPGMND.proto";
+
+message FGHFOJKNDIL {
+	OEDCHLPGMND PDEMMJNHAEO = 12;
+	uint32 HLMBFANOJCD = 3;
+	IKAJDOKKEAI HOBBJMAGAGA = 5;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JPELINENEFN {
+	uint32 FJGILEDEMMI = 7;
+	uint32 BMKCLNNPGLJ = 5;
+}

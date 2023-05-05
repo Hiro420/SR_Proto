@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DKPGDHKAPNG.proto";
+import "IBEMELAKIFE.proto";
+
+message DGNLMBGMBFC {
+	IBEMELAKIFE GLHCJKHBNLN = 10;
+	repeated IBEMELAKIFE PHFCCFPDAEH = 14;
+	DKPGDHKAPNG DPCKFEICBPB = 3;
+}

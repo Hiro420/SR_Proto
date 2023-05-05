@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LNIGPGPMBBC.proto";
+import "KMPJGPPCKEF.proto";
+
+message ELCHMPDJPNC {
+	uint32 PPKKKDLHJGP = 15;
+	KMPJGPPCKEF IABDDHDJNKB = 2;
+	LNIGPGPMBBC HKPDHGJCCHN = 6;
+	uint32 HLMBFANOJCD = 13;
+}

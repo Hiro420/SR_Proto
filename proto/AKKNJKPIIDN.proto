@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DMAKELOHHFA.proto";
+import "OFLGEJPJNFB.proto";
+
+message AKKNJKPIIDN {
+	repeated OFLGEJPJNFB FMBMKODNDKN = 12;
+	repeated DMAKELOHHFA AAPBKIPGNHI = 7;
+	repeated uint32 KCEHNAGHKAI = 9;
+}

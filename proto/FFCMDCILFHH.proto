@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CANLJCDDGNI.proto";
+
+message FFCMDCILFHH {
+	uint32 NGIJCBDBFGI = 4;
+	CANLJCDDGNI DMKFHEBEACK = 13;
+}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "IMLOGEMOJMI.proto";
-
-message AFOOOFAMJIL {
-	IMLOGEMOJMI MOCLGLGDMMP = 6;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LCLBCHKIDOO.proto";
-
-message OIAECJPDPPM {
-	LCLBCHKIDOO DKHIBDDAGPI = 6;
-}

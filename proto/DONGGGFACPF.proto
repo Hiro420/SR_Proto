@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HEDLAFGOBGI.proto";
-
-message DONGGGFACPF {
-	repeated uint32 BPPIDKAGDIL = 4;
-	repeated HEDLAFGOBGI CKDKEPHEAGB = 14;
-	uint32 DEHKCBNCDPN = 1;
-}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DGBOFDHODAJ {
-	uint32 OAABLMCNPOB = 1;
-}

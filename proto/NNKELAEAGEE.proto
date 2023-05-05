@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KHGDBPHLDKN.proto";
-
-message NNKELAEAGEE {
-	repeated KHGDBPHLDKN FBLCPPHJCOK = 9;
-	float OONLDIKBDNF = 15;
-	uint32 MBNFACLDGDM = 12;
-}

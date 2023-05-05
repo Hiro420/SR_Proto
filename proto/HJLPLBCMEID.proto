@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HJLPLBCMEID {
-	repeated uint32 APMDEKGPGME = 7;
-	repeated uint32 FHPHEBFJJHF = 9;
-}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message KGOFAMJAKCP {
-	uint32 JAANAJODOOI = 12;
-}

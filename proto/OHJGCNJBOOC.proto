@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "POHNFCLILHA.proto";
-import "HNOMJODNGFA.proto";
-
-message OHJGCNJBOOC {
-	HNOMJODNGFA AICJINBCGEK = 8;
-	POHNFCLILHA MDADCPHAPOB = 1;
-}

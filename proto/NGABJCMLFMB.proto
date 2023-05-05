@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NGABJCMLFMB {
+	uint32 BIPDOIIINCM = 15;
+	uint32 BFPPBGLAACL = 6;
+}

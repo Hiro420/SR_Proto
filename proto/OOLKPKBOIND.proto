@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "OHOJMMBLNGP.proto";
+
+message OOLKPKBOIND {
+	repeated OHOJMMBLNGP IMBCECMOFNM = 4;
+	uint32 HLMBFANOJCD = 5;
+}

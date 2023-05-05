@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "JBEFHMJGIND.proto";
+
+message MECBAENIBPP {
+	repeated JBEFHMJGIND KOOEOBKBKMF = 11;
+	uint32 BFPPBGLAACL = 13;
+	uint32 NBHLEDCKDKD = 2;
+}

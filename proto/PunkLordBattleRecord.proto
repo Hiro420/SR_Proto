@@ -3,13 +3,13 @@ syntax = "proto3";
 import "PunkLordBattleAvatar.proto";
 
 message PunkLordBattleRecord {
-	uint32 Uid = 1;
-	uint32 DamageHp = 2;
-	bool IsFinalHit = 3;
-	uint32 OverKillDamageHp = 4;
-	string BattleReplayKey = 5;
-	repeated PunkLordBattleAvatar AvatarList = 6;
-	uint32 AssistScore = 7;
-	uint32 DamageScore = 8;
-	uint32 FinalHitScore = 9;
+	uint32 uid = 1;
+	uint32 damageHp = 2;
+	bool isFinalHit = 3;
+	uint32 overKillDamageHp = 4;
+	string battleReplayKey = 5;
+	repeated PunkLordBattleAvatar avatarList = 6;
+	uint32 assistScore = 7;
+	uint32 damageScore = 8;
+	uint32 finalHitScore = 9;
 }

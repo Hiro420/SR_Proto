@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "FeatureSwitchType.proto";
-
-message MKMEJONDFCG {
-	FeatureSwitchType FLMOCAAKJEF = 15;
-}

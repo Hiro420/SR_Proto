@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "FFPCBIDPNDH.proto";
-
-message EGJDKAOENMB {
-	repeated FFPCBIDPNDH PNCENIGKCDO = 15;
-}

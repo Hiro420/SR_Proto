@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message FHMNLONCEHB {
+	uint32 OMGJDMGPJFL = 6;
+	uint32 OGDHMJPAENE = 10;
+	uint32 ENMCKADLOFO = 12;
+	map<string, float> MJMHLKNGIJF = 7;
+	float ENNKCLOHKPL = 8;
+	uint32 NHGGLIAFGND = 1;
+	uint64 FGKEMJAENKD = 4;
+}

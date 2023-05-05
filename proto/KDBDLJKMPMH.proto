@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KDBDLJKMPMH {
+	uint32 MPNHAPIHOAL = 1;
+	repeated uint32 BOALMILBFAK = 15;
+	repeated uint32 GNBECBAACOD = 11;
+}

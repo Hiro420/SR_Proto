@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MODMGOPBHIM.proto";
-
-message NAODGAFNGDO {
-	uint32 DEHKCBNCDPN = 7;
-	bool ABGMBCJDAPL = 11;
-	repeated MODMGOPBHIM NFMBLPIJOEJ = 8;
-}

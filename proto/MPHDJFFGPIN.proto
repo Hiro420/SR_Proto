@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "AvatarType.proto";
-
-message MPHDJFFGPIN {
-	AvatarType CDEOFDKCDFA = 6;
-	uint32 PGMJPGJLADD = 15;
-	uint32 LKBBEPEDKJE = 4;
-}
