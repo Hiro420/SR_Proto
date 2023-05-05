@@ -1,0 +1,40 @@
+syntax = "proto3";
+
+import "BLMFMJLNLGB.proto";
+import "OKBBLMJNHCF.proto";
+import "LGFGJAMBMKA.proto";
+import "FKOKBEOMCMM.proto";
+import "AJPGDFNMBOI.proto";
+import "IMLIPKEEDIL.proto";
+import "ItemList.proto";
+import "OAPDMHIFEEF.proto";
+import "HFAHPOPODMF.proto";
+import "FPKIICIBOEE.proto";
+import "HBAMGOCOCBF.proto";
+import "BLJICJMPNJC.proto";
+import "GKGKAJLMLPN.proto";
+import "CHGJIMALHKM.proto";
+import "GPEBCGCMJGG.proto";
+
+message HJPPKKANGCN {
+	repeated GPEBCGCMJGG AAPBKIPGNHI = 1;
+	repeated CHGJIMALHKM MIJBEGADHJE = 1221;
+	repeated GKGKAJLMLPN GHKBHMJFLIO = 12;
+	repeated BLJICJMPNJC HKIAECBIOFC = 7;
+	repeated HBAMGOCOCBF LNGDBJHGFFG = 790;
+	FPKIICIBOEE NHGLHCAAPPM = 9;
+	HFAHPOPODMF APIEHPDDNCG = 14;
+	repeated OAPDMHIFEEF ENGNKBPKEOE = 13;
+	ItemList NHKIPKDJJIC = 936;
+	uint32 FHCEKFHMPEP = 187;
+	repeated OAPDMHIFEEF AHFBMGJBHJE = 1857;
+	IMLIPKEEDIL PICGGACNOKM = 3;
+	AJPGDFNMBOI EPGIGJLOBKB = 1272;
+	FKOKBEOMCMM DIAPLNAKCIO = 8;
+	repeated uint32 KBKFHJCAODB = 1274;
+	repeated LGFGJAMBMKA NKCLCCHNKKI = 4;
+	OKBBLMJNHCF JIBCGOIPAOL = 2;
+	repeated uint32 CCDHBFMOAOA = 15;
+	repeated uint32 PLHFDFFMDPG = 10;
+	repeated BLMFMJLNLGB PJBCBGBOKFP = 6;
+}

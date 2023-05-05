@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ANIHJOGGJIN {
+	repeated uint32 AACNFBIDMIL = 1;
+}

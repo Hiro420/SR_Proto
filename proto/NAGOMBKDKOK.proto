@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CPHMKFONMKK.proto";
+
+message NAGOMBKDKOK {
+	uint32 KNHLGFPLOGN = 2;
+	CPHMKFONMKK OILJGFJHMGE = 8;
+	uint32 HLMBFANOJCD = 10;
+}

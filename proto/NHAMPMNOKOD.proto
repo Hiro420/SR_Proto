@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NHAMPMNOKOD {
+	repeated uint32 GNBECBAACOD = 5;
+	repeated uint32 BOALMILBFAK = 7;
+	uint32 HLMBFANOJCD = 13;
+}

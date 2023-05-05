@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message KFCHDBDIPLK {
-	uint64 PDHGBONEOLK = 6;
-	uint32 EIBMIGMOLOH = 5;
-	uint32 JAGCOPGKAEE = 10;
-}

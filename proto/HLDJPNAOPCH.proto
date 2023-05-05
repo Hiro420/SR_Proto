@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "MECLABOMBAN.proto";
+import "NAJAFPLDKOI.proto";
+
+message HLDJPNAOPCH {
+	uint32 HIKAACNHGGP = 10;
+	uint32 DEFEFMJHMHM = 15;
+	uint32 OGDHMJPAENE = 11;
+	NAJAFPLDKOI OBAJMNBGFPE = 1;
+	MECLABOMBAN MKMMIMOEEIB = 5;
+	bool APDHJHMACPA = 12;
+}

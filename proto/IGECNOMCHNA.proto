@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DBKCDEOANKE.proto";
+
+message IGECNOMCHNA {
+	uint32 KDIBANJLKHF = 6;
+	uint32 BCBLIJNHFKJ = 5;
+	uint32 MBLDOIMBAEB = 14;
+	uint32 LFAFFJAANFC = 9;
+	repeated DBKCDEOANKE AEPDKBCJGOG = 4;
+	uint32 NHGGLIAFGND = 13;
+}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LCKHHGLIKOI.proto";
-
-message JNDNCKEODBE {
-	repeated LCKHHGLIKOI DIBIEDCOCGI = 5;
-}

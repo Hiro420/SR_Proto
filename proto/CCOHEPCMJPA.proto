@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message CCOHEPCMJPA {
-	string IAICCIBPCMF = 15;
-}

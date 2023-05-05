@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MECBAENIBPP.proto";
+
+message HBMENIKLBOF {
+	uint32 HLMBFANOJCD = 6;
+	repeated MECBAENIBPP DIOMMCFDIFJ = 7;
+}

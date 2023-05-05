@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BOBAEDINGEB.proto";
+import "OOENFLFONCP.proto";
+import "PunkLordBattleRecord.proto";
+
+message JBIDNOLBMJH {
+	PunkLordBattleRecord KDGEIGNAEMO = 10;
+	repeated uint32 CCBAFFCBPDO = 12;
+	OOENFLFONCP APIEHPDDNCG = 4;
+	BOBAEDINGEB NKHEAMMDGEH = 14;
+}

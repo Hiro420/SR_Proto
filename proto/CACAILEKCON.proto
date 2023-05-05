@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CACAILEKCON {
+	uint64 BDPCGNLPKIN = 1;
+	uint32 JELDOHCFMNA = 15;
+}

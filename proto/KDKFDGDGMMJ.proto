@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "JILMMONIHEE.proto";
-
-message KDKFDGDGMMJ {
-	repeated JILMMONIHEE KIJMIJGBCDL = 3;
-}

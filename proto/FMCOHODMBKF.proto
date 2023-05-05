@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-message FMCOHODMBKF {
-	uint32 EPILGGJCODC = 8;
-	bool LPAMAOGPFFP = 1;
-	uint32 IDGLAMHBCIH = 10;
-	uint32 HNKGHFNDAGM = 4;
-	repeated uint32 HFKNLNEABDF = 13;
-}

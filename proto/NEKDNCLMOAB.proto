@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NGABJCMLFMB.proto";
+
+message NEKDNCLMOAB {
+	repeated uint32 HCEGHNCIFFH = 8;
+	uint32 HLMBFANOJCD = 14;
+	repeated NGABJCMLFMB POIJKINBELJ = 10;
+}

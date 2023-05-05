@@ -1,13 +1,11 @@
 syntax = "proto3";
 
-import "MapField<string,.proto";
-
 message PageInfo {
-	string PagePath = 1;
-	string PageName = 2;
-	string SubPagePath = 3;
-	string SubPageName = 4;
-	string SourcePath = 5;
-	string SourceName = 6;
-	MapField<string, string> = 7;
+	string pagePath = 1;
+	string pageName = 2;
+	string subPagePath = 3;
+	string subPageName = 4;
+	string sourcePath = 5;
+	string sourceName = 6;
+	map<string, string> extraInfo = 7;
 }

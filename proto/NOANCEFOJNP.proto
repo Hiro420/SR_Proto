@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NOANCEFOJNP {
+	int32 HPLOCHHIMIE = 4;
+	int32 HJBNDMJNLCJ = 10;
+	int32 ICDMHKLDOLH = 7;
+}

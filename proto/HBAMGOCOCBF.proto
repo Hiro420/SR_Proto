@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "AIKHNAAPGMD.proto";
+
+message HBAMGOCOCBF {
+	int64 HDJDKJDONAK = 2;
+	uint32 ACPOEJMAMMI = 9;
+	AIKHNAAPGMD JNOHPMAECCA = 7;
+}

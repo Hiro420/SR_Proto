@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "LNECDNIIHII.proto";
+import "PGGKOAOCNHI.proto";
+
+message BCBCBBLCGOI {
+	uint32 HLMBFANOJCD = 4;
+	repeated PGGKOAOCNHI FFKDMLLEJCD = 1;
+	LNECDNIIHII GJPAOPLLOEM = 5;
+	uint32 JOLGHHBCHGN = 10;
+	uint32 FGFDCPCJAFA = 9;
+	string FADINHMCHLI = 14;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OHMDMMAGNBO {
+	uint32 HLMBFANOJCD = 9;
+	uint32 AFIGMIBIFHC = 8;
+}

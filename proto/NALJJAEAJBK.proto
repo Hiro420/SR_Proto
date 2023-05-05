@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LHLBKPBPFCM.proto";
+import "KMPJGPPCKEF.proto";
+import "LNIGPGPMBBC.proto";
+
+message NALJJAEAJBK {
+	LNIGPGPMBBC HKPDHGJCCHN = 11;
+	KMPJGPPCKEF IABDDHDJNKB = 8;
+	LHLBKPBPFCM NKHEAMMDGEH = 2;
+}

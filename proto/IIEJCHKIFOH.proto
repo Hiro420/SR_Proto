@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OGNFDCHHOAE.proto";
-
-message IIEJCHKIFOH {
-	repeated OGNFDCHHOAE CEKPIFCAGMF = 1;
-}

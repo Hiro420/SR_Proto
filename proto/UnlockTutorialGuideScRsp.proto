@@ -3,6 +3,6 @@ syntax = "proto3";
 import "TutorialGuide.proto";
 
 message UnlockTutorialGuideScRsp {
-	uint32 Retcode = 14;
-	TutorialGuide TutorialGuide = 12;
+	TutorialGuide tutorialGuide = 4;
+	uint32 retcode = 2;
 }

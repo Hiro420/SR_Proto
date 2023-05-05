@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "NBBEKDLBKHH.proto";
+
+message JJIIALHGEMP {
+	uint32 OGDHMJPAENE = 6;
+	NBBEKDLBKHH JLIKENHDOGP = 12;
+	ItemList CGHHNLCFFJP = 3;
+	bool NCLCMELPGAI = 1;
+}

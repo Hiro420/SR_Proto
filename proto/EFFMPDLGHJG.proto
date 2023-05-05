@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "BOGGPAELPEP.proto";
-
-message EFFMPDLGHJG {
-	uint32 DEHKCBNCDPN = 15;
-	BOGGPAELPEP HMGBPLIAHBK = 12;
-}

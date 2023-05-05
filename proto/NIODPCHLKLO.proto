@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "DPELIADEJEM.proto";
+import "NAJAFPLDKOI.proto";
+
+message NIODPCHLKLO {
+	uint32 HIKAACNHGGP = 5;
+	NAJAFPLDKOI OBAJMNBGFPE = 6;
+	uint32 DEFEFMJHMHM = 7;
+	repeated DPELIADEJEM CCMHBBGNFCM = 3;
+	bool APDHJHMACPA = 1;
+	uint32 ALJAOPJJDFO = 13;
+}

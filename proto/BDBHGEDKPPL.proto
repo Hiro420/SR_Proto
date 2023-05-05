@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "AMCPAJDNKGN.proto";
+
+message BDBHGEDKPPL {
+	uint32 OGDHMJPAENE = 4;
+	AMCPAJDNKGN GEBACEKOEPP = 6;
+	uint32 HLMBFANOJCD = 5;
+	repeated uint32 BOALMILBFAK = 9;
+	uint32 KILNPHDAFOK = 2;
+	repeated uint32 GNBECBAACOD = 15;
+}

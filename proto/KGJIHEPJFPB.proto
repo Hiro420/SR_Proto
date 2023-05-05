@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EGJDKAOENMB.proto";
-
-message KGJIHEPJFPB {
-	uint32 DEHKCBNCDPN = 1;
-	EGJDKAOENMB GKHAACOBBDP = 6;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "Gender.proto";
-
-message GOCJANPHBGM {
-	Gender ABMGMDDDBNJ = 6;
-}

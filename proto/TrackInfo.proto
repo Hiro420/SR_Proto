@@ -5,7 +5,7 @@ import "CommonInfo.proto";
 import "PageInfo.proto";
 
 message TrackInfo {
-	PageInfo PageInfo = 1;
-	CommonInfo CommonInfo = 2;
-	EventInfo EventInfo = 3;
+	PageInfo pageInfo = 1;
+	CommonInfo commonInfo = 2;
+	EventInfo eventInfo = 3;
 }

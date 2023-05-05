@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message LOEGIFMONED {
-	uint32 OLAOEFBACEG = 10;
-}

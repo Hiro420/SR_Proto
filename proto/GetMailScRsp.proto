@@ -3,10 +3,10 @@ syntax = "proto3";
 import "ClientMail.proto";
 
 message GetMailScRsp {
-	repeated ClientMail MailList = 2;
-	uint32 Retcode = 7;
-	uint32 Start = 12;
-	uint32 TotalNum = 4;
-	repeated ClientMail NoticeMailList = 11;
-	bool IsEnd = 13;
+	bool isEnd = 5;
+	repeated ClientMail mailList = 13;
+	uint32 start = 8;
+	uint32 totalNum = 4;
+	repeated ClientMail noticeMailList = 7;
+	uint32 retcode = 12;
 }

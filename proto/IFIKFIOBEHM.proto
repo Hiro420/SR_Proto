@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "PropExtraInfo.proto";
+
+message IFIKFIOBEHM {
+	uint32 FAEMCOFHCGO = 10;
+	uint64 LLMPCPKFNKF = 9;
+	PropExtraInfo NFOLOLBNPLF = 11;
+	uint32 CCGNJIIIDPE = 6;
+	repeated string IFNIJLIIIBD = 12;
+	uint32 ANLKMPLKIGF = 4;
+}

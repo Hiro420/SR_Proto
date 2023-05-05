@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "FHCCBLPNOGF.proto";
+import "LFOGIACPLIB.proto";
+
+message IPFEDJEGDME {
+	LFOGIACPLIB EPLPNMHKCFB = 11;
+	FHCCBLPNOGF HIMONBOMKGH = 10;
+	uint32 HLMBFANOJCD = 2;
+}

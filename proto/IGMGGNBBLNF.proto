@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message IGMGGNBBLNF {
-	uint32 MMDKGNLLBGJ = 4;
-}

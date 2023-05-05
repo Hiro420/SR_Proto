@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "MODMGOPBHIM.proto";
-
-message CPBBPEEOLED {
-	repeated MODMGOPBHIM NFMBLPIJOEJ = 4;
-}

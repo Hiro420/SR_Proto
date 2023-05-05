@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HCFBMEBDAEG.proto";
-
-message NMHCJOJNPAO {
-	uint32 DEHKCBNCDPN = 9;
-	HCFBMEBDAEG BCOEALIDHLF = 1;
-}

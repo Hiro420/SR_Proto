@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message APKMPOKINHI {
+	uint32 HLMBFANOJCD = 2;
+	uint32 PLPKDMBMMEG = 5;
+}

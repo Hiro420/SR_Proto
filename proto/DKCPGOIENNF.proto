@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AGDGBEOILNF.proto";
+import "GLEMKKLFCPF.proto";
+import "ItemList.proto";
+
+message DKCPGOIENNF {
+	repeated ItemList IKKCBOEHECJ = 2;
+	GLEMKKLFCPF FGGGOLEOFIE = 9;
+	repeated AGDGBEOILNF PDGCCIKIKOI = 11;
+}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message EMGBFONBCLE {
-	uint32 EILAFOEMOGL = 11;
-}

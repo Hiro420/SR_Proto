@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IEGJCHIKMKK.proto";
+
+message NOMEOPMANIH {
+	IEGJCHIKMKK HCFPOINDOHI = 1;
+	uint32 HIKAACNHGGP = 9;
+	uint32 MHLCLHNPDMA = 6;
+}

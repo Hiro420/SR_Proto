@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "OOHIEFGHNEB.proto";
+import "FBFFALCAIGM.proto";
+
+message CKEIAGAGKJM {
+	FBFFALCAIGM MOCEHEDGLNK = 7;
+	bool HGPPECICBEP = 8;
+	repeated OOHIEFGHNEB HJMKPGBGCDC = 13;
+	repeated uint32 ELMADPEJOJC = 10;
+}

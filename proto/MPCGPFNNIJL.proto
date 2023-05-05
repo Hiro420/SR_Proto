@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ADHFOALEOLA.proto";
+
+message MPCGPFNNIJL {
+	repeated uint32 KMPAOBNDCKP = 4;
+	repeated ADHFOALEOLA JKPGJPKNELP = 3;
+	uint32 JPDMKLFCGJI = 5;
+}

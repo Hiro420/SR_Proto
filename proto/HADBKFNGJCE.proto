@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ItemCost.proto";
+
+message HADBKFNGJCE {
+	repeated ItemCost OLGNNLAGCOK = 5;
+	uint32 AKGJGMBPBAO = 3;
+	uint32 NHGGLIAFGND = 4;
+}

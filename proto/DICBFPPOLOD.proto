@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message DICBFPPOLOD {
-	uint32 HBFBMBFFODB = 4;
-	uint32 CKPAOHGCJBF = 6;
-	uint32 LKJACGGEKLI = 12;
-}

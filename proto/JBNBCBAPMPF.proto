@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OLJLNOCPCPH.proto";
+import "LFLCGEDKKNO.proto";
+import "OOENFLFONCP.proto";
+
+message JBNBCBAPMPF {
+	uint32 FDOBAAKEDHD = 3;
+	OOENFLFONCP APIEHPDDNCG = 7;
+	LFLCGEDKKNO JCJLNMENPDK = 14;
+	OLJLNOCPCPH KDGEIGNAEMO = 12;
+}

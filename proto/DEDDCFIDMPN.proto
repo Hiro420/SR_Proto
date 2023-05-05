@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DEDDCFIDMPN {
-	uint32 HOPNKHLFNNG = 1;
-}

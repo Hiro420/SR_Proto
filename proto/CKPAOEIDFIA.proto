@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EJGFGOLDOJI.proto";
-
-message CKPAOEIDFIA {
-	EJGFGOLDOJI BIAHGKPLBJG = 1;
-	uint32 BOCOPEODPNM = 8;
-}

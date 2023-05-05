@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "DFEJFAOHDFP.proto";
+import "CDAKABOHDHA.proto";
+import "NHOBCOEIPPC.proto";
+
+message GNAJIHFJDHA {
+	uint32 NABADMDIGMF = 11;
+	repeated uint32 JOMDKHBPHJO = 1;
+	repeated NHOBCOEIPPC HEGPMCGBIHM = 7;
+	repeated CDAKABOHDHA IDDAOJOGMBH = 9;
+	repeated uint32 ACJAFCKGEKG = 15;
+	uint32 HLMBFANOJCD = 2;
+	repeated DFEJFAOHDFP GODLDBIINCP = 8;
+	uint32 BPAJNIMNAAH = 5;
+}

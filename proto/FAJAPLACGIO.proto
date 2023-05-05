@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FAJAPLACGIO {
+	uint32 NLKGMGMFDLH = 7;
+	bool OMDOPOMIBFG = 4;
+}

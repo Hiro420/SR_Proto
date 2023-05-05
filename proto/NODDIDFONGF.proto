@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FOKEHCLEGOO.proto";
-
-message NODDIDFONGF {
-	FOKEHCLEGOO GIIACMIOFIH = 13;
-	uint32 KPLMKENNAFD = 3;
-	uint32 OFMPOGJCHDH = 2;
-}

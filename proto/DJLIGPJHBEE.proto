@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "CGDJNBAFMOM.proto";
+
+message DJLIGPJHBEE {
+	uint32 HPKFCBPHAPN = 10;
+	CGDJNBAFMOM DHNCGKMFBMF = 1;
+	uint32 HLMBFANOJCD = 4;
+	ItemList CGHHNLCFFJP = 8;
+}

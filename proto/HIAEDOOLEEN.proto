@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HIAEDOOLEEN {
-	uint32 HFPJEFALIHH = 9;
-	uint32 JBPHIIOLBLG = 14;
-}

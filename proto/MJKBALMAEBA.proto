@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MJKBALMAEBA {
+	uint32 KCDGLKHGLML = 7;
+	uint32 ACPOEJMAMMI = 6;
+}

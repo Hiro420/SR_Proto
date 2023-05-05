@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "GDFIOJNKANG.proto";
+import "ICCLPPNFABL.proto";
+
+message FIHOJPIDFKH {
+	ICCLPPNFABL HBLFAPEGOKN = 8;
+	uint32 NLOBEONOIKM = 7;
+	uint32 PBEOEMNCDAE = 4;
+	GDFIOJNKANG NOAINPOGHFF = 1;
+	string KFILNIEHFLP = 15;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message HHKMKNINDBO {
+	uint32 CKDGLCMIION = 1;
+	uint32 NHGGLIAFGND = 2;
+	uint32 FAGPOAHHPNG = 3;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DMEPNFCGDJH.proto";
+
+message NPJAMPKAMMJ {
+	uint32 HLMBFANOJCD = 15;
+	uint32 PLLCGJIILFJ = 5;
+	repeated DMEPNFCGDJH NDMFPNOHNAF = 3;
+	uint32 HNHOBABIHHG = 6;
+}

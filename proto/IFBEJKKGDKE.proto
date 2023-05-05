@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message IFBEJKKGDKE {
-	uint32 PNBPPNGKPCP = 3;
-	uint32 DEHKCBNCDPN = 7;
-	ItemList KDCGBMDDGBL = 5;
-}

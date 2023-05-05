@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message LMLIICMEDDI {
-	uint32 DEHKCBNCDPN = 5;
-}

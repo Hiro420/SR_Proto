@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "AFDEMBPOOJF.proto";
-
-message AFPCLGFNDOI {
-	uint32 DEHKCBNCDPN = 14;
-	repeated AFDEMBPOOJF KKHPCHLGCLN = 1;
-}

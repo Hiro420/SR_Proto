@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FGMOBNCLNDI {
-	repeated uint32 JEEMLKOMINC = 14;
-}

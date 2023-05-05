@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CANLJCDDGNI.proto";
+
+message OKANELNBIHK {
+	uint32 ENMCKADLOFO = 3;
+	CANLJCDDGNI DMKFHEBEACK = 7;
+	float HHLGEMMBDNH = 11;
+}

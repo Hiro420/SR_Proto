@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HDHILGMFBML.proto";
+
+message DEGPBNACJEH {
+	HDHILGMFBML MJFMEACEENF = 7;
+	uint32 HLMBFANOJCD = 1;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NLDBAJLBELG.proto";
+
+message LEEKLOIADJO {
+	uint32 HLMBFANOJCD = 8;
+	NLDBAJLBELG MPFKEIMBOJC = 11;
+	NLDBAJLBELG MMIFLOOAPPG = 15;
+}

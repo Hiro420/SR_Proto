@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PileItem.proto";
-
-message BLMDOANPLAL {
-	repeated PileItem LFDMBKLAHGK = 10;
-	uint32 DEHKCBNCDPN = 14;
-}

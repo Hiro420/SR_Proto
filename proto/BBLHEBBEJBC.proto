@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "JPEDHAEJEGN.proto";
+import "FBONLKAFBDA.proto";
+import "EMIJIDCDGIG.proto";
+import "OLPLNBIAICK.proto";
+import "DNMCDBMEIHO.proto";
+
+message BBLHEBBEJBC {
+	repeated DNMCDBMEIHO KMPAOBNDCKP = 1;
+	repeated OLPLNBIAICK INCKMMFPCBH = 2;
+	repeated EMIJIDCDGIG JIBICIBEHGB = 3;
+	repeated uint32 DOHNODGFCGM = 4;
+	repeated FBONLKAFBDA NDIGEHKLMEE = 5;
+	repeated JPEDHAEJEGN LEFPCICNALN = 6;
+	uint32 NBHLEDCKDKD = 7;
+}

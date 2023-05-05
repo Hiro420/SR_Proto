@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PEDBMLDHEND.proto";
+
+message IKAOABGIEJF {
+	PEDBMLDHEND IBPEBJJJKIG = 6;
+	uint32 HLMBFANOJCD = 12;
+}

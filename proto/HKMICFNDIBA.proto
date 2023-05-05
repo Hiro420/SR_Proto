@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OptionalReward.proto";
-
-message HKMICFNDIBA {
-	repeated OptionalReward HHOPODGLFJH = 8;
-}

@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import "IBMBELOICJL.proto";
+import "DNMCDBMEIHO.proto";
+import "ItemList.proto";
+
+message FDBCLIIGJJP {
+	uint32 PLNOCEMLMCD = 15;
+	ItemList HJHFIMKMPBL = 4;
+	uint32 HLMBFANOJCD = 14;
+	repeated DNMCDBMEIHO HFAGADFMKFI = 12;
+	ItemList DNONNJHCBNF = 11;
+	string FOODNKPEKNA = 2;
+	uint32 DGNPIMNCMOM = 13;
+	string JJOEFBDLMLB = 8;
+	uint32 BINONHOALEO = 3;
+	uint32 EFKEMCKEAHK = 6;
+	bool BIMLAICJCEH = 1;
+	ItemList CCOIAIDIIAA = 5;
+	uint32 IMJFDNEOFAE = 7;
+	IBMBELOICJL EBPDOKHMKHI = 10;
+	uint32 HGGKELKCAJO = 9;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message POKDADOMJFG {
+	uint32 HLMBFANOJCD = 7;
+}

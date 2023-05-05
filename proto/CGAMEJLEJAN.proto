@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message CGAMEJLEJAN {
-	uint32 PGMJPGJLADD = 1;
-	uint32 PNBPPNGKPCP = 2;
-	uint32 JDBHCJHNPOA = 3;
-	uint32 JJLHHBNEAPH = 4;
-}

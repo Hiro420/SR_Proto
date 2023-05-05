@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IMLOGEMOJMI.proto";
-
-message JJADNIFEAHA {
-	uint32 DEHKCBNCDPN = 11;
-	IMLOGEMOJMI MOCLGLGDMMP = 6;
-}

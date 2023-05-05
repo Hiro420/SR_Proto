@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "AIKPGOLFBNE.proto";
-
-message NHDECJCBPNF {
-	repeated AIKPGOLFBNE EIEDIBLJIOP = 9;
-	uint32 DEHKCBNCDPN = 14;
-}

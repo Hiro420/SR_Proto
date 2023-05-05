@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ELPGIDAHODM.proto";
-
-message CIFDOGLNEAP {
-	uint32 ENMKCHPKCBL = 1;
-	uint32 MMKBCGEBEOP = 2;
-	repeated ELPGIDAHODM MNJPBPGHMPF = 3;
-}

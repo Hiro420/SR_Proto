@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LCIKOENMNNP.proto";
-
-message DIBLANJLPPO {
-	LCIKOENMNNP DFNDPNAIILN = 5;
-}

@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "KGIPOGNDBLN.proto";
+
+message CEDGOCOHJOB {
+	uint64 NIFNPFFKLCM = 15;
+	uint64 ILLALOLNFDL = 14;
+	uint64 BLGGNFEDIBI = 9;
+	KGIPOGNDBLN OAPGGLDHNFJ = 2;
+	uint32 FAGPOAHHPNG = 1;
+	uint32 CCIJFDBMBOG = 5;
+	uint32 NHGGLIAFGND = 7;
+	uint64 HIOCPKNMKBK = 6;
+	uint32 IDHFMBCBPHB = 8;
+}

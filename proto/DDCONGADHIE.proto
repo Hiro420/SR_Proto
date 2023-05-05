@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DDCONGADHIE {
-	uint32 DEHKCBNCDPN = 4;
-}

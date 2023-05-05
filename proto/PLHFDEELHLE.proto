@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message PLHFDEELHLE {
-	uint32 DEHKCBNCDPN = 3;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message MANMDDMFELO {
-	uint32 LBBOHBIPFHI = 1;
-	uint32 OCAJOABJHKP = 2;
-}

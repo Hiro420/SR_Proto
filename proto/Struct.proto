@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+import "Value.proto";
+
+message Struct {
+}

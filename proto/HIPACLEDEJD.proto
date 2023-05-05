@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message HIPACLEDEJD {
+	uint32 JPAEIENCPLL = 11;
+	uint32 AGKFFDHLDMF = 4;
+	uint32 CFMJEDFDDHA = 8;
+	uint32 LIKPPOHKDNA = 13;
+	uint32 AFCPEEJKJOC = 2;
+}

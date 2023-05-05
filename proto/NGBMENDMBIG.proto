@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LCKHHGLIKOI.proto";
-
-message NGBMENDMBIG {
-	bool KKBFPKNEEEN = 7;
-	repeated LCKHHGLIKOI DIBIEDCOCGI = 10;
-}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message HEKIFLELALL {
+	repeated uint32 BOALMILBFAK = 10;
+	repeated uint32 GNBECBAACOD = 14;
+	uint32 OGDHMJPAENE = 1;
+	uint32 AFCPEEJKJOC = 11;
+}

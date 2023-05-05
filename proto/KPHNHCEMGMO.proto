@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HNFAAPPLIIO.proto";
+
+message KPHNHCEMGMO {
+	bool LFCGBNCFBCM = 1;
+	map<string, HNFAAPPLIIO> DFGANGMMIEG = 2;
+	bytes LHPICJLDBMN = 3;
+}

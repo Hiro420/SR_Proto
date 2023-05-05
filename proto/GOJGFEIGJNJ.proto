@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "FGFPLDJLOLB.proto";
+
+message GOJGFEIGJNJ {
+	uint32 EGHEACJPPIJ = 4;
+	uint32 BPIKMBDEBKB = 8;
+	FGFPLDJLOLB CHMLJHAHKOC = 12;
+	uint32 HLMBFANOJCD = 3;
+	ItemList KFJICKNHOMH = 6;
+}

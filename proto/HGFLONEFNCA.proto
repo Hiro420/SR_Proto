@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NILJAFMDBIF.proto";
-import "LBELHJFIGOD.proto";
-
-message HGFLONEFNCA {
-	LBELHJFIGOD FDLDMOAPCAK = 1;
-	NILJAFMDBIF EFLHBOPCCNC = 8;
-}

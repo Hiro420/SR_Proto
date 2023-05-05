@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "NFDOAOKJJHO.proto";
+import "JBEFHMJGIND.proto";
+import "ItemList.proto";
+
+message HMOPBNGKDDE {
+	ItemList OLGNNLAGCOK = 12;
+	uint32 BFPPBGLAACL = 1;
+	repeated JBEFHMJGIND KOOEOBKBKMF = 6;
+	NFDOAOKJJHO HEGGIIMCKDB = 10;
+	uint64 DJOIGPPHGNF = 9;
+	uint32 NBHLEDCKDKD = 15;
+}

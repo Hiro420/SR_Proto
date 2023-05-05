@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message DIEBFPOBHOD {
+	uint32 NHGGLIAFGND = 14;
+	uint32 HLMBFANOJCD = 8;
+	ItemList CGHHNLCFFJP = 3;
+	bool PDIILPGCDGN = 13;
+}

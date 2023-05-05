@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IBFGPAHKONN.proto";
+
+message FIFILPPFMKG {
+	uint32 HLMBFANOJCD = 10;
+	repeated IBFGPAHKONN OLMDKMIPJFM = 11;
+	uint32 LGKGFCHLGJO = 6;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ICCLPPNFABL.proto";
+import "GDFIOJNKANG.proto";
+
+message KPLGIGMEHFM {
+	GDFIOJNKANG NOAINPOGHFF = 1;
+	repeated uint32 AHDGAGBJPOK = 14;
+	string KFILNIEHFLP = 11;
+	ICCLPPNFABL HBLFAPEGOKN = 3;
+}

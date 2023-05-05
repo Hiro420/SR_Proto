@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "TutorialStatus.proto";
+import "FCBMMBHLLKI.proto";
 
 message Tutorial {
-	uint32 Id = 15;
-	TutorialStatus Status = 13;
+	uint32 id = 12;
+	FCBMMBHLLKI status = 1;
 }

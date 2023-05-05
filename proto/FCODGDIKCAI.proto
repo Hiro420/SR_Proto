@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OLBLJKEPAEE.proto";
+
+message FCODGDIKCAI {
+	uint32 BNAOHPAPPKI = 11;
+	repeated uint32 GDCENMPGPPH = 14;
+	uint32 IOIPECHNFPJ = 15;
+	repeated OLBLJKEPAEE OPHMOMBDDBA = 9;
+}

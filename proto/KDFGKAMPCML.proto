@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message KDFGKAMPCML {
-	uint32 DEHKCBNCDPN = 13;
-}

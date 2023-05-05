@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "JBNBCBAPMPF.proto";
+
+message PFAIFCJIPDA {
+	uint32 HLMBFANOJCD = 9;
+	JBNBCBAPMPF JKAFMKKONHH = 6;
+	repeated uint32 CCBAFFCBPDO = 2;
+	int64 KEKOBOMONAG = 15;
+	bool ECLCDOJDDHB = 12;
+}

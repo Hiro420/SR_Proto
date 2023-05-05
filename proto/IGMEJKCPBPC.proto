@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "GIEEEAEMNNF.proto";
+
+message IGMEJKCPBPC {
+	uint32 FJGILEDEMMI = 6;
+	uint32 BMKCLNNPGLJ = 10;
+	GIEEEAEMNNF PJKEIMPBNPA = 13;
+	uint32 FNMGFCPOGOA = 5;
+	GIEEEAEMNNF AOKEMJGPDLF = 14;
+}

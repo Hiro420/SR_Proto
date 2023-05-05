@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FFAPIOGEGNC {
-	uint32 PNBPPNGKPCP = 10;
-	uint32 OAABLMCNPOB = 6;
-}

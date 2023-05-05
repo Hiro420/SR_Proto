@@ -3,8 +3,8 @@ syntax = "proto3";
 import "ItemList.proto";
 
 message RechargeSuccNotify {
-	string ChannelOrderNo = 1;
-	string ProductId = 6;
-	ItemList ItemList = 8;
-	uint64 MonthCardOutdateTime = 7;
+	string productId = 15;
+	ItemList itemList = 8;
+	uint64 monthCardOutdateTime = 6;
+	string channelOrderNo = 2;
 }

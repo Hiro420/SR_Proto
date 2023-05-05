@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "IAELHPIAHKA.proto";
+
+message LNECDNIIHII {
+	repeated IAELHPIAHKA FJPEGHDBPLB = 3;
+	bool FBCNCANBPFI = 7;
+}

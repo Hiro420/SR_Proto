@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NAJAFPLDKOI.proto";
+
+message MJJADJMLOJI {
+	uint32 DEFEFMJHMHM = 5;
+	uint32 MKAIFLAEOPN = 11;
+	uint32 HIKAACNHGGP = 12;
+	bool APDHJHMACPA = 10;
+	uint32 FFHLKAMAHNM = 7;
+	NAJAFPLDKOI OBAJMNBGFPE = 14;
+}

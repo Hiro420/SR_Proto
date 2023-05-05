@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message HFAHPOPODMF {
+	string CIOBLPIHEKA = 1;
+	uint32 NHGGLIAFGND = 2;
+	uint32 FAGPOAHHPNG = 3;
+	uint32 DCFMAMHGPJI = 4;
+	uint32 CPOHHFCPDMO = 5;
+	uint32 KFDLGDGDKLD = 6;
+	uint32 JEJNCFAGHHB = 7;
+	uint32 NBHLEDCKDKD = 8;
+}

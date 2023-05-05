@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MECLABOMBAN.proto";
+
+message DFFHPIFHIAF {
+	MECLABOMBAN MKMMIMOEEIB = 3;
+	uint32 CECJHDEJGIP = 15;
+	uint32 PKDJGHADOIH = 2;
+}

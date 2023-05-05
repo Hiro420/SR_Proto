@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DENIGCLBGBD {
-	uint32 BOCOPEODPNM = 14;
-}

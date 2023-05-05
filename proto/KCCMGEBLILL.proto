@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message KCCMGEBLILL {
+	bool ECLCDOJDDHB = 5;
+	uint32 NFFMLNLEEIM = 14;
+	uint32 PLPKDMBMMEG = 3;
+}

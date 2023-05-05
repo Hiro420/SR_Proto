@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AGEDIMKDJJA {
+	uint64 OGDCNMLDCFG = 1;
+	uint32 JCPJKNLPIMD = 13;
+	uint32 OEMKLBKDELM = 12;
+}

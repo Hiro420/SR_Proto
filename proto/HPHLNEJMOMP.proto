@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MALFIANNJGP.proto";
-
-message HPHLNEJMOMP {
-	uint32 DEHKCBNCDPN = 9;
-	MALFIANNJGP LOBENKABFHH = 1;
-}

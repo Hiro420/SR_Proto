@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ItemCost.proto";
-
-message MPANFNCCGPC {
-	repeated ItemCost CEKPIFCAGMF = 2;
-}

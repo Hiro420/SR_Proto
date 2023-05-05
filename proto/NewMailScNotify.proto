@@ -1,5 +1,5 @@
 syntax = "proto3";
 
 message NewMailScNotify {
-	repeated uint32 MailIdList = 6;
+	repeated uint32 mailIdList = 9;
 }

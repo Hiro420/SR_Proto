@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PLOECJFNNHN.proto";
-
-message LOBBPGHIAPL {
-	repeated PLOECJFNNHN IIMNCFAFDKN = 11;
-	uint32 DEHKCBNCDPN = 8;
-}

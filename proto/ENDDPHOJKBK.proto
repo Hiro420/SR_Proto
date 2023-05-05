@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KAPFCJLGMKI.proto";
+
+message ENDDPHOJKBK {
+	repeated KAPFCJLGMKI OMLAICBJBED = 4;
+	uint32 HLMBFANOJCD = 3;
+}

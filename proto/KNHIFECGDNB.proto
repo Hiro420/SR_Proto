@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message KNHIFECGDNB {
-	uint32 LECHGIPFNNL = 5;
-	uint32 PPPMPFGAPMN = 8;
-}

@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message JFIIHPAKEOK {
+	uint32 PLDLDBGEAKO = 5;
+	uint32 CGDJDHGIHCA = 7;
+	uint32 BJNKJDJJAGK = 12;
+	int64 IMKFEHFBEBD = 4;
+	uint32 OJFHMBCGNGO = 13;
+	uint32 NOJLMELPDBB = 10;
+	uint32 HLMBFANOJCD = 9;
+	repeated uint32 FENEKPPKFHF = 6;
+}

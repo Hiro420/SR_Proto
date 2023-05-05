@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "AHBGEPBBAFC.proto";
-
-message LIPHHCBMCBO {
-	repeated AHBGEPBBAFC KGLPEPGOHHA = 3;
-}

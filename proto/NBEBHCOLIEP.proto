@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message NBEBHCOLIEP {
+	uint32 NFFMLNLEEIM = 1;
+	uint32 JNMOOJHCMGH = 2;
+	uint32 IDIFPHEMPHI = 3;
+}

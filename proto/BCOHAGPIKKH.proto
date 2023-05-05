@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OEDCHLPGMND.proto";
+import "KMPJGPPCKEF.proto";
+import "LNIGPGPMBBC.proto";
+
+message BCOHAGPIKKH {
+	LNIGPGPMBBC HKPDHGJCCHN = 5;
+	KMPJGPPCKEF IABDDHDJNKB = 9;
+	uint32 HLMBFANOJCD = 12;
+	OEDCHLPGMND PDEMMJNHAEO = 14;
+}
