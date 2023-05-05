@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PHMGMNCOBKK {
+	uint32 MBDEELHGJKM = 12;
+	uint32 LNKMPHMACLA = 13;
+}

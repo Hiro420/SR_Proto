@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OACKKOALONC {
+	repeated uint32 GLKMBENBKEM = 5;
+	uint32 DEHKCBNCDPN = 7;
+}

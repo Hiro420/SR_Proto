@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NIILIMEKOOE {
+	uint32 DEHKCBNCDPN = 7;
+}

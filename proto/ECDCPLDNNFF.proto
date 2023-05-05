@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EIPIMNIEOEL.proto";
+
+message ECDCPLDNNFF {
+	uint32 PKDEAIAINAC = 15;
+	repeated EIPIMNIEOEL KJNANHDLMHC = 11;
+}

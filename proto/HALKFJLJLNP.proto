@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message HALKFJLJLNP {
+	ItemList CELDMOAKIIM = 12;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KEOCOCHFCOG.proto";
+
+message BFALDEKNEKN {
+	uint32 DEHKCBNCDPN = 10;
+	repeated KEOCOCHFCOG PLGFDLGEFGH = 6;
+}

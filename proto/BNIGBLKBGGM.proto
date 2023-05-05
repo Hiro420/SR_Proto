@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FACADIEEKHM.proto";
+
+message BNIGBLKBGGM {
+	uint32 OLAOEFBACEG = 15;
+	FACADIEEKHM EFLHBOPCCNC = 7;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "BHBJAPFPLCO.proto";
+import "NGBMENDMBIG.proto";
+
+message CHDJLNJPGDN {
+	uint32 MKPFPIONKGB = 4;
+	uint32 DEHKCBNCDPN = 10;
+	NGBMENDMBIG BNNLHDHPGEE = 2;
+	uint32 DPNONHPAJCG = 11;
+	string ADLHAFCAGCN = 15;
+	repeated BHBJAPFPLCO AGMNALLPPMO = 9;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PKBBKMPFMLP.proto";
+
+message ECEMJNGONAN {
+	int64 LDBHGNEIKIM = 5;
+	uint32 DEHKCBNCDPN = 7;
+	repeated uint32 EGALJBKPBDL = 13;
+	bool CCLEIIJLEKB = 1;
+	PKBBKMPFMLP ADECPJDIDLE = 9;
+}

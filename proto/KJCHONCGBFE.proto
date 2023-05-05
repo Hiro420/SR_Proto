@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BPNBPBKOAKJ.proto";
+import "PunkLordBattleRecord.proto";
+
+message KJCHONCGBFE {
+	PunkLordBattleRecord EGHGHFEMJOH = 4;
+	BPNBPBKOAKJ ADECPJDIDLE = 2;
+	uint32 DLHPCIGKKFL = 15;
+	uint32 EMKMMMGIDEN = 3;
+	uint32 ECKCBBCMKJC = 9;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message MPKBAACDIAC {
+	uint32 HDNGCPGELDM = 5;
+	bool GGAFDOENAGA = 9;
+}

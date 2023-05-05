@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HCKFCEFIPBJ.proto";
+
+message HAHIMFGCMFB {
+	uint32 DEHKCBNCDPN = 4;
+	repeated HCKFCEFIPBJ FIMGNGEOHGD = 6;
+}

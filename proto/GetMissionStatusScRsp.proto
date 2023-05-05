@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ALAPGEDFOJD.proto";
+
+message GetMissionStatusScRsp {
+	repeated uint32 UnfinishedMainMissionIdList = 14;
+	repeated ALAPGEDFOJD MissionEventStatusList = 7;
+	uint32 Retcode = 11;
+	repeated ALAPGEDFOJD SubMissionStatusList = 2;
+	repeated uint32 FinishedMainMissionIdList = 8;
+}

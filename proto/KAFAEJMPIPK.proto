@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message KAFAEJMPIPK {
+	uint32 LKBBEPEDKJE = 12;
+	AvatarType CDEOFDKCDFA = 14;
+	uint32 ONNHAHIGBCP = 11;
+	uint32 MMEHONCHGBI = 7;
+	uint32 PGMJPGJLADD = 1;
+	uint32 NJGOOCBJGPN = 10;
+}

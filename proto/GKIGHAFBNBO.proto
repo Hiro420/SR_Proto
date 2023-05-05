@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "Item.proto";
+import "ItemList.proto";
+
+message GKIGHAFBNBO {
+	ItemList LIIGNOBDKEE = 12;
+	ItemList PHOIBICNCID = 8;
+	Item MNFHEFCMKLK = 9;
+	bool JAFIBHCNGMJ = 3;
+}

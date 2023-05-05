@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MissionStatus.proto";
+
+message ALAPGEDFOJD {
+	uint32 PPPMPFGAPMN = 8;
+	uint32 PGMJPGJLADD = 1;
+	MissionStatus DMMDCCJJBFL = 7;
+}

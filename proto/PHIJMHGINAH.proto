@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "HCFBMEBDAEG.proto";
+
+message PHIJMHGINAH {
+	HCFBMEBDAEG BCOEALIDHLF = 14;
+	uint32 DEHKCBNCDPN = 15;
+}

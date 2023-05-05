@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LCKHHGLIKOI.proto";
+
+message OLOKDKDDOPL {
+	repeated LCKHHGLIKOI DIBIEDCOCGI = 12;
+	uint32 DEHKCBNCDPN = 7;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KGIIDAJFBHF.proto";
+
+message MJIJCAHFHMO {
+	repeated uint32 LBGENCHCNKH = 2;
+	repeated KGIIDAJFBHF HIDKPHDAPIO = 9;
+	uint32 DEHKCBNCDPN = 5;
+	uint32 LIGBIDIACAL = 14;
+}

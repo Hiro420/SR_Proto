@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FMCOHODMBKF.proto";
+
+message JHFFDKKENKE {
+	FMCOHODMBKF PFMNBOKEDAD = 7;
+}

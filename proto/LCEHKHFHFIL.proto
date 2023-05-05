@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DNKNJAEBBGC.proto";
+import "OPPICHMGKGE.proto";
+
+message LCEHKHFHFIL {
+	repeated OPPICHMGKGE DBDHFINHOEO = 12;
+	repeated DNKNJAEBBGC PNGBPLIGIBP = 4;
+	uint32 DEHKCBNCDPN = 15;
+}

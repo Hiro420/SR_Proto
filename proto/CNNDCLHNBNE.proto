@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CNNDCLHNBNE {
+	uint32 LAABKOFKOOK = 8;
+}

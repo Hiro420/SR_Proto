@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AntiAddictScNotify {
+	string Level = 13;
+	string Msg = 15;
+	uint32 MsgType = 14;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ABCDBKHPCEM.proto";
+import "JILMMONIHEE.proto";
+
+message CBFGJPNJLCB {
+	uint32 BCHIHHPJDIA = 12;
+	uint32 DEHKCBNCDPN = 3;
+	JILMMONIHEE MIAOIJCKELG = 14;
+	ABCDBKHPCEM ANAGKCFBFKD = 15;
+}

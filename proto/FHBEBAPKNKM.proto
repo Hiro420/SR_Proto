@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "QuestStatus.proto";
+
+message FHBEBAPKNKM {
+	uint32 PGMJPGJLADD = 8;
+	int64 GHOCHGJOCFJ = 3;
+	uint32 PPPMPFGAPMN = 4;
+	QuestStatus DMMDCCJJBFL = 11;
+}

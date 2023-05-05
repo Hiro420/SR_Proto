@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EJBCMPEELMH {
+	uint32 PKDEAIAINAC = 8;
+	uint32 EKFBFLOGPMC = 12;
+}

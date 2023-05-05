@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PileItem.proto";
+
+message FEDDDIOOPJF {
+	uint32 DEHKCBNCDPN = 8;
+	repeated PileItem LFDMBKLAHGK = 11;
+}

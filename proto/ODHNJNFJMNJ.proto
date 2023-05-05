@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+import "HBNHOFLCEJK.proto";
+import "DEDLKMKLKKB.proto";
+import "CGAMEJLEJAN.proto";
+import "FMBNCLLOGPO.proto";
+import "AvatarType.proto";
+
+message ODHNJNFJMNJ {
+	AvatarType CDEOFDKCDFA = 1;
+	uint32 PGMJPGJLADD = 2;
+	uint32 PNBPPNGKPCP = 3;
+	uint32 JJLHHBNEAPH = 4;
+	uint32 FKODAIIIIGJ = 5;
+	repeated FMBNCLLOGPO JFFEJEPKCMP = 6;
+	repeated CGAMEJLEJAN IKIFHEIMFFD = 7;
+	uint32 ONNHAHIGBCP = 8;
+	uint32 MMEHONCHGBI = 9;
+	uint32 JDBHCJHNPOA = 10;
+	repeated DEDLKMKLKKB JDGKOGKJMLD = 11;
+	uint32 EKFBFLOGPMC = 12;
+	uint32 PFIFNHFLJCL = 13;
+	HBNHOFLCEJK CGAMLGGNLPA = 15;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HCFBMEBDAEG.proto";
+import "NOEACEGLLDB.proto";
+
+message CGLHJNJJGBA {
+	NOEACEGLLDB JAHMJECJEPO = 13;
+	uint32 DEHKCBNCDPN = 11;
+	HCFBMEBDAEG BCOEALIDHLF = 6;
+}

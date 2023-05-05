@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "ExtraLineupType.proto";
+import "KAFAEJMPIPK.proto";
+
+message LLNCPDNOJJL {
+	uint32 LKJACGGEKLI = 7;
+	uint32 OHIKFCKCHEF = 11;
+	string HCDIAFLKFIK = 10;
+	repeated KAFAEJMPIPK NFMBLPIJOEJ = 13;
+	uint32 FKODAIIIIGJ = 1;
+	uint32 AONNGPDNBKP = 9;
+	uint32 PMCLJFADCKI = 4;
+	bool NKDLDHCJFFA = 5;
+	ExtraLineupType KKLALCMLEGB = 3;
+}

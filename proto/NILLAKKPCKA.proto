@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message NILLAKKPCKA {
+	uint32 GJIAOKNIDEN = 5;
+}

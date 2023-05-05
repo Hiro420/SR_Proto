@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "PunkLordShareType.proto";
+
+message DLHGDIOOLCE {
+	PunkLordShareType IBMBAGDBKBN = 6;
+	uint32 OLAOEFBACEG = 8;
+	uint32 DEHKCBNCDPN = 3;
+	uint32 MMKBCGEBEOP = 7;
+}

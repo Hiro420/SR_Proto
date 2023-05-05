@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "AOHFFLIJMHJ.proto";
+
+message MMFDNPFIHMJ {
+	uint32 DEHKCBNCDPN = 1;
+	string IAICCIBPCMF = 2;
+	string EFDDBJJLAKB = 3;
+	repeated AOHFFLIJMHJ KCNAFBEAOAL = 4;
+	string EBNBGGNLLAF = 5;
+}

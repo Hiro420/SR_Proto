@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AOAMJIMGELM {
+	uint32 NBOFIHACNMN = 5;
+}

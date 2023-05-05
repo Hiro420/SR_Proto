@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "MapField<string,.proto";
+import "JNNEEMODGIB.proto";
+import "AHDKFGNANGE.proto";
+import "LCKMPLCBIMH.proto";
+
+message GHKPCAEJMAF {
+	LCKMPLCBIMH DEHKCBNCDPN = 1;
+	AHDKFGNANGE LDGPLMPIPMF = 2;
+	JNNEEMODGIB DCGBLDMPCJM = 3;
+	bytes HANDGPCDJAG = 4;
+	MapField<string, uint> = 5;
+	uint32 DLBHBPDBOFH = 6;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message OEIHJBJEDKI {
+	MPANFNCCGPC NJMPDLABFLM = 12;
+}

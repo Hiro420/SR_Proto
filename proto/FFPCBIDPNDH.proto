@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message FFPCBIDPNDH {
+	float JGAPBBEIGCK = 6;
+	uint32 ECECHDMMDKL = 10;
+	MPANFNCCGPC NJMPDLABFLM = 11;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OPPICHMGKGE.proto";
+
+message JGEIMBGOEHE {
+	repeated OPPICHMGKGE BOBGKDCEOBP = 8;
+	uint32 DEHKCBNCDPN = 5;
+	uint32 DKNLOGAOPEF = 7;
+	bool EBGBOIDKHAK = 6;
+}

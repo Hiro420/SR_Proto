@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "PunkLordBattleAvatar.proto";
+
+message PunkLordBattleRecord {
+	uint32 Uid = 1;
+	uint32 DamageHp = 2;
+	bool IsFinalHit = 3;
+	uint32 OverKillDamageHp = 4;
+	string BattleReplayKey = 5;
+	repeated PunkLordBattleAvatar AvatarList = 6;
+	uint32 AssistScore = 7;
+	uint32 DamageScore = 8;
+	uint32 FinalHitScore = 9;
+}

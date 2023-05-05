@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FCKFMNHOGEK.proto";
+import "KLPAJDKELFG.proto";
+
+message NPOMDNOHBOK {
+	KLPAJDKELFG DKHIBDDAGPI = 3;
+	FCKFMNHOGEK FGPCBIONBGC = 11;
+}

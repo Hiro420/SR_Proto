@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KGLDKNEHOAG.proto";
+import "FeatureSwitchType.proto";
+
+message FeatureSwitchInfo {
+	FeatureSwitchType Type = 1;
+	repeated KGLDKNEHOAG SwitchList = 2;
+	bool IsAllClosed = 3;
+}

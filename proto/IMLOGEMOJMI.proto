@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+message IMLOGEMOJMI {
+	uint32 OBMCOIHDOLI = 6;
+	uint32 FNOOJCKKJBD = 10;
+	bool BDOMNHOOJHP = 1;
+	bool IGEFGLPIPEN = 14;
+	uint32 MHGHJGJPKJD = 3;
+	repeated uint32 MOLFEMLCNPM = 7;
+	uint32 INENNHPAALF = 12;
+	repeated uint32 HIDNCBGFDLM = 15;
+	repeated uint32 BHABPNHGJJJ = 11;
+	uint32 ACLNBCLLONE = 9;
+}

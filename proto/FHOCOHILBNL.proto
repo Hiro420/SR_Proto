@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FHOCOHILBNL {
+	uint32 DEHKCBNCDPN = 15;
+}

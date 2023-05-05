@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "RogueHandbookBuffStatus.proto";
+
+message BFHLOGCKMHN {
+	uint32 HDAKMONHNDA = 11;
+	RogueHandbookBuffStatus DMMDCCJJBFL = 5;
+}

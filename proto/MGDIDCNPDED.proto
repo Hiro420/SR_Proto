@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MGDIDCNPDED {
+	repeated uint32 BDCEKIBGPFI = 11;
+}

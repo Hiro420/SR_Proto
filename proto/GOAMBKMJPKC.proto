@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "HNOMJODNGFA.proto";
+import "KFFBLGCGPIK.proto";
+
+message GOAMBKMJPKC {
+	repeated KFFBLGCGPIK JJMNOEOKKLB = 11;
+	repeated HNOMJODNGFA NEDKCNFPABB = 7;
+	uint32 DEHKCBNCDPN = 1;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HeroBasicType.proto";
+
+message EPHGHJKPPEB {
+	HeroBasicType KPBHFGKMBFF = 9;
+}

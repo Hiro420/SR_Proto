@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LBELHJFIGOD.proto";
+import "NILJAFMDBIF.proto";
+
+message IOPBEGNDLBA {
+	NILJAFMDBIF EFLHBOPCCNC = 7;
+	LBELHJFIGOD FDLDMOAPCAK = 12;
+}

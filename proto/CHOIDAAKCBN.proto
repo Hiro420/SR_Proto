@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message CHOIDAAKCBN {
+	uint32 LLPHJJAFKMN = 1;
+	uint32 EKFBFLOGPMC = 9;
+}

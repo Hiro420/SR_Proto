@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "LAKFJEFIDLB.proto";
+
+message JLNJKDCBGIG {
+	LAKFJEFIDLB JNCJEIDAKBH = 5;
+	ItemList LIIGNOBDKEE = 2;
+	uint32 DEHKCBNCDPN = 15;
+	uint32 BFIAJAKDDLE = 3;
+	uint32 OAABLMCNPOB = 13;
+}

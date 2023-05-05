@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ItemCost.proto";
+
+message CDKMAPDKELN {
+	uint32 IGEMMKMENLL = 14;
+	repeated ItemCost CEKPIFCAGMF = 4;
+	uint32 PNBPPNGKPCP = 1;
+}

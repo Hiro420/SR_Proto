@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HCNMAHPBHIL {
+	uint32 JAANAJODOOI = 5;
+}

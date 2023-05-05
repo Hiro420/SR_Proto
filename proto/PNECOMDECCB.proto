@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PNECOMDECCB {
+	uint32 MMEHONCHGBI = 1;
+}

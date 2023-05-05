@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message POHJIPIFCOC {
+	uint32 PIGHIIHPLCM = 10;
+	bool LPFALLHGCNC = 14;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "FeatureSwitchInfo.proto";
+
+message UpdateFeatureSwitchScNotify {
+	repeated FeatureSwitchInfo SwitchInfoList = 13;
+}

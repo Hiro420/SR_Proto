@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OEFEOGHDJIO.proto";
+
+message DBKKENIJFNH {
+	uint32 DEHKCBNCDPN = 10;
+	uint32 HBFBMBFFODB = 14;
+	uint32 ONFOIJPBGFP = 9;
+	OEFEOGHDJIO HDEEFHJCJDI = 1;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message ALLOCGOCEDA {
+	uint32 DEHKCBNCDPN = 7;
+	ItemList LFDMBKLAHGK = 6;
+}

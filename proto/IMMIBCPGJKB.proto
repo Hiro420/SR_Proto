@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message IMMIBCPGJKB {
+	uint32 DEHKCBNCDPN = 4;
+	repeated uint32 MEJKKBALDMG = 14;
+	ItemList KDCGBMDDGBL = 6;
+	uint32 LLEKKDCFIPP = 5;
+}

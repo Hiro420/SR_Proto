@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "ExtraLineupType.proto";
+import "AvatarType.proto";
+
+message PLFCJCCCKOK {
+	uint32 LKJACGGEKLI = 15;
+	bool NKDLDHCJFFA = 5;
+	uint32 OCEPGBFOMNN = 12;
+	AvatarType CDEOFDKCDFA = 7;
+	uint32 FKODAIIIIGJ = 1;
+	ExtraLineupType KKLALCMLEGB = 2;
+}

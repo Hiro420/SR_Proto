@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MCAPBIPHKDL {
+	uint32 GAJBOEFBBHN = 11;
+}

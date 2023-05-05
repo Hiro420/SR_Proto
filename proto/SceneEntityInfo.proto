@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+import "LHAPMLBGILP.proto";
+import "ILMKNGIKAAH.proto";
+import "ODKMICIGCHJ.proto";
+import "LDPLDBBEHFP.proto";
+import "OEFEOGHDJIO.proto";
+
+message SceneEntityInfo {
+	uint32 GroupId = 12;
+	uint32 InstId = 10;
+	uint32 EntityId = 5;
+	OEFEOGHDJIO Motion = 4;
+	LDPLDBBEHFP Actor = 6;
+	ODKMICIGCHJ NpcMonster = 9;
+	ILMKNGIKAAH Npc = 8;
+	LHAPMLBGILP Prop = 2;
+}

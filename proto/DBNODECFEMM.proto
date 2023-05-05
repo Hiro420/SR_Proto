@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LAKFJEFIDLB.proto";
+
+message DBNODECFEMM {
+	uint32 DEHKCBNCDPN = 12;
+	LAKFJEFIDLB JNCJEIDAKBH = 13;
+	uint32 BFIAJAKDDLE = 11;
+}

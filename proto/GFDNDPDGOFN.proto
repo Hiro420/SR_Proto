@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message GFDNDPDGOFN {
+	uint32 DEHKCBNCDPN = 14;
+}

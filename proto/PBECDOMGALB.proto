@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "DHNKHDLPNMN.proto";
+
+message PBECDOMGALB {
+	uint32 EFDAODALKEC = 4;
+	uint32 AFLGMKPHMAH = 11;
+	uint32 PNBPPNGKPCP = 13;
+	uint32 JNMJEMFKNPC = 15;
+	uint32 EIBMIGMOLOH = 5;
+	repeated DHNKHDLPNMN FELIGGIIODJ = 2;
+}

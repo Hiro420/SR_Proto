@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemCost.proto";
+
+message HJFLDLMFMGM {
+	repeated ItemCost CEKPIFCAGMF = 14;
+	uint32 OCEPGBFOMNN = 11;
+}

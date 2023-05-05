@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message TakeCityShopRewardScRsp {
+	uint32 Retcode = 8;
+	uint32 ShopId = 12;
+	ItemList Reward = 7;
+	uint32 Level = 3;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MALFIANNJGP.proto";
+
+message DIMMGKGHIPN {
+	repeated MALFIANNJGP NBNLFKJKHKO = 4;
+	uint32 DEHKCBNCDPN = 2;
+}

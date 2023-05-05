@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HeroBasicType.proto";
+
+message AODPFDHEAAG {
+	bool FIJCMGIGMAF = 14;
+	HeroBasicType BAEGKMNLIIH = 11;
+	uint32 DEHKCBNCDPN = 9;
+}

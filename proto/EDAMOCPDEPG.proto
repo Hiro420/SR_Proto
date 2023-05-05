@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message EDAMOCPDEPG {
+	MPANFNCCGPC NJMPDLABFLM = 10;
+	uint32 HDNGCPGELDM = 5;
+}

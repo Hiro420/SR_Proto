@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HCFBMEBDAEG.proto";
+import "LLNCPDNOJJL.proto";
+import "CDLODKNFKOC.proto";
+
+message LJPIHMJBHJI {
+	CDLODKNFKOC CHFDNGJJCND = 13;
+	LLNCPDNOJJL ABPEGBDDLNO = 1;
+	HCFBMEBDAEG BCOEALIDHLF = 10;
+}

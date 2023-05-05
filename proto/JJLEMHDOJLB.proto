@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "CAMGFLIKEMF.proto";
+import "ExtraLineupType.proto";
+
+message JJLEMHDOJLB {
+	uint32 LKJACGGEKLI = 8;
+	bool NKDLDHCJFFA = 11;
+	ExtraLineupType KKLALCMLEGB = 1;
+	uint32 OHIKFCKCHEF = 3;
+	repeated CAMGFLIKEMF EEMFMGGHIAG = 6;
+	uint32 FKODAIIIIGJ = 10;
+}

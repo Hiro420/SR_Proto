@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+message Item {
+	uint32 ItemId = 7;
+	uint32 Level = 15;
+	uint32 MainAffixId = 5;
+	uint32 Promotion = 3;
+	uint32 Rank = 4;
+	uint32 Num = 10;
+	uint32 UniqueId = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FHBEBAPKNKM.proto";
+
+message LEJLALJBJMO {
+	uint32 DEHKCBNCDPN = 6;
+	uint32 BGFMIHOBHJB = 14;
+	repeated FHBEBAPKNKM MPFCFGPNHJL = 8;
+}

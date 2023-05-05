@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "LLNCPDNOJJL.proto";
+import "FCKNIKGEONI.proto";
+
+message SyncLineupNotify {
+	repeated FCKNIKGEONI ReasonList = 13;
+	LLNCPDNOJJL Lineup = 15;
+}

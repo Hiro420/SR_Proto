@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "MapField<string,.proto";
+
+message PageInfo {
+	string PagePath = 1;
+	string PageName = 2;
+	string SubPagePath = 3;
+	string SubPageName = 4;
+	string SourcePath = 5;
+	string SourceName = 6;
+	MapField<string, string> = 7;
+}

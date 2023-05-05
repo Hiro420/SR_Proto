@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "TutorialGuide.proto";
+
+message UnlockTutorialGuideScRsp {
+	uint32 Retcode = 14;
+	TutorialGuide TutorialGuide = 12;
+}

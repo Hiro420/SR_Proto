@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MFGDOCMEJEP {
+	uint32 DEHKCBNCDPN = 5;
+}

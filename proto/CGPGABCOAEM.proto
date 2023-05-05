@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CGPGABCOAEM {
+	uint32 JACOEKBOMHO = 2;
+}

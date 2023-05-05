@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PJBPLCAIEBF {
+	repeated uint32 IBAKIMOLLEI = 9;
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "FMBNCLLOGPO.proto";
+import "JEIKIKEJJHA.proto";
+
+message MODMGOPBHIM {
+	uint64 LABGADBLMJH = 2;
+	repeated uint32 MLEKAJAKEJA = 15;
+	uint32 PNBPPNGKPCP = 10;
+	repeated JEIKIKEJJHA BFPDHCKHBII = 13;
+	repeated FMBNCLLOGPO JFFEJEPKCMP = 9;
+	uint32 JJLHHBNEAPH = 3;
+	uint32 EFDAODALKEC = 11;
+	uint32 OCEPGBFOMNN = 4;
+	uint32 JDBHCJHNPOA = 6;
+	uint32 HDNGCPGELDM = 8;
+}

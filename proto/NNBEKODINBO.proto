@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ADOFDALJNHF.proto";
+
+message NNBEKODINBO {
+	ADOFDALJNHF JNMJEMFKNPC = 3;
+	repeated uint32 LPNBPOMOHNJ = 15;
+	repeated string DLCKBEEFNPM = 12;
+}

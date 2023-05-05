@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NPLFPMKFPMD.proto";
+
+message PKNBLIHJKKM {
+	uint32 OAIKNHOJFOO = 1;
+	NPLFPMKFPMD GPDLGKBIIKL = 2;
+}

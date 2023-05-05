@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "AAIBPJCPOIL.proto";
+
+message LNLHNPDBEAD {
+	uint32 DEHKCBNCDPN = 4;
+	AAIBPJCPOIL BDGOOIJDGJI = 8;
+	uint64 PKEFOPHFCFB = 15;
+	uint64 FGNIIAHNCCM = 9;
+}

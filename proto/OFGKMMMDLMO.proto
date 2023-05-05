@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "MapField<string,.proto";
+
+message OFGKMMMDLMO {
+	uint32 PGMJPGJLADD = 1;
+	uint32 PNBPPNGKPCP = 2;
+	uint32 GKBKGJHDLNL = 3;
+	uint32 LMNIHEMHEBE = 4;
+	repeated uint32 JDEJJEIDDOP = 5;
+	MapField<string, float> = 6;
+}

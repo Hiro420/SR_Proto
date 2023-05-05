@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ExtraLineupType.proto";
+
+message LJAHAJBHBAF {
+	uint32 NPLOHHOCEIM = 10;
+	bool NKDLDHCJFFA = 3;
+	uint32 LKJACGGEKLI = 14;
+	uint32 FKODAIIIIGJ = 5;
+	ExtraLineupType KKLALCMLEGB = 4;
+	uint32 BAMJFGKKHBD = 7;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "POHJIPIFCOC.proto";
+
+message IKAIPCOJPEG {
+	repeated POHJIPIFCOC PLGFDLGEFGH = 9;
+	uint32 DEHKCBNCDPN = 5;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DGCEABIBIMM.proto";
+
+message KDDICHOFELF {
+	uint32 DEHKCBNCDPN = 2;
+	repeated DGCEABIBIMM LGPCCPACMOL = 6;
+}

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ALAPGEDFOJD.proto";
+
+message JEINMHHLFMM {
+	repeated ALAPGEDFOJD OBEHAIADOFE = 14;
+	repeated uint32 GMDODCNLKMO = 15;
+	repeated uint32 JFICHEOLJNC = 7;
+}

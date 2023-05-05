@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "BPGINIMBICN.proto";
+
+message IIELJFFJGLL {
+	string BOCOJKHLGEI = 9;
+	uint32 BPEOIPAAEHI = 12;
+	string DGEOAGPFHLN = 14;
+	BPGINIMBICN CDECADBKEHD = 3;
+	uint32 BCJCLELDILC = 1;
+	uint32 JAANAJODOOI = 6;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message COFLGNMLKHD {
+	uint32 PGMJPGJLADD = 1;
+	uint32 JJLHHBNEAPH = 2;
+	uint32 JDBHCJHNPOA = 3;
+	uint32 PNBPPNGKPCP = 4;
+}

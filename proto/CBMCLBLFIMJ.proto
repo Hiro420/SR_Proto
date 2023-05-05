@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AvatarType.proto";
+
+message CBMCLBLFIMJ {
+	AvatarType CDEOFDKCDFA = 6;
+	uint32 OAABLMCNPOB = 15;
+}

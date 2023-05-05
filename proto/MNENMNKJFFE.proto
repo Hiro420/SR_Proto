@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "RogueStatus.proto";
+
+message MNENMNKJFFE {
+	RogueStatus DMMDCCJJBFL = 11;
+	bool MDPCKPCKCOD = 7;
+}

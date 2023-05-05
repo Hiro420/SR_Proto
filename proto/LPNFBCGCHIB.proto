@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LPNFBCGCHIB {
+	uint32 PKECGPGDNPI = 2;
+	uint32 HFPJEFALIHH = 4;
+}

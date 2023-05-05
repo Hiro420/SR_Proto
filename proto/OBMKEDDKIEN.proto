@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+import "OEMGDJMIGGE.proto";
+
+message OBMKEDDKIEN {
+	bool JAFIBHCNGMJ = 5;
+	uint32 OCEPGBFOMNN = 4;
+	OEMGDJMIGGE JGPJKCODAEM = 12;
+	ItemList KDCGBMDDGBL = 1;
+}

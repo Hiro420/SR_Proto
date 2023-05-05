@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message JGCLLIINEAL {
+	uint64 PDHGBONEOLK = 13;
+	uint32 JAGCOPGKAEE = 12;
+	uint32 EIBMIGMOLOH = 4;
+}

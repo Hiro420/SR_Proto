@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ONGPHJBOLMN.proto";
+
+message KILPOBJCFIP {
+	ONGPHJBOLMN FIAPDFODIKE = 12;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OPPICHMGKGE.proto";
+
+message AKGNLDDGLFL {
+	OPPICHMGKGE NGFCACGEADH = 1;
+}

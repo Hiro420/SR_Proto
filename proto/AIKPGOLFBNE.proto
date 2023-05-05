@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "JHPCPDJNCFF.proto";
+import "MessageGroupStatus.proto";
+
+message AIKPGOLFBNE {
+	MessageGroupStatus DMMDCCJJBFL = 13;
+	uint32 NEJCALLIBJI = 9;
+	int64 BDFKNNFFLHD = 2;
+	repeated JHPCPDJNCFF GGCNFLCHFAD = 11;
+	uint32 PGMJPGJLADD = 10;
+}

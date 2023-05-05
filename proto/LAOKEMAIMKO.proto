@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message LAOKEMAIMKO {
+	uint32 PPAHLFGJCMN = 2;
+	uint32 JACOEKBOMHO = 14;
+}

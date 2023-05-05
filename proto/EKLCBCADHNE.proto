@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EKLCBCADHNE {
+	uint32 DEHKCBNCDPN = 2;
+}

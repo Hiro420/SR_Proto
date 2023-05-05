@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IOOFDOMOPKJ {
+	repeated uint32 KONBAIEDIFI = 2;
+}

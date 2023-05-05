@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message EEADFDEMPAF {
+	uint32 JAANAJODOOI = 11;
+}

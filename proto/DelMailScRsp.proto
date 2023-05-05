@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DelMailScRsp {
+	repeated uint32 IdList = 2;
+	uint32 Retcode = 12;
+}

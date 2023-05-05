@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PunkLordBattleAvatar {
+	uint32 AvatarId = 1;
+	uint32 AvatarLevel = 2;
+}

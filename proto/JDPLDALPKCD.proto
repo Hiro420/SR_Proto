@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LCIKOENMNNP.proto";
+import "HCMHCAPMDNO.proto";
+
+message JDPLDALPKCD {
+	uint32 DEHKCBNCDPN = 3;
+	HCMHCAPMDNO MGJPDJGPAEI = 14;
+	LCIKOENMNNP DFNDPNAIILN = 6;
+}

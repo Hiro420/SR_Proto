@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+import "ODHNJNFJMNJ.proto";
+import "AHDKFGNANGE.proto";
+import "ItemList.proto";
+
+message HJPMIMGPPOF {
+	string KIMGKGKICAL = 10;
+	string EJDHNICDIDC = 7;
+	uint32 JAANAJODOOI = 12;
+	uint32 BFLEMKLMJBK = 8;
+	uint32 DEHKCBNCDPN = 5;
+	uint32 EMHJKLHNKEA = 4;
+	bool BFCENJAGMBI = 2;
+	ItemList JLKJAMPBDGP = 14;
+	AHDKFGNANGE LDGPLMPIPMF = 3;
+	uint32 DLBHBPDBOFH = 6;
+	repeated ODHNJNFJMNJ CHOFLHKFLCG = 1;
+	uint32 KMNAINKDNLH = 13;
+	ItemList KGLGGFODMCF = 9;
+	uint32 LNBHIDGANKB = 15;
+}

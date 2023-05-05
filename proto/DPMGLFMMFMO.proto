@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "NILJAFMDBIF.proto";
+import "LBELHJFIGOD.proto";
+
+message DPMGLFMMFMO {
+	LBELHJFIGOD FDLDMOAPCAK = 12;
+	repeated LBELHJFIGOD EMBHMCMKELM = 15;
+	NILJAFMDBIF EFLHBOPCCNC = 2;
+}

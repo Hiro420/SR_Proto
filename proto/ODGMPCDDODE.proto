@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message ODGMPCDDODE {
+	ItemList KDCGBMDDGBL = 6;
+	uint32 DEHKCBNCDPN = 2;
+}

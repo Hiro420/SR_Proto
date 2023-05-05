@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AFMBNGFGPEM {
+	uint32 DEHKCBNCDPN = 7;
+	bool CGDCEAKMIKO = 10;
+}

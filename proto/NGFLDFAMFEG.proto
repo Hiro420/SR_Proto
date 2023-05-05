@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HCMHCAPMDNO.proto";
+
+message NGFLDFAMFEG {
+	HCMHCAPMDNO MGJPDJGPAEI = 8;
+}

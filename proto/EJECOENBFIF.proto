@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "NNLKBJPJJGN.proto";
+import "MPHDJFFGPIN.proto";
+
+message EJECOENBFIF {
+	repeated uint32 EMBHMCMKELM = 14;
+	repeated MPHDJFFGPIN NFMBLPIJOEJ = 15;
+	repeated NNLKBJPJJGN KJNANHDLMHC = 8;
+}

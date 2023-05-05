@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GDIOHFMODMO {
+	repeated uint32 OMPOJDOOODI = 2;
+	uint32 MHGHJGJPKJD = 10;
+}

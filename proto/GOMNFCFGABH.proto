@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MessageGroupStatus.proto";
+
+message GOMNFCFGABH {
+	int64 BDFKNNFFLHD = 11;
+	MessageGroupStatus JBGJBAIHMGM = 5;
+	uint32 HFPJEFALIHH = 14;
+}

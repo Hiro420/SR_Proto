@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "OIAECJPDPPM.proto";
+
+message ODKMICIGCHJ {
+	OIAECJPDPPM LPLOCHPPFEO = 1;
+	bool PCJIOGMBDIN = 7;
+	uint32 KMNAINKDNLH = 12;
+	uint32 EKFBFLOGPMC = 5;
+	uint32 MMKBCGEBEOP = 10;
+	bool CPAFBPJIJHL = 13;
+}

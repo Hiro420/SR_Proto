@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message HCOEHAMPLDF {
+	ItemList KDCGBMDDGBL = 15;
+}

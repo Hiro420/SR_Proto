@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message CityShopInfoScNotify {
+	uint32 Level = 10;
+	uint32 Exp = 13;
+	uint64 TakenLevelReward = 11;
+	uint32 ShopId = 3;
+}

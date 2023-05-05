@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DNPLPPJCBCH {
+	uint32 OLAOEFBACEG = 2;
+	string MFGFFCCDNFE = 5;
+}

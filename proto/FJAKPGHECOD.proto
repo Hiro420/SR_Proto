@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "BHBFJOLPJAC.proto";
+
+message FJAKPGHECOD {
+	uint32 DEHKCBNCDPN = 2;
+	BHBFJOLPJAC CCMJCPFDKLA = 5;
+}

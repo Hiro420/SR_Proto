@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "HCFBMEBDAEG.proto";
+
+message KEIFKKDOENE {
+	HCFBMEBDAEG BCOEALIDHLF = 3;
+	uint32 HDGHKDBFBNO = 6;
+	uint32 DEHKCBNCDPN = 1;
+}

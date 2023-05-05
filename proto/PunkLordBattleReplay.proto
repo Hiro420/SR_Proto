@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "EHNLDDLEJGO.proto";
+
+message PunkLordBattleReplay {
+	string BattleReplayKey = 1;
+	EHNLDDLEJGO ReplayInfo = 2;
+}

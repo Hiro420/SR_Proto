@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "EFPFMKKGKEH.proto";
+import "ExtraLineupType.proto";
+import "EFAKDEMJNIL.proto";
+
+message NOEACEGLLDB {
+	EFAKDEMJNIL DMMDCCJJBFL = 4;
+	uint32 GLGPHCCMLON = 13;
+	uint32 LLEKKDCFIPP = 10;
+	uint32 JHOKOAFDGGI = 12;
+	ExtraLineupType KKLALCMLEGB = 5;
+	repeated EFPFMKKGKEH OKBEDKCMMEJ = 9;
+}

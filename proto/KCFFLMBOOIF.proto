@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KCFFLMBOOIF {
+	uint32 BPMMBANMBCC = 3;
+}

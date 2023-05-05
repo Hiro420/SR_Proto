@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "BFFPPCIHKPO.proto";
+
+message NOMDFNMFCOG {
+	BFFPPCIHKPO HJGBELACCPJ = 11;
+}

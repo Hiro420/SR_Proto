@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "SceneEntityInfo.proto";
+
+message JAAAEFGAFFF {
+	repeated SceneEntityInfo OMJAJIPJHCK = 15;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message POLEADNPFAK {
+	uint32 PJIDHIFAIBL = 15;
+}

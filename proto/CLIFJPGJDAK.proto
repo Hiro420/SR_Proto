@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message CLIFJPGJDAK {
+	MPANFNCCGPC KPMAHLHJPJA = 9;
+	uint32 OCAJOABJHKP = 1;
+	uint32 HKBGJLIHHPN = 5;
+}

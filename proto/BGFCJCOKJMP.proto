@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "MPANFNCCGPC.proto";
+
+message BGFCJCOKJMP {
+	MPANFNCCGPC NJMPDLABFLM = 4;
+	uint32 HDNGCPGELDM = 8;
+}

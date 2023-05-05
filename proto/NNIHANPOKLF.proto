@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message NNIHANPOKLF {
+	uint32 HOPNKHLFNNG = 10;
+	uint32 DJMPPCDBKOC = 8;
+}

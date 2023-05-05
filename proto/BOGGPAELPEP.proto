@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+import "DIDDMMAKIMJ.proto";
+import "GCJJDMGALCH.proto";
+import "LGPNMEICFGF.proto";
+import "ODHNJNFJMNJ.proto";
+import "OFGKMMMDLMO.proto";
+import "DBJMKOPCJCK.proto";
+
+message BOGGPAELPEP {
+	uint32 LNBHIDGANKB = 13;
+	uint32 EKFBFLOGPMC = 5;
+	uint32 JAANAJODOOI = 9;
+	repeated DBJMKOPCJCK KAKKBALMJEH = 8;
+	repeated OFGKMMMDLMO KJNANHDLMHC = 1;
+	repeated ODHNJNFJMNJ CHOFLHKFLCG = 7;
+	repeated uint32 CBNGCLOGKAK = 3;
+	LGPNMEICFGF GEANEEAKEKK = 11;
+	uint32 CAEDOLGDJCG = 12;
+	uint32 FNLLKAJEAJK = 4;
+	repeated GCJJDMGALCH PILNMFJEGKM = 14;
+	repeated DIDDMMAKIMJ OEBBCHMIJEB = 2;
+}

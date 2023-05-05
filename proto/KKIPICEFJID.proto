@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NODDIDFONGF.proto";
+
+message KKIPICEFJID {
+	uint32 DEHKCBNCDPN = 7;
+	uint32 LLPHJJAFKMN = 11;
+	repeated NODDIDFONGF DBIAHIIOAPE = 12;
+	uint32 EKFBFLOGPMC = 13;
+	bool CNPPEOOFBAC = 6;
+}

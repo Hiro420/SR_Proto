@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ENENCHOMDHG.proto";
+import "GEIKHBMILMB.proto";
+
+message CLBLHMNPNAH {
+	uint32 DJNCNKKOEDE = 6;
+	GEIKHBMILMB CNINFHACJIP = 5;
+	uint32 HIHFONLCPLC = 1;
+	string FHDDGMHFNFE = 2;
+	ENENCHOMDHG FHOPMPMIKPB = 15;
+}

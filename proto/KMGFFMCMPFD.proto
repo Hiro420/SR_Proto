@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message KMGFFMCMPFD {
+	uint32 DEHKCBNCDPN = 12;
+}

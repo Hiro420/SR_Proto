@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PKBBKMPFMLP.proto";
+
+message FKCGLPABGOF {
+	repeated PKBBKMPFMLP IKLKMKPBEJD = 11;
+	uint32 DEHKCBNCDPN = 7;
+}

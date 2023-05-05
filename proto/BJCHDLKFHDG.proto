@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "HeroBasicType.proto";
+import "DOHMPHPBMEA.proto";
+import "Gender.proto";
+
+message BJCHDLKFHDG {
+	bool JNACNCJDIML = 13;
+	Gender ABMGMDDDBNJ = 12;
+	uint32 DEHKCBNCDPN = 5;
+	bool PEBJCKCMAFK = 6;
+	repeated DOHMPHPBMEA OPHGFGBGEMC = 4;
+	HeroBasicType BAEGKMNLIIH = 11;
+}

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "FFAPIOGEGNC.proto";
+import "CKPKKFHMJLB.proto";
+
+message HNOMJODNGFA {
+	bool PJFCBEKIMEA = 1;
+	uint32 IGGOKAKGBKL = 12;
+	CKPKKFHMJLB ENDKHHGFFEP = 13;
+	int64 KPGPMAIPANF = 2;
+	FFAPIOGEGNC DOEABPEBPCO = 11;
+	string BCMJNMMKGOO = 3;
+	string ADLHAFCAGCN = 8;
+	uint32 OLAOEFBACEG = 5;
+	uint32 PNBPPNGKPCP = 14;
+}

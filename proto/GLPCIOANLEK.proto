@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "LBELHJFIGOD.proto";
+
+message GLPCIOANLEK {
+	uint32 HGDBHLEMJCK = 12;
+	repeated LBELHJFIGOD EMBHMCMKELM = 11;
+	bool NHJDKFCBJCA = 6;
+	uint32 DOMGAPPAJHK = 4;
+}

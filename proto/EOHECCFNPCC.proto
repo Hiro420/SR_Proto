@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message EOHECCFNPCC {
+	uint32 NOAHEGOEGCG = 12;
+	uint32 PDECGPFKPED = 13;
+}

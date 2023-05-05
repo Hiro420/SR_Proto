@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LCLBCHKIDOO {
+	uint32 HCJJBCMBHHD = 10;
+}

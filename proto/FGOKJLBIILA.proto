@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "EJBHMNPFFCD.proto";
+
+message FGOKJLBIILA {
+	EJBHMNPFFCD NGHNKKCJCHP = 8;
+}

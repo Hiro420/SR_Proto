@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IBEMHENEALJ.proto";
+
+message IEJMABBMELH {
+	uint32 DEHKCBNCDPN = 8;
+	IBEMHENEALJ ANAGKCFBFKD = 6;
+	uint32 LAABKOFKOOK = 1;
+}

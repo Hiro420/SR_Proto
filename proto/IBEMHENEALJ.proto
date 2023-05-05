@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KCOHEJBAPMI.proto";
+import "ItemList.proto";
+
+message IBEMHENEALJ {
+	uint32 LAABKOFKOOK = 1;
+	ItemList BKJEOLBGMCM = 4;
+	KCOHEJBAPMI IIJMIFBAJPG = 3;
+}

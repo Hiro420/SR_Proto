@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ALAPGEDFOJD.proto";
+
+message COOKANIBGMG {
+	uint32 DEHKCBNCDPN = 8;
+	ALAPGEDFOJD FKPLFIFDNKH = 5;
+}

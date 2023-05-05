@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "EJBHMNPFFCD.proto";
+
+message AJHEGBEBMNI {
+	repeated uint32 FOFBAOBKCAN = 8;
+	repeated EJBHMNPFFCD AANEPEFMPBN = 15;
+	uint32 BKFMLAHDEGP = 4;
+	uint32 DEHKCBNCDPN = 9;
+}

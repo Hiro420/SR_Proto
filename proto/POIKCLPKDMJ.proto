@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message POIKCLPKDMJ {
+	uint32 OAABLMCNPOB = 3;
+	uint32 DEHKCBNCDPN = 15;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PJGKDEJKPLM.proto";
+
+message GetRogueHandbookDataScRsp {
+	PJGKDEJKPLM HandbookInfo = 12;
+	uint32 Retcode = 4;
+}

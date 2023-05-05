@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message OPPICHMGKGE {
+	uint32 OLAOEFBACEG = 1;
+	uint32 MMKBCGEBEOP = 2;
+}

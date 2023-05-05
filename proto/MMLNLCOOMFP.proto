@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message MMLNLCOOMFP {
+	uint32 NHEGHMOEAKE = 8;
+}

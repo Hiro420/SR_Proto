@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "KFMNJLIONDG.proto";
+
+message NDLADPLOOGP {
+	uint32 DEHKCBNCDPN = 6;
+	repeated KFMNJLIONDG KEMCBFJOMIC = 7;
+	string HHMHPNOLOJD = 2;
+	uint32 PNIBLGOODPF = 3;
+}

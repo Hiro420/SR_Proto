@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JILMMONIHEE.proto";
+
+message LAJLPOPALFA {
+	repeated JILMMONIHEE KIJMIJGBCDL = 14;
+	uint32 DEHKCBNCDPN = 9;
+}

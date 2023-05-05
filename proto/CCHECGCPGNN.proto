@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CCHECGCPGNN {
+	repeated uint32 PLLIGOBDBDN = 6;
+}
