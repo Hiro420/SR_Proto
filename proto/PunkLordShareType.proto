@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum PunkLordShareType {
+    PunkLordShareType_None = 0;
+    Friend = 1;
+    PunkLordShareType_All = 2;
+}

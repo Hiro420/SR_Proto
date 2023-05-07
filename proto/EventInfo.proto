@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-import "MapField<string,.proto";
 import "ActionType.proto";
 
 message EventInfo {
@@ -10,5 +9,5 @@ message EventInfo {
 	string ModuleId = 4;
 	string ModuleName = 5;
 	string Index = 6;
-	MapField<string, string> = 7;
+	map<string, string> ExtraInfo = 7;
 }

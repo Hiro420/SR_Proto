@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+enum BattleModuleType {
+    BattleModuleMaze = 0;
+    BattleModuleChallenge = 1;
+    BattleModuleCocoon = 2;
+    BattleModuleRogue = 3;
+    BattleModuleChallengeActivity = 4;
+    BattleModuleTrialLevel = 5;
+}

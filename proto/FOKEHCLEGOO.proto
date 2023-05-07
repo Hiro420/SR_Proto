@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum FOKEHCLEGOO {
+    FOKEHCLEGOO_None = 0;
+    FOKEHCLEGOO_Doing = 1;
+    FOKEHCLEGOO_Finish = 2;
+}

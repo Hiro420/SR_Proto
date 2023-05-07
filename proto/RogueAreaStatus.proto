@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum RogueAreaStatus {
+    RogueAreaStatus_Lock = 0;
+    RogueAreaStatus_Unlock = 1;
+    FirstPass = 2;
+    RogueAreaStatus_Close = 3;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum TutorialStatus {
+    TutorialNone = 0;
+    TutorialUnlock = 1;
+    TutorialFinish = 2;
+}

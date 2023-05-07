@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+enum PMDNOFPFNBB {
+    PMDNOFPFNBB_Editor = 0;
+    Ios = 1;
+    PMDNOFPFNBB_Android = 2;
+    Pc = 3;
+    Web = 4;
+    Wap = 5;
+    Ps4 = 6;
+    Nintendo = 7;
+    CloudAndroid = 8;
+    CloudPc = 9;
+    CloudIos = 10;
+    Ps5 = 11;
+    Mac = 12;
+    CloudMac = 13;
+}

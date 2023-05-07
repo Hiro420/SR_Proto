@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum OIPBABEANKP {
+    OIPBABEANKP_Lock = 0;
+    OIPBABEANKP_Unlock = 1;
+    OIPBABEANKP_Enable = 2;
+}

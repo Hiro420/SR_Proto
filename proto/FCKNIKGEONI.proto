@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum FCKNIKGEONI {
+    SyncReasonNone = 0;
+    SyncReasonMpAdd = 1;
+    SyncReasonMpAddPropHit = 2;
+    SyncReasonHpAdd = 3;
+    SyncReasonHpAddPropHit = 4;
+}

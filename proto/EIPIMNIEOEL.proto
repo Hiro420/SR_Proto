@@ -1,7 +1,5 @@
 syntax = "proto3";
 
-import "MapField<string,.proto";
-
 message EIPIMNIEOEL {
 	uint32 OCAJOABJHKP = 7;
 	float AIKILIJDNLB = 14;
@@ -9,5 +7,5 @@ message EIPIMNIEOEL {
 	uint32 ECECHDMMDKL = 9;
 	uint32 PNBPPNGKPCP = 11;
 	uint64 BCKAPPJFEFE = 5;
-	MapField<string, float> = 12;
+	map<string, float> BPBDKAGDBDN = 12;
 }

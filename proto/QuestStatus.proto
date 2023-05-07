@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum QuestStatus {
+    QuestNone = 0;
+    QuestDoing = 1;
+    QuestFinish = 2;
+    QuestClose = 3;
+    QuestDelete = 4;
+}

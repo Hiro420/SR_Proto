@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum RaidStatus {
+    RaidStatus_None = 0;
+    Doing = 1;
+    Finish = 2;
+    RaidStatus_Failed = 3;
+}

@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+enum FeatureSwitchType {
+    FeatureSwitchNone = 0;
+    FeatureSwitchShop = 1;
+    FeatureSwitchLineupName = 2;
+    FeatureSwitchRechargeShop = 3;
+    FeatureSwitchNickname = 4;
+    FeatureSwitchSignature = 5;
+    FeatureSwitchBattlepass = 6;
+    FeatureSwitchPunkLord = 7;
+    FeatureSwitchMonthcardDaily = 8;
+    FeatureSwitchPictureShare = 9;
+    FeatureSwitchRogue = 10;
+    FeatureSwitchChallenge = 11;
+    FeatureSwitchCocoon = 12;
+    FeatureSwitchRaid = 13;
+    FeatureSwitchMazePlaneEvent = 14;
+    FeatureSwitchActivityPanel = 15;
+    FeatureSwitchMailbox = 16;
+    FeatureSwitchQuest = 17;
+    FeatureSwitchGacha = 18;
+    FeatureSwitchChat = 19;
+    FeatureSwitchModifyFriendAlias = 20;
+    FeatureSwitchUseItem = 21;
+    FeatureSwitchActivitySchedule = 22;
+    FeatureSwitchFarmElement = 23;
+    FeatureSwitchAchievementLevel = 24;
+    FeatureSwitchDailyActiveLevel = 25;
+    FeatureSwitchFirstSetNickname = 27;
+}

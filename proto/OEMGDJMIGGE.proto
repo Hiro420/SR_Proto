@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum OEMGDJMIGGE {
+    OEMGDJMIGGE_None = 0;
+    OEMGDJMIGGE_Gacha = 1;
+    Rogue = 2;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum KFKACGNNFCC {
+    KFKACGNNFCC_None = 0;
+    AllDie = 1;
+    TurnLimit = 2;
+}

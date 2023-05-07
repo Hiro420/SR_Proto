@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "MapField<string,.proto";
+import "OFGJMKJIFOH.proto";
 
 message BMFMACGFBFL {
 	bool FALELAKDNFJ = 1;
-	MapField<string, OFGJMKJIFOH> = 2;
+	map<string, OFGJMKJIFOH> BNDIOJBEHAE = 2;
 	bytes LGLGPAIKDLL = 3;
 }

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum BEBPLGFCKJA {
+    RogueDialogueResultSucc = 0;
+    RogueDialogueResultFail = 1;
+}

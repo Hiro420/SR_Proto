@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum AvatarType {
+    AvatarType_None = 0;
+    AvatarTrialType = 1;
+    AvatarLimitType = 2;
+    AvatarFormalType = 3;
+    AvatarAssistType = 4;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum GEIKHBMILMB {
+    GEIKHBMILMB_None = 0;
+    GEIKHBMILMB_Private = 1;
+    GEIKHBMILMB_Group = 2;
+}

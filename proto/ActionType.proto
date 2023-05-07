@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+enum ActionType {
+    Click = 0;
+    Impression = 1;
+    Pageview = 2;
+    Pagehide = 3;
+    ActionType_Refresh = 4;
+    Loadmore = 5;
+}

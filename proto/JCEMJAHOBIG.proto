@@ -1,7 +1,6 @@
 syntax = "proto3";
 
 import "AHDKFGNANGE.proto";
-import "MapField<string,.proto";
 import "GDIADDHKKAL.proto";
 import "JNNEEMODGIB.proto";
 
@@ -15,7 +14,7 @@ message JCEMJAHOBIG {
 	uint32 MNKEDEKEBHG = 9;
 	bytes LOFKDMBIHDF = 6;
 	repeated GDIADDHKKAL BFPCCJDHKLH = 15;
-	MapField<string, uint> = 8;
+	map<string, uint32> MEOPEADMJJO = 8;
 	bool OAJJANMHJCH = 12;
 	AHDKFGNANGE LDGPLMPIPMF = 5;
 	bool GCIHJHBBLBJ = 1;

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum LCKMPLCBIMH {
+    BattleCheckResultSucc = 0;
+    BattleCheckResultFail = 1;
+    BattleCheckResultPass = 2;
+}

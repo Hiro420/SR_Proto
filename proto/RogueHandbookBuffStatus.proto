@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum RogueHandbookBuffStatus {
+    RogueHandbookBuffStatus_Lock = 0;
+    RogueHandbookBuffStatus_Unlock = 1;
+    Meet = 2;
+    Get = 3;
+}

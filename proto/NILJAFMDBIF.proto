@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+enum NILJAFMDBIF {
+    NILJAFMDBIF_None = 0;
+    NILJAFMDBIF_Select = 1;
+    NILJAFMDBIF_Dialogue = 2;
+    NILJAFMDBIF_Bonus = 3;
+    Use = 4;
+    NILJAFMDBIF_Reset = 5;
+    NILJAFMDBIF_Replace = 6;
+    Trade = 7;
+    NILJAFMDBIF_Get = 8;
+}

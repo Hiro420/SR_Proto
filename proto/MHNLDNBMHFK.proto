@@ -1,10 +1,9 @@
 syntax = "proto3";
 
-import "MapField<uint,.proto";
 import "FightActivityGroup.proto";
 
 message MHNLDNBMHFK {
 	repeated FightActivityGroup PNONHNDFPDB = 2;
-	MapField<uint, uint> = 15;
+	map<uint32, uint32> LEHBKBNBGFP = 15;
 	uint32 DEHKCBNCDPN = 6;
 }

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum RogueStatus {
+    RogueStatus_None = 0;
+    RogueStatus_Doing = 1;
+    RogueStatus_Pending = 2;
+    WaitEnterAeonRoom = 3;
+    RogueStatus_Finish = 4;
+}

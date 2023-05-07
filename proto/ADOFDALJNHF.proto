@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum ADOFDALJNHF {
+    ADOFDALJNHF_None = 0;
+    Recycle = 1;
+    Recharge = 2;
+}

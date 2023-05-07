@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum MessageGroupStatus {
+    MessageGroupNone = 0;
+    MessageGroupDoing = 1;
+    MessageGroupFinish = 2;
+    MessageGroupFrozen = 3;
+}
