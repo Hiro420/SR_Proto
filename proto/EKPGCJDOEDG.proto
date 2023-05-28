@@ -1,7 +1,9 @@
 syntax = "proto3";
 
-import "object.proto";
+import "BFPHFGHENMM.proto";
 
 message EKPGCJDOEDG {
-	object MBMIBCGHPFN = 10;
+  	oneof MKCIPHKENMC {
+    	BFPHFGHENMM BNOOLNJFJMN = 10;
+  	}
 }

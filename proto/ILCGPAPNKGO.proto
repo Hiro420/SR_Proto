@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "IJDFHMLLNJH.proto";
+import "MotionInfo.proto";
 
 message ILCGPAPNKGO {
-	IJDFHMLLNJH FPPPKNIKOLJ = 7;
+	MotionInfo FPPPKNIKOLJ = 7;
 	uint32 NHGPAMANEFG = 11;
 	uint32 IKEFBLNENNG = 10;
 	uint32 EDBFOMPKMCK = 14;

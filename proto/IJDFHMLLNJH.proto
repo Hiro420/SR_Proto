@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "NOANCEFOJNP.proto";
 
 message IJDFHMLLNJH {
-	NOANCEFOJNP MCAIINLMJAN = 12;
-	NOANCEFOJNP GEFDFLNGOOH = 1;
+  NOANCEFOJNP GFEBFLNICAE = 12;
+  NOANCEFOJNP FFNALDILCBM = 1;
 }

@@ -1,7 +1,11 @@
 syntax = "proto3";
 
-import "object.proto";
+import "PileItem.proto";
 
 message ItemCost {
-	object item = 7;
+  	oneof item_case {
+    	PileItem pile_item = 7;
+    	uint32 equipment_unique_id = 8;
+    	uint32 relic_unique_id = 3;
+  	}
 }

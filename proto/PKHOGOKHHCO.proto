@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message PKHOGOKHHCO {
 	uint32 MPNHAPIHOAL = 1;
@@ -8,5 +8,5 @@ message PKHOGOKHHCO {
 	bool MKMFMEHGHLP = 11;
 	uint32 CECJHDEJGIP = 2;
 	uint32 HIKAACNHGGP = 6;
-	MECLABOMBAN MKMMIMOEEIB = 13;
+	AvatarType MKMMIMOEEIB = 13;
 }

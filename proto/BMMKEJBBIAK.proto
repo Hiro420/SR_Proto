@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "IJDFHMLLNJH.proto";
+import "MotionInfo.proto";
 
 message BMMKEJBBIAK {
-	IJDFHMLLNJH ENGFCBCANGI = 13;
+	MotionInfo ENGFCBCANGI = 13;
 	bool ECIMBCPAICG = 11;
 }

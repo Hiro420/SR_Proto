@@ -3,6 +3,6 @@ syntax = "proto3";
 import "KAMJDNAEJNA.proto";
 
 message DBKCDEOANKE {
-	KAMJDNAEJNA GEFDFLNGOOH = 2;
+	KAMJDNAEJNA rot = 2;
 	uint32 JLKEFNFLPOA = 11;
 }

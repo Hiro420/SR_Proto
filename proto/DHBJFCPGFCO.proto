@@ -1,8 +1,8 @@
 syntax = "proto3";
 
-import "NOANCEFOJNP.proto";
+import "Vector.proto";
 
 message DHBJFCPGFCO {
-	NOANCEFOJNP MPNJMLCMPPE = 14;
+	Vector MPNJMLCMPPE = 14;
 	uint32 ADJBJMNCGGF = 11;
 }

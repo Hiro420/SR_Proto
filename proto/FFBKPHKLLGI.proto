@@ -1,11 +1,11 @@
 syntax = "proto3";
 
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message FFBKPHKLLGI {
 	uint32 OGDHMJPAENE = 14;
 	uint32 AILIJHHBLIC = 1;
 	uint32 GJAPOMAMBHO = 3;
-	MECLABOMBAN LLMFELOLJJC = 7;
+	AvatarType LLMFELOLJJC = 7;
 	uint32 OAANECNLAJA = 11;
 }

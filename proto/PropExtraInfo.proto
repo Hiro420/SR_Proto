@@ -1,7 +1,11 @@
 syntax = "proto3";
 
-import "object.proto";
+import "HGFEPKNOJLI.proto";
+import "PropAeonInfo.proto";
 
 message PropExtraInfo {
-	object info = 14;
+  	oneof info_case {
+    	HGFEPKNOJLI rogue_info = 14;
+    	PropAeonInfo aeon_info = 4;
+  	}
 }

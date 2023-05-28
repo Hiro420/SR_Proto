@@ -4,10 +4,10 @@ import "ECGGBAAECGB.proto";
 import "KPAFFIILPOO.proto";
 import "CEGGGIOENPG.proto";
 import "IMNMDCFIJNB.proto";
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message DNMCDBMEIHO {
-	MECLABOMBAN MKMMIMOEEIB = 1;
+	AvatarType MKMMIMOEEIB = 1;
 	uint32 CECJHDEJGIP = 2;
 	uint32 NHGGLIAFGND = 3;
 	uint32 DECHMKOKCPB = 4;

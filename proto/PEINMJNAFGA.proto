@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "IJDFHMLLNJH.proto";
+import "MotionInfo.proto";
 
 message PEINMJNAFGA {
 	uint32 INBMIIMBHJL = 12;
-	IJDFHMLLNJH ENGFCBCANGI = 11;
+	MotionInfo ENGFCBCANGI = 11;
 	uint32 MPNHAPIHOAL = 2;
 }

@@ -1,12 +1,20 @@
 syntax = "proto3";
 
-import "object.proto";
-import "IJDFHMLLNJH.proto";
+import "SceneActorInfo.proto";
+import "SceneNpcMonsterInfo.proto";
+import "SceneNpcInfo.proto";
+import "ScenePropInfo.proto";
+import "MotionInfo.proto";
 
 message SceneEntityInfo {
 	uint32 groupId = 9;
 	uint32 entityId = 15;
 	uint32 instId = 13;
-	IJDFHMLLNJH motion = 5;
-	object entity = 7;
+	MotionInfo motion = 5;
+	oneof entity {
+        SceneActorInfo actor = 7; //LDPLDBBEHFP
+        SceneNpcMonsterInfo npc_monster = 4;
+        SceneNpcInfo npc = 11;
+        ScenePropInfo prop = 3;
+    }
 }

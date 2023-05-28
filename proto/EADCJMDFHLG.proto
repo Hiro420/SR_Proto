@@ -1,8 +1,11 @@
 syntax = "proto3";
 
-import "object.proto";
+import "FHMNLONCEHB.proto";
 
 message EADCJMDFHLG {
-	uint32 GIEDBINHPKG = 11;
-	object MBMIBCGHPFN = 12;
+  	oneof MKCIPHKENMC {
+    	FHMNLONCEHB MJDNEFMLLIJ = 12;
+    	uint32 CGLCCAHMFJK = 1;
+  	}
+  	uint32 GMNAMNIJIPI = 11;
 }

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message SceneNpcMonsterInfo {
+    OIAECJPDPPM JABJIIBKBDH = 1;
+    bool FIFJBEBCLPA = 7;
+    uint32 DIGLECHOJOA = 12;
+    uint MLCFMHNDPHI = 5;
+    uint EFFOOEGOKAN = 10;
+    bool KBPLJOADPIO = 13;
+}

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 import "NAJAFPLDKOI.proto";
 
 message HLDJPNAOPCH {
@@ -8,6 +8,6 @@ message HLDJPNAOPCH {
 	uint32 DEFEFMJHMHM = 15;
 	uint32 OGDHMJPAENE = 11;
 	NAJAFPLDKOI OBAJMNBGFPE = 1;
-	MECLABOMBAN MKMMIMOEEIB = 5;
+	AvatarType MKMMIMOEEIB = 5;
 	bool APDHJHMACPA = 12;
 }

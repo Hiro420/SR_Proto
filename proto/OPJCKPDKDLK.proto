@@ -1,10 +1,12 @@
 syntax = "proto3";
 
-import "object.proto";
 import "GENGBLBFDNO.proto";
+import "ItemList.proto";
 
 message OPJCKPDKDLK {
-	GENGBLBFDNO JKJMMFNNOLO = 1;
-	repeated uint32 GOEMEJFHDPC = 5;
-	object ICABBCMPEFE = 8;
+  	oneof PIPGGMAGNLM {
+    	ItemList KAMFPECFDKP = 8;
+  	}
+  	GENGBLBFDNO EOPCGGGEEPP = 1;
+  	repeated uint32 PDFPPFCDGHC = 5;
 }

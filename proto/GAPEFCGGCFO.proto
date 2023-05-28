@@ -8,10 +8,10 @@ import "PMBIEDNPHKE.proto";
 import "JBKKIONKHJP.proto";
 import "IMNMDCFIJNB.proto";
 import "EPDAHKEKGEG.proto";
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message GAPEFCGGCFO {
-	MECLABOMBAN MKMMIMOEEIB = 1;
+	AvatarType MKMMIMOEEIB = 1;
 	uint32 CECJHDEJGIP = 2;
 	uint32 JGCIOPJFJJK = 3;
 	uint32 JNCDBPMDIDK = 4;

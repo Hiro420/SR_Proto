@@ -1,7 +1,13 @@
 syntax = "proto3";
 
-import "object.proto";
+import "CDGDBKEIAFE.proto";
+import "KIFGBNCEKDJ.proto";
+import "KDHHNGLNDJO.proto";
 
 message MFNNCHEIBPJ {
-	object CGJPFMONGEC = 2;
+  	oneof MOFICFHEGCK {
+    	CDGDBKEIAFE NCILHOAAIAM = 2;
+    	KIFGBNCEKDJ MJMCJMECBAL = 12;
+    	KDHHNGLNDJO KOCEOEMBAKC = 5;
+  	}
 }

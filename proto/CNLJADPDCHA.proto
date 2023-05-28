@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message CNLJADPDCHA {
-	MECLABOMBAN MKMMIMOEEIB = 9;
+	AvatarType MKMMIMOEEIB = 9;
 	uint32 KPFHDAKDOFG = 1;
 	uint32 PLPKDMBMMEG = 11;
 	uint32 OGDHMJPAENE = 10;

@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "MECLABOMBAN.proto";
+import "AvatarType.proto";
 
 message MPNHLOBNMED {
-	MECLABOMBAN MKMMIMOEEIB = 13;
+	AvatarType MKMMIMOEEIB = 13;
 	uint32 KHJLCBHBJBB = 7;
 	uint32 CECJHDEJGIP = 10;
 }

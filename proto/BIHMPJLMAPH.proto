@@ -1,8 +1,12 @@
 syntax = "proto3";
 
-import "object.proto";
+import "ItemList.proto";
+import "PGIBLAGIKEE.proto";
 
 message BIHMPJLMAPH {
-	uint32 GGCJOOFBNMM = 3;
-	object ICABBCMPEFE = 2;
+  	oneof PIPGGMAGNLM {
+    	ItemList KAMFPECFDKP = 2;
+    	PGIBLAGIKEE DFKJBPJOAFF = 11;
+  	}
+  	uint32 GOCJOEEGPJI = 3;
 }
