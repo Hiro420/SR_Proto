@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message AAIBPJCPOIL {
-	uint32 LBBOHBIPFHI = 1;
-	int64 KIOIBCLCPKO = 2;
-	bytes NBGNDOKFDFC = 3;
-}

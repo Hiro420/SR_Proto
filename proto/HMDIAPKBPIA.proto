@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum HMDIAPKBPIA {
-    TagNone = 0;
-    TagHideNpcMonster = 1;
-}

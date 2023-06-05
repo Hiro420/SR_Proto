@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum FCBMMBHLLKI {
+  FCBMMBHLLKI_E_I_B_L_M_M_P_I_K_J_P = 0;
+  FCBMMBHLLKI_F_H_O_B_I_K_H_C_J_M_C = 1;
+  FCBMMBHLLKI_E_O_P_P_F_P_E_E_D_I_G = 2;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message DPOECIHCLEC {
+  uint32 JAMBOCIOPJK = 9;
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CCLONIKJPCN {
+  uint32 BNNOMIBDHAA = 4;
+}

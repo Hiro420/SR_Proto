@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "DGKKCFBNGDJ.proto";
+
+message CDMOANCPNOJ {
+  repeated DGKKCFBNGDJ KLOMJJEFGCN = 12;
+  repeated uint32 HGAPMDNABBM = 4;
+  uint32 AMKKEBHPOJG = 1;
+  uint32 BNNOMIBDHAA = 14;
+}

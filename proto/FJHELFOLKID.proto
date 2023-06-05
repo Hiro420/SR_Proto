@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message FJHELFOLKID {
+  uint32 BNNOMIBDHAA = 7;
+  bool CMHGCBCBAFB = 3;
+}

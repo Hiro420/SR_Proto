@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum MissionStatus {
-    MissionNone = 0;
-    MissionDoing = 1;
-    MissionFinish = 2;
-    MissionPrepared = 3;
-}

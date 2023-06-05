@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "PGGKOAOCNHI.proto";
+
+message AJPGDFNMBOI {
+  string HBLANHKJDKI = 3;
+  bool BNIFKEECGHC = 14;
+  repeated PGGKOAOCNHI ECBBICPCELM = 4;
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+message DPEIPNNALNM {
+  uint32 PJPLHFKBELE = 1;
+  uint32 KOLFLOALDDB = 2;
+  uint32 CIIDAAFNFPA = 3;
+  uint32 MAFBJHOIAJA = 4;
+  uint32 PCIALFFFLME = 5;
+  uint32 FNEDPOILEMH = 6;
+  uint32 GJBBOLDLJIE = 7;
+  uint32 JEMCFGELLEJ = 8;
+  uint32 GDHMBFHECJC = 9;
+  uint32 KDDGBBPHEIO = 10;
+  uint32 AHBINLOAKIO = 11;
+  uint32 ANGPNADEEDN = 12;
+  uint32 INPACMMAHNB = 13;
+}

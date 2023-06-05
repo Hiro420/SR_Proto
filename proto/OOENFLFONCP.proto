@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "ENAMPBJAFAA.proto";
+
+message OOENFLFONCP {
+  uint32 JAMBOCIOPJK = 1;
+  uint32 KDAMDKEMLPK = 2;
+  uint32 NMAEHMPCOFB = 3;
+  uint32 LAGLJPPCFPC = 4;
+  int64 EJGKEFEKKGD = 5;
+  uint32 NJAAOODAKFI = 6;
+  uint32 PPBGDAFHCOA = 7;
+  ENAMPBJAFAA OLDDKLOJLBP = 8;
+  bool ENGBMJLJOJO = 9;
+}

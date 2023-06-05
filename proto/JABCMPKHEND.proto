@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JABCMPKHEND {
+  uint32 HKOBMHBKEDM = 8;
+  uint32 GBDHKMEMJMC = 1;
+}

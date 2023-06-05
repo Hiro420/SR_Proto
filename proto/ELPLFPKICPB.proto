@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message ELPLFPKICPB {
-	uint32 DEHKCBNCDPN = 6;
-}

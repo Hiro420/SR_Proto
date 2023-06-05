@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "PEDBMLDHEND.proto";
+
+message IIPNOLIJJNG {
+  PEDBMLDHEND GALICJLOBAL = 11;
+}

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "PNJDDAKCIKI.proto";
+import "KNELDFJIMJL.proto";
+
+message KNAAJCOCBNP {
+  PNJDDAKCIKI JJKLFPEFALN = 3;
+  KNELDFJIMJL JDGDBDHFCGP = 8;
+  enum PNJDDAKCIKI {
+    PNJDDAKCIKI_L_N_B_I_E_E_O_F_I_A_K = 0;
+    PNJDDAKCIKI_J_J_N_B_P_H_O_P_P_M_M = 1;
+    PNJDDAKCIKI_M_N_G_L_E_K_B_I_C_H_H = 2;
+    PNJDDAKCIKI_A_E_C_C_J_D_E_L_H_C_H = 3;
+    PNJDDAKCIKI_I_K_J_H_D_M_F_O_K_G_O = 4;
+  }
+}

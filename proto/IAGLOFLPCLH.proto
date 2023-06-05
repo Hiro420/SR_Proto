@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+import "PEDBMLDHEND.proto";
+import "ENCNGACJJDB.proto";
+import "MBPOAJOPMEA.proto";
+
+message IAGLOFLPCLH {
+  string LLGNAIEJCEL = 611;
+  PEDBMLDHEND GALICJLOBAL = 3;
+  string EFADCKFNLOL = 9;
+  string GPFMDCEAFIH = 11;
+  uint32 MCOKJGLNEPJ = 1;
+  string HBLANHKJDKI = 12;
+  uint64 KFGINGMDOFI = 8;
+  ENCNGACJJDB MJAELOOGDBH = 867;
+  string LJHLCCLDHAP = 4;
+  uint32 KOMCHIEHJMP = 360;
+  string LNFGFPEBOOK = 10;
+  string JOAHIJAIIDP = 1539;
+  string ONGMANODFCA = 6;
+  uint32 HBNFLNCGLBO = 7;
+  string MDNKJBOFNGF = 14;
+  string DAFDINBBGCP = 13;
+  uint32 IPCPILNDHAO = 661;
+  string NBDBAHLKJED = 2;
+  string LGILIPIPIPK = 15;
+  bool CLPJJMHAIKE = 315;
+  MBPOAJOPMEA OPFNOLJCCJL = 5;
+  string AOOPPDIIDDD = 1415;
+  string CKGADJFJFOK = 1083;
+}

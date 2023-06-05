@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum BpRewardType {
-    BpRewaradTypeNone = 0;
-    BpRewaradTypeFree = 1;
-    BpRewaradTypePremium1 = 2;
-    BpRewaradTypePremium2 = 3;
-    BpRewaradTypePremiumOptional = 4;
-}

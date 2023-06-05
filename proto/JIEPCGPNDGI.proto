@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "ODCAIOHFMMK.proto";
+import "PunkLordBattleReplay.proto";
+import "PunkLordBattleRecord.proto";
+
+message JIEPCGPNDGI {
+  uint32 BNNOMIBDHAA = 6;
+  ODCAIOHFMMK HJIFJMHBHON = 14;
+  repeated PunkLordBattleReplay PLADOIJNCEG = 4;
+  repeated PunkLordBattleRecord MAALOIHABOA = 11;
+}

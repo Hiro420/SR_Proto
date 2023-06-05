@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JKNBINFHEPE {
+  uint32 IBCPCNLBICH = 8;
+  bool MNMJLEKBKAH = 10;
+}

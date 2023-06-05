@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "NLBGEIIMOKJ.proto";
+import "ALIFFOHBEHN.proto";
+
+message OKFHLIFGCON {
+  oneof MKCIPHKENMC {
+    NLBGEIIMOKJ BNOOLNJFJMN = 10;
+    ALIFFOHBEHN DEEIDOIGFEN = 2;
+  }
+}

@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CFODGIFPDCE {
+  uint32 MOMAKNOADCJ = 1;
+}

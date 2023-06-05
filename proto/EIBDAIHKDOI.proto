@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message EIBDAIHKDOI {
-	uint32 GFLCCHGAAAH = 11;
-}

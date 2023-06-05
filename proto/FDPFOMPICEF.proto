@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message FDPFOMPICEF {
+  uint32 OFJPPNBKEBN = 7;
+  string KFEGMAKLNAM = 12;
+  uint32 CKDCAOEBLPD = 13;
+  uint32 BNNOMIBDHAA = 2;
+}

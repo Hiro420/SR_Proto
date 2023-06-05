@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum LFLCGEDKKNO {
+  LFLCGEDKKNO_K_E_P_C_F_H_E_P_G_A_L = 0;
+  LFLCGEDKKNO_B_P_O_P_F_P_G_L_L_C_P = 1;
+  LFLCGEDKKNO_N_P_J_K_J_F_E_C_O_D_E = 2;
+  LFLCGEDKKNO_I_C_D_A_D_L_D_I_O_F_P = 3;
+}

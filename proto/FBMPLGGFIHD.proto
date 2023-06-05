@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "CMPDOIIIINI.proto";
+
+message FBMPLGGFIHD {
+  CMPDOIIIINI IKFGIDHKCOE = 10;
+  uint32 BNNOMIBDHAA = 5;
+}

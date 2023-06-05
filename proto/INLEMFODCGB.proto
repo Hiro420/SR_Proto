@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "FHBCKDKEGKP.proto";
+
+message INLEMFODCGB {
+  FHBCKDKEGKP IMKANFFBOCJ = 4;
+  uint32 ABEADOIFAGM = 7;
+  uint32 ABIBDJANJJC = 15;
+}

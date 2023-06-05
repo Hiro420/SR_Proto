@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JANDKCNEHAF.proto";
+
+message COIEJHFLCIJ {
+  uint32 BNNOMIBDHAA = 12;
+  repeated JANDKCNEHAF CBKCFMGNLPK = 9;
+}

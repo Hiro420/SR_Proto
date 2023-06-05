@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PNFAGPAAEMG {
+  uint32 FNKPEDNNONG = 13;
+}

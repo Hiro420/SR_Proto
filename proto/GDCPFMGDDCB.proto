@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GDCPFMGDDCB {
-	uint32 DEHKCBNCDPN = 7;
-}

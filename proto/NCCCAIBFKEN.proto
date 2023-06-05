@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "CIPDKJCDAGE.proto";
-
-message NCCCAIBFKEN {
-	CIPDKJCDAGE BECHJEEBAAP = 9;
-}

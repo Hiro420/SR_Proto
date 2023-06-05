@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "IJLAMBKHALF.proto";
-
-message CGMILLHEBLI {
-	IJLAMBKHALF OHKMOPOHEEK = 8;
-}

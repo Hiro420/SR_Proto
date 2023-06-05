@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "MPNHLOBNMED.proto";
+import "NLDBAJLBELG.proto";
+
+message KGNBCCFAIPD {
+  repeated MPNHLOBNMED MKHFGDDKBJB = 9;
+  repeated uint32 LFDBACNOAFK = 13;
+  repeated NLDBAJLBELG ENPEMEKDFHC = 7;
+}

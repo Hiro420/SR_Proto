@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "JBNBCBAPMPF.proto";
+
+message DDLGDNDBOFG {
+  JBNBCBAPMPF JHHNFDLKCBB = 4;
+  uint32 BNNOMIBDHAA = 6;
+}

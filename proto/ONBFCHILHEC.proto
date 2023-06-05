@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "DAIPPHIKOBM.proto";
+
+message ONBFCHILHEC {
+  repeated DAIPPHIKOBM BCNAFFMICID = 8;
+}

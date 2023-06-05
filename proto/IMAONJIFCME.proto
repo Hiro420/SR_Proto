@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IMAONJIFCME {
+  uint32 KAMICLMMOJO = 14;
+}

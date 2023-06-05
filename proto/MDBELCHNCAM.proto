@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KCOMJDDCJCG.proto";
+
+message MDBELCHNCAM {
+  repeated uint32 GAPBGBLFJJI = 1;
+  uint32 HGOFCNDECDH = 12;
+  repeated KCOMJDDCJCG EAIHKCDLNBM = 15;
+}

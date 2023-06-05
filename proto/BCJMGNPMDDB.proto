@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BCJMGNPMDDB {
+  uint32 ABIBDJANJJC = 15;
+  uint32 FABNPBNBBMC = 2;
+}

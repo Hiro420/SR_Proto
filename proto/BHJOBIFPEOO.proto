@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "FHMNLONCEHB.proto";
+
+message BHJOBIFPEOO {
+  repeated FHMNLONCEHB ENPEMEKDFHC = 3;
+  uint32 GMNAMNIJIPI = 5;
+}

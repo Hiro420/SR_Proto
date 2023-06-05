@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum AHDKFGNANGE {
-    BattleEndNone = 0;
-    BattleEndWin = 1;
-    BattleEndLose = 2;
-    BattleEndQuit = 3;
-}

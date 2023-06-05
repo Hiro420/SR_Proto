@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CIPHOMDGCAP {
+  int32 AHNEODLJJGC = 2;
+}

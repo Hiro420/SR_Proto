@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message IAOIGMDFPFB {
-	repeated uint32 DLGEKKJMFNG = 13;
-}

@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "FGFPLDJLOLB.proto";
+
+message GAMGDHOIOBE {
+  FGFPLDJLOLB FJHNBLIKAHP = 1;
+  uint32 OKAEHAOPFBM = 9;
+  string JMCLMBAOFLP = 8;
+  repeated uint32 KMGDPDJCKGJ = 5;
+  int64 EHKKIFLBGGC = 6;
+  repeated uint32 JPBIOGEEIEA = 10;
+  int64 GIEMGKNCIIG = 7;
+  string LLILNEFJFPE = 12;
+  uint32 FOFJOHLLONB = 15;
+  uint32 AABINIPMLPB = 11;
+}

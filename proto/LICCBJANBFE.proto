@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "NAJAFPLDKOI.proto";
+import "JDKFLJPBLCC.proto";
+import "OLPABAILFPO.proto";
+
+message LICCBJANBFE {
+  NAJAFPLDKOI GCCFANCECGD = 7;
+  uint32 GBDHKMEMJMC = 14;
+  uint32 LPJFDMIALNH = 9;
+  uint32 LIBNFMBHFGM = 15;
+  repeated JDKFLJPBLCC OBLHBLMFAGG = 3;
+  OLPABAILFPO EBMECPNKMMJ = 6;
+}

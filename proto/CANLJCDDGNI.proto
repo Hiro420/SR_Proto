@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "ItemCost.proto";
+
+message CANLJCDDGNI {
+  repeated ItemCost CJFODGLNOBF = 3;
+}

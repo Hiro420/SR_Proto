@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "GachaCeilingAvatar.proto";
+
+message FGFPLDJLOLB {
+  bool JDHAAEFKKAN = 10;
+  uint32 FHHIMGHOCLG = 8;
+  repeated GachaCeilingAvatar MKHFGDDKBJB = 15;
+}

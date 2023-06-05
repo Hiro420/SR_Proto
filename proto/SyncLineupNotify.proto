@@ -1,9 +1,9 @@
 syntax = "proto3";
 
-import "LLNCPDNOJJL.proto";
-import "FCKNIKGEONI.proto";
+import "HHDFFGKGHNE.proto";
+import "LNIGPGPMBBC.proto";
 
 message SyncLineupNotify {
-	repeated FCKNIKGEONI ReasonList = 13;
-	LLNCPDNOJJL Lineup = 15;
+  repeated HHDFFGKGHNE reason_list = 9;
+  LNIGPGPMBBC lineup = 11;
 }

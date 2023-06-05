@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BpRewardType.proto";
-
-message OMNAHKDKIAG {
-	BpRewardType JNMJEMFKNPC = 15;
-	uint32 PNBPPNGKPCP = 3;
-	uint32 HHJCJLFPIAN = 9;
-}

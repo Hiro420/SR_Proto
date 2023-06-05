@@ -1,11 +1,11 @@
 syntax = "proto3";
 
-import "OEIFMALECJD.proto";
-import "FLMKEBIIGJO.proto";
+import "ABCJOPBIBIO.proto";
+import "NGABJCMLFMB.proto";
 
 message GetRaidInfoScRsp {
-	repeated uint32 ChallengeTakenRewardIdList = 11;
-	repeated FLMKEBIIGJO ChallengeRaidList = 6;
-	uint32 Retcode = 15;
-	repeated OEIFMALECJD FinishedRaidInfoList = 3;
+  repeated ABCJOPBIBIO finished_raid_info_list = 15;
+  repeated uint32 challenge_taken_reward_id_list = 14;
+  repeated NGABJCMLFMB challenge_raid_list = 9;
+  uint32 retcode = 8;
 }

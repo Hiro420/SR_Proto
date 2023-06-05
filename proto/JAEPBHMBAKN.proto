@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PLDLIBAEBBL.proto";
+
+message JAEPBHMBAKN {
+  string IMMHHLBAKGA = 15;
+  PLDLIBAEBBL IMKANFFBOCJ = 10;
+}

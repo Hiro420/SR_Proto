@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "DGCEABIBIMM.proto";
-
-message PAMEIEIPKJL {
-	DGCEABIBIMM MHPBPLCPAJK = 10;
-}

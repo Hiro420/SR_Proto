@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum GHEGLNJNAAM {
+  GHEGLNJNAAM_K_E_P_C_F_H_E_P_G_A_L = 0;
+  GHEGLNJNAAM_F_B_D_O_I_P_J_K_H_O_H = 1;
+  GHEGLNJNAAM_C_C_M_G_J_F_G_B_L_E_K = 2;
+  GHEGLNJNAAM_A_O_A_E_I_G_C_I_G_O_K = 3;
+  GHEGLNJNAAM_E_H_B_F_J_D_B_E_H_I_L = 4;
+}

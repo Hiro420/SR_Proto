@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum BCBNMCFNDKE {
+  BCBNMCFNDKE_L_E_G_C_C_C_F_J_O_A_H = 0;
+  BCBNMCFNDKE_A_J_D_B_D_B_N_J_L_I_M = 1;
+  BCBNMCFNDKE_C_B_D_B_B_O_E_M_C_A_D = 2;
+}

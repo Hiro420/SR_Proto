@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ENAMPBJAFAA.proto";
+
+message ICGGHFLFPLL {
+  uint32 KDAMDKEMLPK = 12;
+  uint32 JAMBOCIOPJK = 2;
+  ENAMPBJAFAA OLDDKLOJLBP = 11;
+}

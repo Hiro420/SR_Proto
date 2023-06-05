@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+message HFAHPOPODMF {
+  string BJDHLDEAKIP = 1;
+  uint32 ABIBDJANJJC = 2;
+  uint32 HBPAMNKFLEL = 3;
+  uint32 HFAMIPJBDGA = 4;
+  uint32 PBOFFFOJPJB = 5;
+  uint32 HAGCCFMCONB = 6;
+  uint32 IEHLPJCMJLG = 7;
+  uint32 LAGLJPPCFPC = 8;
+}

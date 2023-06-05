@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "DGKKCFBNGDJ.proto";
+
+message JGDCIHMIDIF {
+  DGKKCFBNGDJ CLFDFFNJDOD = 13;
+  uint32 BNNOMIBDHAA = 1;
+}

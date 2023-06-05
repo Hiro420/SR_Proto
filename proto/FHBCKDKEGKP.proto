@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum FHBCKDKEGKP {
+  FHBCKDKEGKP_M_L_L_O_D_L_P_L_M_K_K = 0;
+  FHBCKDKEGKP_P_O_G_H_K_F_M_F_L_G_P = 1;
+  FHBCKDKEGKP_D_M_L_N_B_O_K_K_O_N_P = 2;
+  FHBCKDKEGKP_K_P_J_B_H_D_P_P_A_M_D = 3;
+  FHBCKDKEGKP_L_G_L_F_C_O_B_F_H_I_C = 4;
+}

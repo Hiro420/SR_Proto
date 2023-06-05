@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum HIENDLMGHFP {
+  HIENDLMGHFP_K_E_P_C_F_H_E_P_G_A_L = 0;
+  HIENDLMGHFP_E_D_N_L_N_N_O_B_E_K_J = 1;
+  HIENDLMGHFP_F_A_A_E_N_D_K_B_B_J_I = 2;
+  HIENDLMGHFP_E_H_B_F_J_D_B_E_H_I_L = 3;
+}

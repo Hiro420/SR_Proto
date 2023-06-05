@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum NBBEKDLBKHH {
+  NBBEKDLBKHH_K_E_P_C_F_H_E_P_G_A_L = 0;
+  NBBEKDLBKHH_I_L_L_D_K_A_G_G_L_L_I = 1;
+  NBBEKDLBKHH_K_L_L_O_E_L_M_P_K_C_I = 2;
+}

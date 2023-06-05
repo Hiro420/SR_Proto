@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LGCPJJLKONL.proto";
-
-message HJDCDHIJJKH {
-	repeated LGCPJJLKONL FFCIFKLNGCE = 1;
-	uint32 DEHKCBNCDPN = 3;
-}

@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+import "MBPOAJOPMEA.proto";
+import "KHELJGHFKEA.proto";
+import "EIPABDDLAGJ.proto";
+
+message PNKBMIEBDGA {
+  uint32 ABIBDJANJJC = 5;
+  bool JAODIHCAEDN = 6;
+  string AOOPPDIIDDD = 10;
+  MBPOAJOPMEA OPFNOLJCCJL = 14;
+  uint32 JPFCDJEGFNL = 9;
+  string HBLANHKJDKI = 8;
+  string CKGADJFJFOK = 3;
+  int64 PBJHGDAAFJF = 1;
+  string BJDHLDEAKIP = 2;
+  KHELJGHFKEA IODOCOMGLHK = 13;
+  uint32 JAMBOCIOPJK = 15;
+  EIPABDDLAGJ LGIBGENHACC = 7;
+}

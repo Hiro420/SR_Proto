@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum PGJKNDMLMCM {
+  PGJKNDMLMCM_K_E_P_C_F_H_E_P_G_A_L = 0;
+  PGJKNDMLMCM_N_H_D_H_G_C_O_B_A_P_E = 101;
+  PGJKNDMLMCM_E_J_G_C_M_G_E_J_F_J_C = 102;
+  PGJKNDMLMCM_K_D_B_K_F_P_H_I_J_C_I = 104;
+}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+import "HIENDLMGHFP.proto";
+
+message FIKNJMEFOJM {
+  uint32 LMKDICMMJFG = 14;
+  repeated uint32 JMHLEJBKKFN = 12;
+  uint32 IBCPCNLBICH = 9;
+  uint32 DOKLMGOHHPE = 7;
+  uint32 KBGCPFKLLNM = 3;
+  uint32 PEJCNOCNIAA = 11;
+  HIENDLMGHFP OLBJKFHJHEA = 13;
+}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "GLPCIOANLEK.proto";
-
-message EMIKFOBHHME {
-	GLPCIOANLEK DHCHJNDJDEG = 2;
-}

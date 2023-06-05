@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "GECHBCOPCAB.proto";
-
-message BKAFGCKCFDE {
-	uint32 DEHKCBNCDPN = 10;
-	repeated GECHBCOPCAB DBJINPDDAEI = 8;
-}

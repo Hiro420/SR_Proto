@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum ODEDNANJOBK {
+  ODEDNANJOBK_E_E_H_E_L_M_M_P_F_O_G = 0;
+  ODEDNANJOBK_D_F_B_I_E_I_P_I_P_L_A = 1;
+  ODEDNANJOBK_N_M_B_P_H_L_I_H_N_E_B = 2;
+}

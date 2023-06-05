@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HAGOFJPNNIN.proto";
+
+message OAGMAIDBJEC {
+  HAGOFJPNNIN LLEPHPJCFNM = 14;
+}

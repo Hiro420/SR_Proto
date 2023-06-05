@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum FACADIEEKHM {
-    FACADIEEKHM_None = 0;
-    FACADIEEKHM_Search = 1;
-    Recommend = 2;
-    Assist = 3;
-    RecommendAssist = 4;
-}

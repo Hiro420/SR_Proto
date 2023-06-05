@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message LDBBPIOLPCH {
+  uint32 PDFLFLEOICP = 4;
+  uint32 HEFFDOOIJPB = 9;
+  uint32 LAGLJPPCFPC = 12;
+  uint32 MMFJCIINOJJ = 8;
+}

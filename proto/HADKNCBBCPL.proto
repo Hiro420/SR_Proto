@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "CPHMKFONMKK.proto";
+
+message HADKNCBBCPL {
+  repeated CPHMKFONMKK FMPLODIFKDB = 8;
+  uint32 CMDHHHLGIKP = 7;
+  uint64 KOAFFPLFNME = 6;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OCDJBPCMOAF.proto";
+
+message GNOJIMJKBLO {
+  OCDJBPCMOAF EJGCMGEJFJC = 2;
+}

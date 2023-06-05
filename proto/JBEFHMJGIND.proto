@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "BJGJALPKCHG.proto";
+
+message JBEFHMJGIND {
+  uint32 LJIJGENDBHH = 12;
+  uint32 JCMFGMENION = 15;
+  BJGJALPKCHG MBMHDFBGIPJ = 9;
+}

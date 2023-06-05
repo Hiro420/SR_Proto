@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KFMNJLIONDG.proto";
-
-message IHJCLCIHBGL {
-	string HHMHPNOLOJD = 3;
-	repeated KFMNJLIONDG KEMCBFJOMIC = 9;
-	uint32 PNIBLGOODPF = 13;
-}

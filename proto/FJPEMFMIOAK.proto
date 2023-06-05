@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FJPEMFMIOAK {
+  repeated uint32 HKENLEBKPDG = 1;
+}

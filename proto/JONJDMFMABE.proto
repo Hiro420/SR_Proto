@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AGEDIMKDJJA.proto";
+
+message JONJDMFMABE {
+  repeated AGEDIMKDJJA ECEMEDACMGA = 4;
+  uint32 BNNOMIBDHAA = 10;
+}

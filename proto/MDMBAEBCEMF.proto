@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ODCAIOHFMMK.proto";
+
+message MDMBAEBCEMF {
+  ODCAIOHFMMK HJIFJMHBHON = 2;
+  bool HNHOGKPKCKF = 13;
+}

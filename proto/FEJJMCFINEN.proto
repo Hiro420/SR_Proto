@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FEJJMCFINEN {
+  uint32 MCNFOHMOGIA = 14;
+}

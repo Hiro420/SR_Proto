@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message PDGAJBPNCOD {
+  ItemList AJEJCBOINBI = 11;
+  uint32 BNNOMIBDHAA = 1;
+}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HCMHCAPMDNO {
-	int64 BDFKNNFFLHD = 11;
-	uint32 HCJNDAGFGOK = 9;
-}

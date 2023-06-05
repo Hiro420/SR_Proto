@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NNLKBJPJJGN.proto";
-import "LGJOIJBLLOJ.proto";
-
-message ELANGCCLGCE {
-	LGJOIJBLLOJ EFLHBOPCCNC = 14;
-	NNLKBJPJJGN PPCMLIAPENL = 1;
-}

@@ -3,9 +3,9 @@ syntax = "proto3";
 import "ItemCost.proto";
 
 message ExchangeStaminaScRsp {
-	int64 LastRecoverTime = 12;
-	uint32 StaminaAdd = 8;
-	repeated ItemCost ItemCostList = 3;
-	uint32 Retcode = 13;
-	uint32 ExchangeTimes = 4;
+  uint32 retcode = 7;
+  repeated ItemCost item_cost_list = 3;
+  uint32 stamina_add = 13;
+  int64 last_recover_time = 10;
+  uint32 exchange_times = 14;
 }

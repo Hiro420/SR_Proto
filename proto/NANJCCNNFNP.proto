@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "PunkLordShareType.proto";
-
-message NANJCCNNFNP {
-	uint32 OLAOEFBACEG = 8;
-	PunkLordShareType IBMBAGDBKBN = 11;
-	uint32 MMKBCGEBEOP = 9;
-}

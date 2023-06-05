@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ALAPGEDFOJD.proto";
-
-message MAIEHDIONJG {
-	uint32 DEHKCBNCDPN = 3;
-	repeated ALAPGEDFOJD OBEHAIADOFE = 1;
-	uint32 NNDMNLALPFN = 10;
-}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message JOOHOELAECP {
+  uint32 BNNOMIBDHAA = 2;
+  uint32 OLAIPDGIIGN = 1;
+}

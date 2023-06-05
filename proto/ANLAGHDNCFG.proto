@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message ANLAGHDNCFG {
+  uint32 JOBHPNOEIGH = 12;
+}

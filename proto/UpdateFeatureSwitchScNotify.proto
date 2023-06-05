@@ -3,5 +3,5 @@ syntax = "proto3";
 import "FeatureSwitchInfo.proto";
 
 message UpdateFeatureSwitchScNotify {
-	repeated FeatureSwitchInfo SwitchInfoList = 13;
+  repeated FeatureSwitchInfo switch_info_list = 1;
 }

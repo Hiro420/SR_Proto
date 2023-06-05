@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PJMPNPELMLI {
+  uint32 BNNOMIBDHAA = 13;
+}

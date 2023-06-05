@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message CNLMDFDOBKP {
-	uint32 DEHKCBNCDPN = 5;
-	uint32 MKPFPIONKGB = 11;
-}

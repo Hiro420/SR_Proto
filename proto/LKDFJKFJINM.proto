@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum LKDFJKFJINM {
+  LKDFJKFJINM_K_E_P_C_F_H_E_P_G_A_L = 0;
+  LKDFJKFJINM_F_M_D_D_P_E_C_L_O_I_B = 1;
+  LKDFJKFJINM_F_F_I_M_B_I_F_J_N_F_H = 2;
+  LKDFJKFJINM_H_A_C_O_A_P_J_C_G_M_E = 3;
+}

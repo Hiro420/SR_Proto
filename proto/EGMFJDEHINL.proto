@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MEMBGLBCHIJ.proto";
-
-message EGMFJDEHINL {
-	uint32 OCEPGBFOMNN = 7;
-	repeated MEMBGLBCHIJ HCPKIPHENDL = 11;
-}

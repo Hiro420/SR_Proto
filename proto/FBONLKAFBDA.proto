@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message FBONLKAFBDA {
+  uint32 AHBINLOAKIO = 1;
+  uint32 JCMFGMENION = 2;
+  uint32 CKLODHCHNJL = 3;
+}

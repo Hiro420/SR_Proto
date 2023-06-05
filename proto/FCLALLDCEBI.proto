@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message FCLALLDCEBI {
+  uint32 BNNOMIBDHAA = 15;
+  uint32 PKPHPEHHHCO = 10;
+  ItemList BNPHANFBODM = 1;
+  ItemList LAMNGBFHMIM = 6;
+}

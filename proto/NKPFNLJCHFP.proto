@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "KCCJKBJIPAH.proto";
+import "NLDBAJLBELG.proto";
+
+message NKPFNLJCHFP {
+  KCCJKBJIPAH CIIIBAGKJFF = 3;
+  NLDBAJLBELG ANKDMLIEPNO = 9;
+}

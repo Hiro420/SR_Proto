@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum LKJFFAMCCHK {
-    BattleCheckStrategyIdentical = 0;
-    BattleCheckStrategyServer = 1;
-    BattleCheckStrategyClient = 2;
-}

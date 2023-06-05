@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+import "GAPEFCGGCFO.proto";
+import "DFMJFMGLGKP.proto";
+import "LNAGKAKPFMA.proto";
+import "BLGCOGOCOBE.proto";
+import "KLNFEBNPBKG.proto";
+import "OCFNCKJPPEM.proto";
+import "FBONLKAFBDA.proto";
+import "DCPBLIMIIDK.proto";
+import "FOEGPCCBMFM.proto";
+import "JPEDHAEJEGN.proto";
+
+message BCBCGJOJKJK {
+  uint32 APBKJHHACIO = 1;
+  uint32 FOOHGGBIFHF = 2;
+  repeated uint32 GAKIJPNIAAG = 3;
+  uint32 ADBCACAJBPE = 4;
+  double JOMLJHHLHIH = 5;
+  double HGBNNIOCCJH = 6;
+  repeated GAPEFCGGCFO OKGKDDNFIOI = 7;
+  repeated DFMJFMGLGKP NAAHDBFPLJB = 8;
+  uint32 CCNJJJDLKKK = 9;
+  uint32 GOLPFMJPJNH = 10;
+  uint32 DMMIPHFGMLB = 11;
+  uint32 PIFKHMNHCPO = 12;
+  map<string, float> EDEFAMPKKDF = 13;
+  uint32 ECMDDJFDECP = 14;
+  repeated LNAGKAKPFMA PECJHICJLAI = 16;
+  BLGCOGOCOBE KPHDHAKGIKN = 17;
+  repeated KLNFEBNPBKG MHGJMNMCCHM = 18;
+  OCFNCKJPPEM OEFKEJMFNAL = 19;
+  repeated FBONLKAFBDA ILJNBHGADDN = 20;
+  repeated DCPBLIMIIDK BJLDNHPMPJO = 21;
+  repeated int32 LPNNIKACNKB = 22;
+  repeated FOEGPCCBMFM OBAHAMMIMGM = 23;
+  repeated JPEDHAEJEGN OCKAOONNMHC = 24;
+}

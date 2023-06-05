@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message AMIMIOOJEED {
-	uint32 NPICJAPNICA = 4;
-}

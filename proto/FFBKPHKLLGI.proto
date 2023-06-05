@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "MECLABOMBAN.proto";
+
+message FFBKPHKLLGI {
+  uint32 ACNMBMODGAC = 14;
+  uint32 MINNECIIHNF = 1;
+  uint32 ABEADOIFAGM = 3;
+  MECLABOMBAN NGDMCGKFCMI = 7;
+  uint32 AFFLJBNBFMO = 11;
+}

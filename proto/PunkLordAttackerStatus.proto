@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum PunkLordAttackerStatus {
-    PunkLordAttackerStatus_None = 0;
-    Attacked = 1;
-    Attacking = 2;
-    AttackedAndAttacking = 3;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "KGIIDAJFBHF.proto";
-
-message BMDIEGFHKFG {
-	repeated KGIIDAJFBHF HIDKPHDAPIO = 9;
-	uint32 LIGBIDIACAL = 11;
-	repeated uint32 LBGENCHCNKH = 15;
-}

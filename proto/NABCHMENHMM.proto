@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum NABCHMENHMM {
+  NABCHMENHMM_C_O_C_O_H_A_D_P_G_B_C = 0;
+  NABCHMENHMM_E_A_C_E_M_I_C_F_B_H_H = 1;
+  NABCHMENHMM_O_K_F_L_M_N_A_H_O_P_P = 2;
+}

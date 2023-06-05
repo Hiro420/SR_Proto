@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "EJBHMNPFFCD.proto";
-
-message HKPFIMCIIHC {
-	EJBHMNPFFCD NGHNKKCJCHP = 7;
-	uint32 DEHKCBNCDPN = 10;
-}

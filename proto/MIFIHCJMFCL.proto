@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message MIFIHCJMFCL {
-	uint32 KMNAINKDNLH = 7;
-}

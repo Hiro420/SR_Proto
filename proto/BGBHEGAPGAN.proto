@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "LFOGIACPLIB.proto";
+
+message BGBHEGAPGAN {
+  uint32 BNNOMIBDHAA = 2;
+  LFOGIACPLIB PCIPMHCMLAO = 6;
+}

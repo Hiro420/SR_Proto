@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+enum ICCLPPNFABL {
+  ICCLPPNFABL_K_E_P_C_F_H_E_P_G_A_L = 0;
+  ICCLPPNFABL_L_C_O_I_N_G_A_B_B_N_B = 1;
+  ICCLPPNFABL_E_O_B_P_N_H_J_A_F_I_F = 2;
+}

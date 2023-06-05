@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "NGHIIKEBBJI.proto";
+
+message JENJJFLPABD {
+  uint32 BNNOMIBDHAA = 2;
+  repeated NGHIIKEBBJI CLNMHFOONLH = 4;
+}

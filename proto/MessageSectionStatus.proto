@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum MessageSectionStatus {
-    MessageSectionNone = 0;
-    MessageSectionDoing = 1;
-    MessageSectionFinish = 2;
-    MessageSectionFrozen = 3;
-}

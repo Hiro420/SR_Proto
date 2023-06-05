@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "PJLBPMDHANP.proto";
+
+message BLJICJMPNJC {
+  PJLBPMDHANP EBMECPNKMMJ = 9;
+  uint32 CAEOEHJDBLC = 3;
+  uint32 AHBINLOAKIO = 1;
+  int64 EFJLCHGDALO = 4;
+  repeated uint32 LABPLIHPBMB = 10;
+}

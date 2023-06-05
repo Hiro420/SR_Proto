@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OFGJMKJIFOH.proto";
-
-message BMFMACGFBFL {
-	bool FALELAKDNFJ = 1;
-	map<string, OFGJMKJIFOH> BNDIOJBEHAE = 2;
-	bytes LGLGPAIKDLL = 3;
-}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message PCDMFDIIPAH {
+  uint32 BNNOMIBDHAA = 11;
+  uint64 GIEMGKNCIIG = 10;
+}

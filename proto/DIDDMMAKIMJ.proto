@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message DIDDMMAKIMJ {
-	uint32 PGMJPGJLADD = 1;
-	uint32 OFMPOGJCHDH = 2;
-	uint32 BPGMAKCBGCJ = 3;
-}

@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message GBBNNKEPDAP {
+  uint32 LMMBPCCOPNE = 13;
+  int64 EHKKIFLBGGC = 5;
+  int64 GIEMGKNCIIG = 8;
+  bool HMFFEAFBAIE = 6;
+  string OMIFIENMDGI = 14;
+  uint32 NMAEHMPCOFB = 11;
+  string NFJMGCDOEKH = 15;
+  string HFJHLABGBHC = 4;
+  uint32 HOCNGNIHAPG = 10;
+}

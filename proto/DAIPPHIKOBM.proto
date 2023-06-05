@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DAIPPHIKOBM {
+  uint32 GIOMPMAFFHK = 12;
+  uint32 GBCBMMAJHKO = 13;
+}

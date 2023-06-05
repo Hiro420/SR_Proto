@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message EMIJIDCDGIG {
+  uint32 AHBINLOAKIO = 1;
+  uint32 ABIBDJANJJC = 2;
+  uint32 LALHGKGGAKD = 3;
+  uint32 DDPJKEBHMCL = 4;
+  repeated uint32 LKDIFLADBJK = 5;
+  map<string, float> HBPLOKEHGGN = 6;
+}

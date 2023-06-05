@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum GIEEEAEMNNF {
+  GIEEEAEMNNF_K_E_P_C_F_H_E_P_G_A_L = 0;
+  GIEEEAEMNNF_L_E_G_C_C_C_F_J_O_A_H = 1;
+  GIEEEAEMNNF_A_J_D_B_D_B_N_J_L_I_M = 2;
+  GIEEEAEMNNF_O_F_F_J_M_A_C_O_J_D_J = 3;
+  GIEEEAEMNNF_E_H_B_F_J_D_B_E_H_I_L = 4;
+}

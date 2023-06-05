@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JANBKHNPEHH.proto";
-
-message EDPJCKENDDL {
-	repeated JANBKHNPEHH AMNLGHJINBP = 4;
-	uint32 DEHKCBNCDPN = 5;
-}

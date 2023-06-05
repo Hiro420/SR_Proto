@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "JFODNACIOCP.proto";
-
-message GGKLOGAMFOK {
-	repeated JFODNACIOCP HIJCODFCCGF = 12;
-}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IPLOPBMBKIE.proto";
+import "ItemList.proto";
+
+message KLKEHDAMEMA {
+  uint32 BNNOMIBDHAA = 2;
+  IPLOPBMBKIE DAMFDBONOMI = 7;
+  ItemList LAMNGBFHMIM = 10;
+}

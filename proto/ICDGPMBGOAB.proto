@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message ICDGPMBGOAB {
+  uint32 BNNOMIBDHAA = 4;
+  uint32 JOBHPNOEIGH = 5;
+}

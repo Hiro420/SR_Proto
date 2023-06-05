@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HOFIICAGPEN {
-	uint32 DEHKCBNCDPN = 8;
-	uint32 GKKPKNIINIC = 4;
-}

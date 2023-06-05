@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message FFHNDLJKNCA {
+  int64 ONBEGLHDBAH = 7;
+}

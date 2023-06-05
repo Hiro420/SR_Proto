@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message IGMIIAIAJOB {
+  uint32 FLBCNIKLNFE = 2;
+  uint32 NOLMBCGFAGG = 11;
+}

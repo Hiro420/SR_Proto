@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+import "NLDBAJLBELG.proto";
+import "OCMEKLCGAKE.proto";
+import "CANLJCDDGNI.proto";
+
+message BJLBEHMFDJJ {
+  repeated NLDBAJLBELG GCGOEALDKLI = 5;
+  uint32 DBJJPGIGLBJ = 4;
+  repeated uint32 JLDGINJMKAN = 3;
+  bool OAICPOGJCMO = 10;
+  uint32 JHKPCDDMPOH = 15;
+  repeated OCMEKLCGAKE LAFJPIOMCFB = 13;
+  uint32 DPANJMHPNBO = 8;
+  uint32 LNNIDEMNONN = 7;
+  uint32 LPHCMHMPHAH = 6;
+  uint32 KBKALJKBGDO = 11;
+  uint32 JDLCOHDAKGN = 12;
+  CANLJCDDGNI GLHHHNBCMPP = 2;
+  bool NEMEGMKOOOP = 1;
+}

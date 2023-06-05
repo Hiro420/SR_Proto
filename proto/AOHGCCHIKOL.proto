@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AOHGCCHIKOL {
+  uint32 BNNOMIBDHAA = 3;
+}

@@ -1,7 +1,7 @@
 syntax = "proto3";
 
 message PropAeonInfo {
-	uint32 AeonId = 3;
-	uint32 AddExp = 4;
-	uint32 DialogueGroupId = 5;
+  uint32 dialogue_group_id = 8;
+  uint32 aeon_id = 2;
+  uint32 add_exp = 14;
 }

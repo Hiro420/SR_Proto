@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+enum GDFIOJNKANG {
+  GDFIOJNKANG_K_E_P_C_F_H_E_P_G_A_L = 0;
+  GDFIOJNKANG_F_M_C_D_G_G_D_O_B_H_K = 1;
+}

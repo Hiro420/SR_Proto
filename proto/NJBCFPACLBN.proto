@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "BJKOELEJJJL.proto";
+import "OBMIIFEJDPH.proto";
+import "GKGKAJLMLPN.proto";
+
+message NJBCFPACLBN {
+  BJKOELEJJJL CGEEAJBMBFI = 2;
+  bool CLEAFOAPKEL = 12;
+  bool ODNJDKEOOMH = 4;
+  OBMIIFEJDPH OICAKLFEHJH = 15;
+  repeated GKGKAJLMLPN DPPFINNAENG = 7;
+  uint32 BNNOMIBDHAA = 11;
+}

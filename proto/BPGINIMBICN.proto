@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum BPGINIMBICN {
-    BPGINIMBICN_None = 0;
-    PunkLord = 1;
-}

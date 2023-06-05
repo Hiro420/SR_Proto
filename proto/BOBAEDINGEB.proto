@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum BOBAEDINGEB {
+  BOBAEDINGEB_K_E_P_C_F_H_E_P_G_A_L = 0;
+  BOBAEDINGEB_E_L_P_O_B_L_C_B_N_K_N = 1;
+  BOBAEDINGEB_L_G_L_B_P_D_K_L_P_H_G = 2;
+  BOBAEDINGEB_M_K_P_K_B_G_P_B_C_N_A = 3;
+}

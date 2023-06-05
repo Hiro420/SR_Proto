@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "NAJAFPLDKOI.proto";
+
+message HLBNGDIEPOK {
+  NAJAFPLDKOI GCCFANCECGD = 15;
+}

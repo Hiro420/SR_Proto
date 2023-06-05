@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message GBBMANBPFHL {
-	string LOPBHNDJBPN = 8;
-	uint32 GENNAHLIFIO = 9;
-	uint32 EAALCPJEOJK = 10;
-}

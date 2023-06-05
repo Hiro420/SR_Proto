@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "OKANELNBIHK.proto";
+
+message HDHILGMFBML {
+  repeated OKANELNBIHK OIGAODJNBBA = 12;
+}

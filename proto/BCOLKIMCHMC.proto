@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+import "HBEMJKEJIKG.proto";
+
+message BCOLKIMCHMC {
+  repeated HBEMJKEJIKG ACNGKCCEEJJ = 9;
+}

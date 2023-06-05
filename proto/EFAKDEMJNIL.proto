@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum EFAKDEMJNIL {
-    ChallengeUnknown = 0;
-    ChallengeDoing = 1;
-    ChallengeFinish = 2;
-    ChallengeFailed = 3;
-}

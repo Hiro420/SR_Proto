@@ -1,18 +1,20 @@
 syntax = "proto3";
 
-import "LHAPMLBGILP.proto";
-import "ILMKNGIKAAH.proto";
-import "ODKMICIGCHJ.proto";
-import "LDPLDBBEHFP.proto";
-import "OEFEOGHDJIO.proto";
+import "IJDFHMLLNJH.proto";
+import "CNLJADPDCHA.proto";
+import "KGNMNEBGHPK.proto";
+import "IGNIHMKPDHP.proto";
+import "IFIKFIOBEHM.proto";
 
 message SceneEntityInfo {
-	uint32 GroupId = 12;
-	uint32 InstId = 10;
-	uint32 EntityId = 5;
-	OEFEOGHDJIO Motion = 4;
-	LDPLDBBEHFP Actor = 6;
-	ODKMICIGCHJ NpcMonster = 9;
-	ILMKNGIKAAH Npc = 8;
-	LHAPMLBGILP Prop = 2;
+  oneof entity_case {
+    CNLJADPDCHA actor = 7;
+    KGNMNEBGHPK npc_monster = 4;
+    IGNIHMKPDHP npc = 11;
+    IFIKFIOBEHM prop = 3;
+  }
+  uint32 group_id = 9;
+  uint32 entity_id = 15;
+  uint32 inst_id = 13;
+  IJDFHMLLNJH motion = 5;
 }

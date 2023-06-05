@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HMHJLFNLJAC.proto";
-
-message ABEFEGEDDJM {
-	uint32 CPAFAGALHGC = 12;
-	HMHJLFNLJAC BOGLKMDKION = 13;
-	uint32 DEHKCBNCDPN = 14;
-}

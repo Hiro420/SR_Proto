@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "LLNCPDNOJJL.proto";
-
-message INPLAIHIFAJ {
-	repeated LLNCPDNOJJL DGLCCAODNKI = 12;
-	uint32 EFBNHGGHEOL = 3;
-	uint32 DEHKCBNCDPN = 10;
-}

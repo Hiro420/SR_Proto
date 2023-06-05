@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum CDLODKNFKOC {
-    CDLODKNFKOC_None = 0;
-    ChallengeTimeout = 1;
-    RogueTimeout = 2;
-}

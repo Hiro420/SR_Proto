@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum ENENCHOMDHG {
-    ENENCHOMDHG_None = 0;
-    CustomText = 1;
-}

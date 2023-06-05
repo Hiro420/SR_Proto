@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IJDFHMLLNJH.proto";
+
+message ELPGEBCJKED {
+  uint32 HJDDKNECMGL = 2;
+  IJDFHMLLNJH IDKMIHAIBEF = 8;
+  uint32 GMNAMNIJIPI = 1;
+}

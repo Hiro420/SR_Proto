@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "BPNBPBKOAKJ.proto";
-
-message PHCGOKNIMLC {
-	BPNBPBKOAKJ ADECPJDIDLE = 10;
-}

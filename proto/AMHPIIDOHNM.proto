@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum AMHPIIDOHNM {
-    AMHPIIDOHNM_Unknown = 0;
-    KilledByOthers = 1;
-    KilledBySelf = 2;
-    AMHPIIDOHNM_Escape = 3;
-}

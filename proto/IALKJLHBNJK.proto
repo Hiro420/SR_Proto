@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "LNIGPGPMBBC.proto";
+import "KMPJGPPCKEF.proto";
+import "CGDJNBAFMOM.proto";
+import "IKAJDOKKEAI.proto";
+
+message IALKJLHBNJK {
+  LNIGPGPMBBC DACCJOOIPAI = 8;
+  KMPJGPPCKEF DHIOKDHGEGE = 10;
+  CGDJNBAFMOM HHBLDMMOBLH = 1;
+  IKAJDOKKEAI EDEAKOMNKJF = 4;
+  bool BBIIBPBKAPK = 13;
+}

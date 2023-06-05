@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "LGCIMIOFBCP.proto";
-
-message PFGDNENACMF {
-	uint32 DEHKCBNCDPN = 8;
-	LGCIMIOFBCP GMLPPCNLJLC = 12;
-}

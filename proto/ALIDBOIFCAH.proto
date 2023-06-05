@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OICHPOFMKED.proto";
+import "PNKBMIEBDGA.proto";
+
+message ALIDBOIFCAH {
+  repeated OICHPOFMKED OMNMAMOLHBI = 7;
+  repeated PNKBMIEBDGA FHCJPOGPKLF = 15;
+  uint32 BNNOMIBDHAA = 3;
+}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FightActivityGroup.proto";
-
-message MHNLDNBMHFK {
-	repeated FightActivityGroup PNONHNDFPDB = 2;
-	map<uint32, uint32> LEHBKBNBGFP = 15;
-	uint32 DEHKCBNCDPN = 6;
-}

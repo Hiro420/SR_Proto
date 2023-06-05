@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message HMFCJMDKCCJ {
+  uint32 BNNOMIBDHAA = 1;
+}

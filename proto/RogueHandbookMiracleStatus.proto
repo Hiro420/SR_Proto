@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum RogueHandbookMiracleStatus {
-    RogueHandbookMiracleStatus_Lock = 0;
-    RogueHandbookMiracleStatus_Unlock = 1;
-    RogueHandbookMiracleStatus_Meet = 2;
-    RogueHandbookMiracleStatus_Get = 3;
-}

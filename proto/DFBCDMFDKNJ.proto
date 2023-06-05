@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message DFBCDMFDKNJ {
-	uint32 BPMMBANMBCC = 8;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum DGALFNEBFPD {
-    DGALFNEBFPD_None = 0;
-    DGALFNEBFPD_Normal = 101;
-    Challenge = 102;
-    Puzzle = 104;
-}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "AKKNJKPIIDN.proto";
+
+message BBPHCAEHCNA {
+  AKKNJKPIIDN LCCBKDOLCKI = 8;
+  uint32 BNNOMIBDHAA = 4;
+}

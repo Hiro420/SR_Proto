@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message BLGCOGOCOBE {
+  uint32 JJPBGIHNLPB = 1;
+  uint32 BHLILFMLNEE = 2;
+}

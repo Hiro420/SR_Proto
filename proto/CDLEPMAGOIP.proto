@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message CDLEPMAGOIP {
+  repeated uint32 ANLDPEPIMGG = 13;
+}

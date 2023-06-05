@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+message FPKGFAPMMCO {
+  uint32 COMIGCHGIJK = 11;
+  string PDILGDENMJK = 15;
+  uint32 KOLFLOALDDB = 1;
+  string FBJLGILPPAO = 5;
+  uint32 BNNOMIBDHAA = 3;
+}

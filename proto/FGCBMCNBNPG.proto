@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message FGCBMCNBNPG {
-	uint32 FEDLLNJAPNK = 1;
-	double DAKJBJENJPO = 2;
-	repeated uint32 LDBDCBADIIL = 3;
-	double ABLMCLEPHMK = 4;
-}

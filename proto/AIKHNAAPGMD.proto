@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum AIKHNAAPGMD {
+  AIKHNAAPGMD_O_A_I_D_N_E_F_K_O_C_I = 0;
+  AIKHNAAPGMD_N_H_B_G_H_O_I_C_K_E_I = 1;
+  AIKHNAAPGMD_E_A_B_E_C_N_F_N_B_K_M = 2;
+  AIKHNAAPGMD_L_D_F_H_I_I_K_M_O_K_F = 3;
+}

@@ -1,7 +1,8 @@
 syntax = "proto3";
 
 message FightActivityGroup {
-	uint32 PassedMaxDifficultyLevel = 14;
-	repeated uint32 TakenDifficultyLevelRewardList = 9;
-	uint32 GroupId = 2;
+  uint32 group_id = 14;
+  uint32 endless_max_wave = 4;
+  repeated uint32 taken_difficulty_level_reward_list = 13;
+  uint32 passed_max_difficulty_level = 7;
 }

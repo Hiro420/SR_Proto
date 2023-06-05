@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+import "NGPJHHGCNLO.proto";
+import "AIKHNAAPGMD.proto";
+
+message JANDKCNEHAF {
+  int64 PPBBBOGGKNB = 5;
+  repeated NGPJHHGCNLO GBFKMIHOELE = 15;
+  AIKHNAAPGMD EBMECPNKMMJ = 14;
+  uint32 AHBINLOAKIO = 13;
+  uint32 JDCCMJKPBBI = 10;
+}

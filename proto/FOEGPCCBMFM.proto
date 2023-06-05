@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "NFLCFHIKECN.proto";
+
+message FOEGPCCBMFM {
+  uint32 NPGNNLDGGNK = 1;
+  uint32 KDAMDKEMLPK = 2;
+  repeated NFLCFHIKECN NHJGIGEADLB = 3;
+}

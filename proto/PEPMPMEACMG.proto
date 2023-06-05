@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message PEPMPMEACMG {
+  uint32 JAMBOCIOPJK = 9;
+}

@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KDBNNNIDJAE.proto";
+
+message MGHFOKEPMFB {
+  repeated KDBNNNIDJAE JIPIGCJMLOG = 1;
+  uint32 BNNOMIBDHAA = 2;
+}

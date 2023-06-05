@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message DANEGENJNIC {
+  uint32 BNNOMIBDHAA = 12;
+  uint32 NNKGFHIMJLA = 5;
+}

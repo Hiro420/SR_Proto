@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum BpTierType {
-    BpTierType_None = 0;
-    Free = 1;
-    Premium1 = 2;
-    Premium2 = 3;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message FJBAHLCMFHO {
-	uint32 PKECGPGDNPI = 12;
-	repeated uint32 NFMBLPIJOEJ = 3;
-	uint32 HFPJEFALIHH = 1;
-	repeated uint32 CEKPIFCAGMF = 8;
-}

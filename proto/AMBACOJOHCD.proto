@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message AMBACOJOHCD {
+  uint32 GLJLGNGKOJM = 15;
+}

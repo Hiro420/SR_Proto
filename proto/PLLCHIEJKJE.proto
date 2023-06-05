@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message PLLCHIEJKJE {
-	uint32 DBIFMIPHOFN = 13;
-	uint32 ENINAOFCBAP = 8;
-	uint32 NFCEGIMMFDP = 1;
-}

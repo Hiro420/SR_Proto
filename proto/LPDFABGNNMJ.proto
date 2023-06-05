@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message LPDFABGNNMJ {
+  uint32 JOBHPNOEIGH = 12;
+}

@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "HHOOHAEKODF.proto";
+
+message AEFPBGHEGKF {
+  uint32 BNNOMIBDHAA = 1;
+  string PHMECDHPGCM = 2;
+  string MOGCCNMBHKA = 3;
+  repeated HHOOHAEKODF FANKOPAECEF = 4;
+  string PPFCKACGMMJ = 5;
+}

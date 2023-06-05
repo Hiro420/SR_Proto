@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "RogueUnlockProgress.proto";
+import "BCBNMCFNDKE.proto";
+
+message MJLHGOJHNEH {
+  uint32 ACBLMGHCDMJ = 6;
+  repeated RogueUnlockProgress KDOOKECNPPG = 12;
+  BCBNMCFNDKE EBMECPNKMMJ = 9;
+}

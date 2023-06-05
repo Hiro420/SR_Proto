@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "OICHPOFMKED.proto";
+
+message MCJHDDIBMDC {
+  uint32 JAMBOCIOPJK = 10;
+  uint32 BNNOMIBDHAA = 2;
+  OICHPOFMKED JNHBHIONNGG = 5;
+  bool FDMJAFCGBNG = 14;
+}

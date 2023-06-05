@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+message JCBGPNIFMCM {
+  int64 EHKKIFLBGGC = 14;
+  uint32 NHNFONGDDLC = 6;
+  uint32 MDNKPDCEMFH = 11;
+  int64 GIEMGKNCIIG = 13;
+}

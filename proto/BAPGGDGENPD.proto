@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "LDPHKIICINF.proto";
+
+message BAPGGDGENPD {
+  repeated uint32 CJFODGLNOBF = 13;
+  repeated uint32 MKHFGDDKBJB = 2;
+  uint32 KHFIMKAOJMF = 3;
+  repeated LDPHKIICINF KDMBNJPDOJH = 14;
+  uint32 CEMBHDFBNGD = 15;
+}

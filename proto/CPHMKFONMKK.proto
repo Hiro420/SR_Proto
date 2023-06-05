@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "IJDFHMLLNJH.proto";
+
+message CPHMKFONMKK {
+  IJDFHMLLNJH IDKMIHAIBEF = 11;
+  uint32 GMNAMNIJIPI = 15;
+  uint32 JFMCEAGCNII = 7;
+}

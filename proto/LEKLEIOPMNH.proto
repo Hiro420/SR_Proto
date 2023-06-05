@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum LEKLEIOPMNH {
-    LEKLEIOPMNH_None = 0;
-    EnterRaid = 1;
-    BattleEnd = 2;
-    LeaveRaid = 3;
-}

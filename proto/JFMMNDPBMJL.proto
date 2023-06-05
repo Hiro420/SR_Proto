@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum JFMMNDPBMJL {
+  JFMMNDPBMJL_L_E_G_C_C_C_F_J_O_A_H = 0;
+  JFMMNDPBMJL_A_J_D_B_D_B_N_J_L_I_M = 1;
+  JFMMNDPBMJL_P_J_N_H_F_K_A_H_M_B_G = 2;
+  JFMMNDPBMJL_L_E_D_B_I_J_D_G_M_K_B = 3;
+}

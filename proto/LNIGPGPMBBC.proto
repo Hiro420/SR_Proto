@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "ODJALBOPJFF.proto";
+import "NAJAFPLDKOI.proto";
+
+message LNIGPGPMBBC {
+  uint32 JOLMDCDNJEI = 5;
+  uint32 OFBGPOAIAJL = 7;
+  uint32 MCNFOHMOGIA = 9;
+  repeated ODJALBOPJFF MKHFGDDKBJB = 8;
+  uint32 NNKGFHIMJLA = 4;
+  uint32 MGOBBGBBFJF = 1;
+  bool HFDOLHFKPDK = 11;
+  NAJAFPLDKOI GCCFANCECGD = 6;
+  string NOPOBDPBHKF = 10;
+}

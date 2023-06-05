@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "HEDLAFGOBGI.proto";
-
-message AAJAANHHAPG {
-	HEDLAFGOBGI KOIEKMMKMPO = 1;
-}

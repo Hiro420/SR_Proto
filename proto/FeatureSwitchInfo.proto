@@ -1,10 +1,10 @@
 syntax = "proto3";
 
-import "KGLDKNEHOAG.proto";
-import "FeatureSwitchType.proto";
+import "NLGNEAPKKAK.proto";
+import "KAGDPKOELEK.proto";
 
 message FeatureSwitchInfo {
-	FeatureSwitchType Type = 1;
-	repeated KGLDKNEHOAG SwitchList = 2;
-	bool IsAllClosed = 3;
+  NLGNEAPKKAK type = 1;
+  repeated KAGDPKOELEK switch_list = 2;
+  bool is_all_closed = 3;
 }

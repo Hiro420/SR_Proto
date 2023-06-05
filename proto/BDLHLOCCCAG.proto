@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message BDLHLOCCCAG {
+  uint32 BNNOMIBDHAA = 3;
+}

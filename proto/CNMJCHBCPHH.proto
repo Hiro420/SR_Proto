@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "PileItem.proto";
+
+message CNMJCHBCPHH {
+  uint32 BNNOMIBDHAA = 9;
+  repeated PileItem AJEJCBOINBI = 6;
+}

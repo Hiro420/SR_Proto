@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message NNLMOBELNPF {
-	uint32 DEHKCBNCDPN = 15;
-}

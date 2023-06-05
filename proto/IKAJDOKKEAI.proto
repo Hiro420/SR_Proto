@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+import "CGDJNBAFMOM.proto";
+import "JOJEPNMLNPC.proto";
+import "ItemList.proto";
+import "KGNBCCFAIPD.proto";
+import "CNIELPGPAJK.proto";
+
+message IKAJDOKKEAI {
+  bool EDLEECKPMOJ = 10;
+  CGDJNBAFMOM KHADEHKDNBB = 1;
+  bool FHBPCBFFLBD = 2;
+  JOJEPNMLNPC MJFOCHHOHKH = 15;
+  uint32 KGAECNPCPHD = 12;
+  ItemList CJLIPOAOEFA = 11;
+  KGNBCCFAIPD CEKAOMOOCCJ = 3;
+  CNIELPGPAJK GPGLDCMLKMI = 14;
+  CGDJNBAFMOM IJDEHFJGBOL = 9;
+  ItemList LJHOBKPAGJG = 7;
+  uint32 MFGDFKDOJAI = 4;
+  ItemList NIAIOIFKKAG = 6;
+  uint32 DCKPPBNKCHL = 13;
+  uint32 FABNPBNBBMC = 474;
+  uint32 DHDKBBCPDJH = 1768;
+  uint32 FCMCHPLFHNP = 5;
+  uint32 PLICCOIGDNM = 8;
+}

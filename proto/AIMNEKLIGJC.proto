@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message AIMNEKLIGJC {
+  uint32 GMNAMNIJIPI = 9;
+  uint32 LAGLJPPCFPC = 8;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+enum ICJHOPMLCHD {
+  ICJHOPMLCHD_P_P_K_B_H_J_N_I_N_H_E = 0;
+  ICJHOPMLCHD_B_M_M_M_C_P_H_G_O_H_L = 1;
+  ICJHOPMLCHD_D_M_F_J_F_B_J_O_P_H_P = 2;
+  ICJHOPMLCHD_B_E_O_H_H_F_P_C_P_E_F = 3;
+  ICJHOPMLCHD_L_N_J_E_O_P_B_I_E_J_K = 4;
+  ICJHOPMLCHD_I_K_F_I_L_M_N_H_D_I_B = 5;
+}

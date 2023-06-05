@@ -1,11 +1,11 @@
 syntax = "proto3";
 
+import "LADLGCJDNMK.proto";
 import "ItemList.proto";
-import "PBOBNEGNJLD.proto";
 
 message TakeMailAttachmentScRsp {
-	repeated PBOBNEGNJLD FailMailList = 15;
-	ItemList Attachment = 14;
-	repeated uint32 SuccMailIdList = 5;
-	uint32 Retcode = 13;
+  repeated LADLGCJDNMK fail_mail_list = 13;
+  repeated uint32 succ_mail_id_list = 1;
+  ItemList attachment = 14;
+  uint32 retcode = 4;
 }

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
 message GachaCeilingAvatar {
-	uint32 RepeatedCnt = 7;
-	uint32 AvatarId = 6;
+  uint32 repeated_cnt = 7;
+  uint32 avatar_id = 3;
 }

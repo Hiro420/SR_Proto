@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+enum OLPABAILFPO {
+  OLPABAILFPO_N_D_J_D_H_I_K_N_F_L_I = 0;
+  OLPABAILFPO_C_K_A_K_A_K_G_G_E_I_G = 1;
+  OLPABAILFPO_O_C_D_I_N_N_C_I_O_K_P = 2;
+  OLPABAILFPO_J_G_D_O_J_P_D_C_J_O_K = 3;
+}

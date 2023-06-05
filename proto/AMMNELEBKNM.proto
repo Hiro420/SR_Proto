@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message AMMNELEBKNM {
+  ItemList INKAGLKPHIA = 1;
+  ItemList BLNBMMBEACG = 10;
+}

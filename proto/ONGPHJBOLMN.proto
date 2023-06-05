@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "RogueHandbookMiracleStatus.proto";
-
-message ONGPHJBOLMN {
-	uint32 PFKGJDNKDHG = 1;
-	bool DFMOPECDPBN = 9;
-	RogueHandbookMiracleStatus DMMDCCJJBFL = 4;
-}

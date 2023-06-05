@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message KOLGHFOCKAA {
+  ItemList LAMNGBFHMIM = 1;
+  uint32 OJGHLMPBENH = 12;
+  uint32 BNNOMIBDHAA = 7;
+}

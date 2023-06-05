@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+import "MJLENBFNINM.proto";
+
+message KPAFFIILPOO {
+  uint32 AHBINLOAKIO = 1;
+  uint32 ABIBDJANJJC = 2;
+  uint32 ONMBEMDKFMA = 3;
+  repeated MJLENBFNINM NMFKMFGMFPJ = 4;
+  uint32 NBEHGJJCFAF = 5;
+  uint32 IOOIFBJHPFP = 6;
+  uint32 IMKANFFBOCJ = 7;
+  uint32 EACBADCBILA = 8;
+}

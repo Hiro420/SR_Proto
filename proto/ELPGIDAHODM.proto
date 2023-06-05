@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ELPGIDAHODM {
-	uint32 OAABLMCNPOB = 1;
-	int32 KODKJGCKNEP = 2;
-}

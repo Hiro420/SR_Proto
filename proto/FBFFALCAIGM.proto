@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "IBEMELAKIFE.proto";
+
+message FBFFALCAIGM {
+  repeated IBEMELAKIFE LFDBACNOAFK = 13;
+  uint32 MOLLHGCBNKE = 10;
+  bool EPPFBALMDFL = 11;
+  uint32 HJEIPAHAKKN = 2;
+}

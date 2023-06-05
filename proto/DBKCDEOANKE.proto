@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+import "KAMJDNAEJNA.proto";
+
+message DBKCDEOANKE {
+  KAMJDNAEJNA FFNALDILCBM = 2;
+  uint32 JEABOBFNJAK = 11;
+}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message IPMCDAHEJIO {
-	uint32 DEHKCBNCDPN = 2;
-	uint32 OLAOEFBACEG = 3;
-}

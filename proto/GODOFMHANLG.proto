@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message GODOFMHANLG {
+  uint32 POBHPIEDIHO = 1;
+  uint32 BNNOMIBDHAA = 12;
+}

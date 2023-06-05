@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "DGBHNNJELEF.proto";
+
+message DLGPJHPJHLH {
+  uint32 BNNOMIBDHAA = 15;
+  string CAMKAGAIJKE = 7;
+  DGBHNNJELEF MIIGKKPNMEP = 12;
+  uint32 JOBHPNOEIGH = 13;
+  string KNFCCBMKJPE = 2;
+}

@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+import "ODCAIOHFMMK.proto";
+
+message DAAHKOGFOKM {
+  uint32 PLICCOIGDNM = 13;
+  uint32 BNNOMIBDHAA = 14;
+  repeated ODCAIOHFMMK NPPBLIGNBCP = 11;
+  bool HNHOGKPKCKF = 4;
+}

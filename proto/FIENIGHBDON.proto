@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FIENIGHBDON {
-	uint32 DEHKCBNCDPN = 15;
-	uint32 OLAOEFBACEG = 9;
-}

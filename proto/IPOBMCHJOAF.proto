@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+message IPOBMCHJOAF {
+  uint32 PKPHPEHHHCO = 2;
+}

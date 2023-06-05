@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+import "EPDGLBLPAGA.proto";
+
+message JOHFKDHKIHJ {
+  EPDGLBLPAGA EBMECPNKMMJ = 12;
+  uint32 AHBINLOAKIO = 8;
+  uint32 CAEOEHJDBLC = 4;
+}

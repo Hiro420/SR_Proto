@@ -1,6 +1,6 @@
 syntax = "proto3";
 
 message ExchangeRogueRewardKeyScRsp {
-	uint32 Retcode = 11;
-	uint32 Count = 9;
+  uint32 count = 8;
+  uint32 retcode = 2;
 }

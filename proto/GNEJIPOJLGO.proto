@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BHBJAPFPLCO.proto";
-
-message GNEJIPOJLGO {
-	string ADLHAFCAGCN = 11;
-	bool NGPIMIOAHGL = 12;
-	repeated BHBJAPFPLCO AGMNALLPPMO = 5;
-}
