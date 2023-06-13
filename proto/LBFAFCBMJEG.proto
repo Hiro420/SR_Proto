@@ -1,5 +1,3 @@
-// Decompiled with protodec
-
 syntax = "proto3";
 
 import "BAGPFGMEOPD.proto";
