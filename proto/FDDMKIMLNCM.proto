@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AFIBNFKAKMN.proto";
+import "PunkLordBattleRecord.proto";
+
+message FDDMKIMLNCM {
+  uint32 NGPDMKABAMM = 12;
+  uint32 ONAOOIGCALG = 13;
+  AFIBNFKAKMN OONKKGGJFDD = 15;
+  uint32 GMKKONICEDE = 6;
+  PunkLordBattleRecord HDNELJEIEKA = 9;
+}

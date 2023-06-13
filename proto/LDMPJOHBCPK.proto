@@ -1,0 +1,39 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ELCEPODEJIL.proto";
+import "IPFFGIOGMHK.proto";
+import "LBGEHNOPBLO.proto";
+import "CJFAFDDCKCN.proto";
+import "JKAGHDGALLC.proto";
+import "LKLPOEPPEHP.proto";
+
+message LDMPJOHBCPK {
+  uint32 MABMJEBMHNK = 1;
+  uint32 LBLAJCFMHJP = 2;
+  uint32 OCPMNELNOAJ = 3;
+  uint32 NEEDHEANMEE = 4;
+  ELCEPODEJIL OLMLLHIGIML = 5;
+  uint32 LCBMFOHALHA = 6;
+  double HNOKEAMELKI = 7;
+  double IGPNEBHALJD = 8;
+  double MDHAIBEHIEG = 9;
+  double LLAMLILFINK = 10;
+  double FPGDLPILMFC = 11;
+  uint32 BJCJJBOJPLP = 12;
+  uint32 CMGEOFAILBH = 13;
+  uint32 IDBHNGOBGOD = 14;
+  repeated IPFFGIOGMHK MPGPMECAMFJ = 15;
+  repeated LBGEHNOPBLO EIBLLAHMILE = 16;
+  uint32 HDBBOJEGKCH = 17;
+  double FOIDDFNJFED = 18;
+  double EMECJCGKNLD = 19;
+  CJFAFDDCKCN AGLKNFIJIFK = 20;
+  uint32 EMCCGEGGHLD = 21;
+  int32 KCBJGAJCHLB = 22;
+  uint32 FBCEJOALMJE = 23;
+  uint32 ODMICMHHJNK = 24;
+  JKAGHDGALLC ECAKPNCLAIO = 25;
+  repeated LKLPOEPPEHP OCCBKAINDCD = 26;
+}

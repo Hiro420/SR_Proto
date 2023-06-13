@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HDFHLILEAMH.proto";
+
+message OGGBNEGJBFP {
+  repeated HDFHLILEAMH CDGBAGFMDOB = 14;
+  uint32 ILPILFAPHAB = 2;
+  repeated uint32 BEJHCJOOKNL = 8;
+}

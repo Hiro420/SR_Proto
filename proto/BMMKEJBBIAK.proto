@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IJDFHMLLNJH.proto";
-
-message BMMKEJBBIAK {
-  IJDFHMLLNJH IDKMIHAIBEF = 13;
-  bool FHACKOKKLHH = 11;
-}

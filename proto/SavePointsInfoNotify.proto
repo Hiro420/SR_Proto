@@ -1,6 +1,8 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message SavePointsInfoNotify {
-  uint32 valid_times = 8;
-  int64 refresh_time = 9;
+  uint32 valid_times = 3;
+  int64 refresh_time = 10;
 }

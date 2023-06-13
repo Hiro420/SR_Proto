@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "JKNBINFHEPE.proto";
-
-message BGNHDBHJHLE {
-  JKNBINFHEPE BJJPCCACMFN = 15;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ODCAIOHFMMK.proto";
-
-message EDIPLBPBOMA {
-  ODCAIOHFMMK HJIFJMHBHON = 3;
-}

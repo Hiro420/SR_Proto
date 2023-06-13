@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PHGLLNBOIMC {
+  uint32 OLIONBIJMDD = 1;
+  uint32 FCGEIHDDAIC = 10;
+}

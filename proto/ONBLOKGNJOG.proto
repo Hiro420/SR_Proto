@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum ONBLOKGNJOG {
+  TRIAL_ACTIVITY_STATUS_NONE = 0;
+  TRIAL_ACTIVITY_STATUS_FINISH = 1;
+}

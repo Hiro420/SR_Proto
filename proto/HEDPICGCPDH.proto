@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "JAOGEEHPJFI.proto";
+
+message HEDPICGCPDH {
+  repeated JAOGEEHPJFI IMPCIKCCCPM = 6;
+}

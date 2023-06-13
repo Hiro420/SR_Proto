@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GFNBMGDFEJO.proto";
+import "OIIDMKCNPFO.proto";
+
+message DPCCGFIGFCD {
+  repeated GFNBMGDFEJO MGCNBHBKJNE = 4;
+  repeated GFNBMGDFEJO HMMCCGPOCNE = 15;
+  uint32 EOHPECOPMEK = 13;
+  repeated OIIDMKCNPFO NHCGELBAECG = 1;
+  bool EFMLOGOGCPA = 8;
+}

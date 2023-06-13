@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OPONDOFAAPD.proto";
+
+message OCPLMFEFADM {
+  bool KNBAJIFEHIA = 1;
+  map<string, OPONDOFAAPD> MBAJCPMPBBD = 2;
+  bytes JIBLIDMKMDJ = 3;
+}

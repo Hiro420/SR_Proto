@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message FCGONBPMFHM {
+  uint32 FDAPLOPDKGM = 7;
+}

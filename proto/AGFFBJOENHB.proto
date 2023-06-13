@@ -1,0 +1,17 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NGLACLKACLL.proto";
+
+message AGFFBJOENHB {
+  NGLACLKACLL APGFKJNEDHA = 1;
+  uint32 ODDEFCJONPB = 5;
+  repeated uint32 GPCJEIPCBAM = 8;
+  uint32 HHDECOLDMFM = 3;
+  int64 OJNFGPHNKGK = 14;
+  int64 ANCOIKDNGMD = 6;
+  repeated uint32 CJAOAGPONCO = 4;
+  uint32 IJHOKMDMMPK = 13;
+  bool NIKNCPANOEB = 2;
+}

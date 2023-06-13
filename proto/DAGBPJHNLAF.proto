@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "CHBJOMNGCMH.proto";
+
+message DAGBPJHNLAF {
+  uint32 LIEJCIONMBE = 8;
+  uint32 KBMOIHOHPKO = 14;
+  CHBJOMNGCMH MPIHDJAAHNM = 2;
+}

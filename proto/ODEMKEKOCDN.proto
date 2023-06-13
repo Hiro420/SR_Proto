@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IPLOFDIADBK.proto";
+
+message ODEMKEKOCDN {
+  uint32 OHHLJJKDGCB = 9;
+  uint32 DHGNIJPOAHE = 15;
+  repeated uint32 IFPCHAOMLEK = 10;
+  IPLOFDIADBK BNJKCOICKGE = 14;
+}

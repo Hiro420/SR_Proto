@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ICIFBMBJLIN.proto";
-import "OHOJMMBLNGP.proto";
-
-message JJEOAPAIMCJ {
-  repeated ICIFBMBJLIN PKLMGOGHOCG = 10;
-  repeated OHOJMMBLNGP GGCDIHMFJDE = 11;
-}

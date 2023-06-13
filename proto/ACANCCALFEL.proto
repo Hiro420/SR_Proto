@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ACANCCALFEL {
+  uint32 OKOJFCDAJNE = 11;
+}

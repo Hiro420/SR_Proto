@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GCDLGIMKMCP.proto";
+
+message EHAOMOPEIGI {
+  GCDLGIMKMCP APGFKJNEDHA = 4;
+  bool BFOMCGHIDDE = 15;
+  uint32 JKCGMOPMLNO = 14;
+}

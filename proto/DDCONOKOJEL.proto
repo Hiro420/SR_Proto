@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DDCONOKOJEL {
+  uint32 CFMEMPCOMDI = 15;
+  uint32 DMBJBEHNJDO = 11;
+  uint32 BELLAPMLHAG = 12;
+  uint32 MNDKLCGLACE = 5;
+  uint32 EEIKJLADGMM = 2;
+}

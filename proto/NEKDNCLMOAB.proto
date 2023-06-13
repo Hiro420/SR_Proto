@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NGABJCMLFMB.proto";
-
-message NEKDNCLMOAB {
-  repeated uint32 KIMIPDPMFPH = 8;
-  uint32 BNNOMIBDHAA = 14;
-  repeated NGABJCMLFMB HAIMGNAHFBI = 10;
-}

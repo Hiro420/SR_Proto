@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ADECJFNFMKE.proto";
-
-message ENAHGNEENBN {
-  repeated ADECJFNFMKE BJHBLIGCLOC = 14;
-  uint32 BNNOMIBDHAA = 15;
-}

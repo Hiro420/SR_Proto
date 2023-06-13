@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BAGPFGMEOPD.proto";
+
+message GKLKGMNMHPG {
+  uint32 CJBFGCOAKFD = 11;
+  repeated BAGPFGMEOPD EDDNGGNLBFC = 13;
+}

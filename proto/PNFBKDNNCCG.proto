@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PNFBKDNNCCG {
+  bool NFAJHODKPFJ = 12;
+  uint32 BJCJJBOJPLP = 14;
+}

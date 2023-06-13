@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "CANLJCDDGNI.proto";
-
-message FFCMDCILFHH {
-  uint32 HOFCGHLEDPL = 4;
-  CANLJCDDGNI EJBEGFNLFHK = 13;
-}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message JPLPKKACIID {
-  uint32 FABNPBNBBMC = 9;
-}

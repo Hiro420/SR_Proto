@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NLDBAJLBELG.proto";
-
-message IOEFEDBEKFM {
-  bool INAEJCFOEAD = 4;
-  uint32 BNNOMIBDHAA = 6;
-  NLDBAJLBELG ANKDMLIEPNO = 5;
-}

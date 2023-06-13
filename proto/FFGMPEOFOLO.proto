@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum FFGMPEOFOLO {
-  FFGMPEOFOLO_L_E_G_C_C_C_F_J_O_A_H = 0;
-  FFGMPEOFOLO_A_J_D_B_D_B_N_J_L_I_M = 1;
-  FFGMPEOFOLO_C_F_F_A_F_A_I_L_N_G_E = 2;
-  FFGMPEOFOLO_J_B_N_P_N_M_M_O_O_E_O = 3;
-}

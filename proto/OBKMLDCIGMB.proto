@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message OBKMLDCIGMB {
-  repeated uint32 JONOLFKCBAP = 15;
-}

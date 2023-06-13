@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PNAICJHDGMD {
+  uint32 OMCKKOFFLJA = 1;
+  int32 NICMPBLOOLC = 2;
+}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "NLDBAJLBELG.proto";
-
-message LIFIPLLMMDP {
-  NLDBAJLBELG DDNCKGOCNAB = 15;
-  repeated NLDBAJLBELG NKINFALADGO = 9;
-}

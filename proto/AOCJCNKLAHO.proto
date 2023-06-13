@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PLIBDMHNHBP.proto";
+
+message AOCJCNKLAHO {
+  uint32 HBJOALEJLLC = 12;
+  uint32 ILPILFAPHAB = 6;
+  PLIBDMHNHBP GPIFNPFFLDN = 5;
+}

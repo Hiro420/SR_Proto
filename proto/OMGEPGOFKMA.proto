@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FightActivityGroup.proto";
+
+message OMGEPGOFKMA {
+  map<uint32, uint32> PBBDAKADPBM = 9;
+  repeated FightActivityGroup DGCKLECLBND = 12;
+}

@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message FGJEDFDGMJJ {
+  map<string, int32> ALBJNLPPEFL = 13;
+}

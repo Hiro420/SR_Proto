@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "SceneEntityInfo.proto";
-
-message BKJHIJPILIE {
-  repeated SceneEntityInfo NLBGDLBJMIJ = 11;
-}

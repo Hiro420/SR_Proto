@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NOENGECEAGM {
+  uint32 FFCBODHLEHF = 12;
+  uint32 HMCMJCPFING = 7;
+  uint32 ELOIHNNECFM = 9;
+  uint32 ILPILFAPHAB = 2;
+  repeated uint32 JDANNMBGDBC = 5;
+}

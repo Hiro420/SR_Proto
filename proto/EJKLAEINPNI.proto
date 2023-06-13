@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PHGLLNBOIMC.proto";
+
+message EJKLAEINPNI {
+  PHGLLNBOIMC CFBCHAIIFPE = 7;
+}

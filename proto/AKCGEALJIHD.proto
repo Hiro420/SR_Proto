@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum AKCGEALJIHD {
-  AKCGEALJIHD_K_E_P_C_F_H_E_P_G_A_L = 0;
-  AKCGEALJIHD_E_H_B_F_J_D_B_E_H_I_L = 1;
-}

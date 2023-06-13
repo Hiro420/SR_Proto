@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message JPELINENEFN {
-  uint32 GBGMMAGOAKD = 7;
-  uint32 LKANDHFDCPE = 5;
-}

@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HMKIIOEEDDF.proto";
+
+message HPDIBDEACLC {
+  uint32 GKOPLKCHBBA = 1;
+  repeated HMKIIOEEDDF BMCPMCHNPBP = 8;
+  uint32 BBALAAGNIFI = 13;
+  uint32 ADALINPELOC = 4;
+  uint32 BJPPKHCFCLC = 2;
+  uint32 JIKNHOGDEMB = 3;
+}

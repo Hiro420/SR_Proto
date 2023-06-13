@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OLMLJEIMIML {
+  uint32 OHLKEHFKGEB = 15;
+  uint32 MBMNJFMIPLJ = 12;
+  uint32 AIEBEHIJLKM = 1;
+  uint32 CFIDBJAEDJG = 5;
+}

@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KCNJBEGCIPD {
+  uint32 KGNJFCPGJJD = 15;
+  uint32 FMCELIDLCBJ = 3;
+  uint32 ILPILFAPHAB = 2;
+}

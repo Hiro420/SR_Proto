@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NBOIGCKADPA {
+  repeated uint32 NFLKNOMAKPM = 5;
+  uint32 OKEMNKMDNPO = 3;
+  uint32 IKJBJDFENBH = 12;
+}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message EOEIGMPKAAO {
+  uint32 NMLFAONLLEC = 12;
+  uint32 FHDMOECGJPD = 4;
+  uint32 BJPPKHCFCLC = 1;
+  uint32 JIKNHOGDEMB = 7;
+}

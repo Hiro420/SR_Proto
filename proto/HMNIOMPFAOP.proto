@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message HMNIOMPFAOP {
-  uint32 BNNOMIBDHAA = 6;
-}

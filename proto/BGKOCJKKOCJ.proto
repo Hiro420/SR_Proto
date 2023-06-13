@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message BGKOCJKKOCJ {
+  uint32 INADJIIBFNO = 11;
+  uint32 OLIONBIJMDD = 2;
+}

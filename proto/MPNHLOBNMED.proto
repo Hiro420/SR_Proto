@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MECLABOMBAN.proto";
-
-message MPNHLOBNMED {
-  MECLABOMBAN NKCDIGCHBJL = 13;
-  uint32 CLDNHFJBDJL = 7;
-  uint32 AHBINLOAKIO = 10;
-}

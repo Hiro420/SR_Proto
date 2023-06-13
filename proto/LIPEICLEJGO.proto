@@ -1,0 +1,18 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FLEPIBPBBIL.proto";
+import "BKEMKGMPDDN.proto";
+
+message LIPEICLEJGO {
+  FLEPIBPBBIL GMEBPPBFOFJ = 1;
+  BKEMKGMPDDN PKPDGFPIIFN = 9;
+  enum FLEPIBPBBIL {
+    KICK_SQUEEZED = 0;
+    KICK_BLACK = 1;
+    KICK_CHANGE_PWD = 2;
+    KICK_LOGIN_WHITE_TIMEOUT = 3;
+    KICK_ACE_ANTI_CHEATER = 4;
+  }
+}

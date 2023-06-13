@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DEAKPOHPMBI {
+  uint32 CJBFGCOAKFD = 9;
+  uint32 NEIEGGDPMDP = 11;
+}

@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ELEPBCCKJPG {
+  uint32 FDNAFGFFKJE = 3;
+}

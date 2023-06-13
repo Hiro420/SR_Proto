@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message JELLIMOLHGL {
+  uint32 FBGOIOCGNIH = 1;
+  uint32 JIKNHOGDEMB = 2;
+  uint32 PKNCPBEOJHC = 3;
+  uint32 NAEHBIHFOBE = 4;
+}

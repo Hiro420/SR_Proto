@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PCKAGOPGLHK {
+  uint32 LOBBGLIHMDC = 5;
+  uint32 JKCGMOPMLNO = 8;
+  uint32 DEDJGLEDGII = 2;
+  uint32 EDJGGLMKEMA = 15;
+}

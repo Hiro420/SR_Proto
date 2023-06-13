@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "FCODGDIKCAI.proto";
-
-message DKEPOHENAOE {
-  repeated FCODGDIKCAI CHIJFMFPEME = 12;
-}

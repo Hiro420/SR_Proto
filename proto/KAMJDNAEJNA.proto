@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum KAMJDNAEJNA {
-  KAMJDNAEJNA_K_E_P_C_F_H_E_P_G_A_L = 0;
-  KAMJDNAEJNA_C_K_D_P_F_E_M_O_M_O_C = 1;
-  KAMJDNAEJNA_D_B_O_B_B_K_K_O_J_K_F = 2;
-  KAMJDNAEJNA_H_M_K_K_D_F_L_P_N_E_P = 3;
-}

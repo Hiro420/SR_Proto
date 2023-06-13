@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message EFNFIPIDEEA {
-  uint32 MDKIKNDHCNE = 1;
-  uint32 GHCOAMAHLKI = 2;
-}

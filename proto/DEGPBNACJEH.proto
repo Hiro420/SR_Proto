@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HDHILGMFBML.proto";
-
-message DEGPBNACJEH {
-  HDHILGMFBML NOEIHMJANHD = 7;
-  uint32 BNNOMIBDHAA = 1;
-}

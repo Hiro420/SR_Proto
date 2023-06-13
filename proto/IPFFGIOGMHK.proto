@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message IPFFGIOGMHK {
+  string EDNHGNBCHDJ = 1;
+  double NLAGFPCCFLK = 2;
+}

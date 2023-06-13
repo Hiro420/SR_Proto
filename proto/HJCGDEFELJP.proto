@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PileItem.proto";
+
+message HJCGDEFELJP {
+  uint32 ILPILFAPHAB = 10;
+  repeated PileItem HFBDEGNJFAD = 6;
+}

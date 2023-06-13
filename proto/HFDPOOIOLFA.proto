@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "JJCPNKPJOJD.proto";
+
+message HFDPOOIOLFA {
+  string KBOBEAJKMPB = 5;
+  uint32 BJCJJBOJPLP = 11;
+  string KAGCJKGMNBN = 7;
+  uint32 AAHCIMHMPPJ = 2;
+  JJCPNKPJOJD KEHNFAJJDAJ = 4;
+  uint32 BEGAPBGJMFG = 10;
+}

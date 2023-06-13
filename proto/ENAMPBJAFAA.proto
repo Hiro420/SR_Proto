@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum ENAMPBJAFAA {
-  ENAMPBJAFAA_K_E_P_C_F_H_E_P_G_A_L = 0;
-  ENAMPBJAFAA_K_L_C_J_H_F_K_O_C_M_J = 1;
-  ENAMPBJAFAA_B_E_N_D_P_O_A_B_H_K_D = 2;
-}

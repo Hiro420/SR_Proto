@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum OCFNCKJPPEM {
-  OCFNCKJPPEM_K_E_P_C_F_H_E_P_G_A_L = 0;
-  OCFNCKJPPEM_F_C_B_C_O_N_O_D_H_K_K = 1;
-  OCFNCKJPPEM_C_H_O_I_E_K_M_F_E_H_J = 2;
-}

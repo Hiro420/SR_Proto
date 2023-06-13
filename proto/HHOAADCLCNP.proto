@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HHOAADCLCNP {
+  uint32 LAABBGODKPN = 15;
+  uint32 MACPCAKAGIE = 12;
+}

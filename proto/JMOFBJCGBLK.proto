@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message JMOFBJCGBLK {
-  uint32 DCLKEAIPJBG = 11;
-}

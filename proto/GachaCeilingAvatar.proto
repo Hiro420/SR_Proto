@@ -1,6 +1,8 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message GachaCeilingAvatar {
-  uint32 repeated_cnt = 7;
-  uint32 avatar_id = 3;
+  uint32 repeated_cnt = 12;
+  uint32 avatar_id = 1;
 }

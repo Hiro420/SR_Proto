@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "KAPFCJLGMKI.proto";
-
-message JHFGOKFPLDO {
-  KAPFCJLGMKI CJKLGHIGFDL = 13;
-}

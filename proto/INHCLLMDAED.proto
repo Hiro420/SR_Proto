@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message INHCLLMDAED {
-  uint32 BNNOMIBDHAA = 12;
-}

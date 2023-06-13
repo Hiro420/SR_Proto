@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "DGKKCFBNGDJ.proto";
-
-message IGJHBIDPDPK {
-  DGKKCFBNGDJ CLFDFFNJDOD = 10;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "AMCPAJDNKGN.proto";
-
-message CPDLJNHAFEM {
-  AMCPAJDNKGN NHDNJAPHBBN = 5;
-}

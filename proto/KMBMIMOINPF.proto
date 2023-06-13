@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BFBPJABBFOC.proto";
+import "ItemList.proto";
+
+message KMBMIMOINPF {
+  oneof IJJKJNNCFGO {
+    ItemList CENEICPAKAG = 5;
+  }
+  BFBPJABBFOC PBAGLAFJOBH = 6;
+  repeated uint32 DDOEKMNGOBP = 7;
+}

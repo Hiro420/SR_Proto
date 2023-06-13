@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LBGEHNOPBLO {
+  uint32 GGEBACNJNOO = 1;
+  string CHBBIFGIFEF = 2;
+  uint32 GBNLHCLHILA = 3;
+  uint32 DAOGIDMAMPK = 4;
+}

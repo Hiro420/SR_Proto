@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HIFDECDFCFB.proto";
+
+message DKAJAOGHOEM {
+  uint32 KOHKENHBCAK = 4;
+  int64 DNNLGPICAFJ = 6;
+  HIFDECDFCFB OFAOLBAEAAM = 3;
+}

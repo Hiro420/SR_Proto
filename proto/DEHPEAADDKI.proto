@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DGKAHHLLJOH.proto";
+import "JCBLONKKIIM.proto";
+import "FBPEFMCNIFK.proto";
+
+message DEHPEAADDKI {
+  DGKAHHLLJOH HMBAADOMJBH = 7;
+  JCBLONKKIIM DHPEPIGFAPF = 10;
+  FBPEFMCNIFK FPFEPAHKMMJ = 5;
+}

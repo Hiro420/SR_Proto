@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PCKAGOPGLHK.proto";
+
+message CIIDHCJDJHO {
+  uint32 OIMJDIHIELN = 7;
+  bool HKAOHECPLKJ = 15;
+  repeated PCKAGOPGLHK BPEMBEKILDI = 14;
+  uint32 BDBENHDAOBE = 13;
+}

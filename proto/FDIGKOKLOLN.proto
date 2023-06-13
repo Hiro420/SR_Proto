@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message FDIGKOKLOLN {
-  ItemList LAMNGBFHMIM = 6;
-  uint32 JOBHPNOEIGH = 2;
-  uint32 BNNOMIBDHAA = 7;
-}

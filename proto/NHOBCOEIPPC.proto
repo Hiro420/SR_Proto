@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message NHOBCOEIPPC {
-  uint32 CEMBHDFBNGD = 11;
-  bool PPKCKMAAOAE = 9;
-  int64 DIEFJOMKFKO = 10;
-  repeated uint32 LEJIFOECFGM = 6;
-}

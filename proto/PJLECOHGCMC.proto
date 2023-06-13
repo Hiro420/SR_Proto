@@ -1,0 +1,25 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+import "BLCCFKAAHEM.proto";
+import "JEOAHOLOGLM.proto";
+
+message PJLECOHGCMC {
+  uint32 FGHNCMKHHNJ = 6;
+  ItemList CLHNFINJACO = 2;
+  uint32 ILPILFAPHAB = 13;
+  uint32 BJCJJBOJPLP = 7;
+  string ANOCKCEFLFP = 4;
+  bool ANCPOGGDMMJ = 3;
+  uint32 GGPNCJDCIEK = 9;
+  ItemList LJBJJCNLEFK = 5;
+  uint32 HFOBFAPMAAK = 1;
+  repeated BLCCFKAAHEM BBFFEEIJEOJ = 8;
+  string PGAHMINFDEF = 14;
+  uint32 HLBOMGGMBMK = 11;
+  ItemList AHBLPMNCEKN = 15;
+  uint32 CMGEOFAILBH = 10;
+  JEOAHOLOGLM MFNADDFFAII = 12;
+}

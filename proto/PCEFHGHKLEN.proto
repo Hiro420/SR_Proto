@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "FAJAPLACGIO.proto";
-
-message PCEFHGHKLEN {
-  repeated FAJAPLACGIO KCPJBDCANGJ = 10;
-  uint32 BNNOMIBDHAA = 2;
-}

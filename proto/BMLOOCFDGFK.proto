@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FKAEABKBFBP.proto";
+
+message BMLOOCFDGFK {
+  string NIKOAKBNGML = 3;
+  FKAEABKBFBP PANLMNADEHG = 14;
+}

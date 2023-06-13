@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DGKAHHLLJOH.proto";
+import "ILAMCHCKLGE.proto";
+import "GFKMPLFHDML.proto";
+import "FBPEFMCNIFK.proto";
+
+message MKHNLJNKHFD {
+  DGKAHHLLJOH HMBAADOMJBH = 10;
+  ILAMCHCKLGE FMEAAIOCKNB = 2;
+  GFKMPLFHDML DCHBNHKHHDL = 12;
+  bool AFIPMLNNKON = 4;
+  FBPEFMCNIFK FPFEPAHKMMJ = 6;
+}

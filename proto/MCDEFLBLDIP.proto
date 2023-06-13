@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "LCJCMOOOCKH.proto";
+
+message MCDEFLBLDIP {
+  repeated LCJCMOOOCKH CCKFMBONFHJ = 2;
+  uint32 ILPILFAPHAB = 12;
+}

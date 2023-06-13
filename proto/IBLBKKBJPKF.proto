@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "CANLJCDDGNI.proto";
-
-message IBLBKKBJPKF {
-  CANLJCDDGNI CMHGPABNPDB = 15;
-  uint32 ACNMBMODGAC = 6;
-}

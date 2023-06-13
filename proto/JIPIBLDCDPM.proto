@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "LNIGNINPEJO.proto";
-
-message JIPIBLDCDPM {
-  bool HPIOBDKMJFC = 11;
-  uint32 BNNOMIBDHAA = 6;
-  repeated LNIGNINPEJO MKHFGDDKBJB = 12;
-}

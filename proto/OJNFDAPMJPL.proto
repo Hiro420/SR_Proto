@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KMBMIMOINPF.proto";
+import "FHHHOEKBBCL.proto";
+
+message OJNFDAPMJPL {
+  uint32 ILPILFAPHAB = 12;
+  KMBMIMOINPF GPIFNPFFLDN = 5;
+  FHHHOEKBBCL HMMCJGMEGDM = 15;
+  uint32 FPLEMGIIAEK = 2;
+}

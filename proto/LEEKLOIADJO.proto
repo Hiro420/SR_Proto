@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NLDBAJLBELG.proto";
-
-message LEEKLOIADJO {
-  uint32 BNNOMIBDHAA = 8;
-  NLDBAJLBELG DDNCKGOCNAB = 11;
-  NLDBAJLBELG NKIDKJFLBHC = 15;
-}

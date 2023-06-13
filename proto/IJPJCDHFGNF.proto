@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum IJPJCDHFGNF {
+  GenderNone = 0;
+  GenderMan = 1;
+  GenderWoman = 2;
+}

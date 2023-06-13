@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PPBBBOFPILP.proto";
+
+message OPKGNIMMLLD {
+  uint32 MABMJEBMHNK = 8;
+  repeated PPBBBOFPILP FDGEDPOAIED = 14;
+}

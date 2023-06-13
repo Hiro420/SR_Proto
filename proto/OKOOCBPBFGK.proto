@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OKOOCBPBFGK {
+  uint32 CMGEOFAILBH = 2;
+  uint32 BKDEHAPGICC = 7;
+  uint32 KNBOIOPGGFN = 12;
+}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message HNFAAPPLIIO {
-  uint32 GGCMNKPAKNG = 1;
-  uint32 BLPPILHBCHP = 2;
-}

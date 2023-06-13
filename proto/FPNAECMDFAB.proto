@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message FPNAECMDFAB {
-  repeated uint32 HMDDHBCDINB = 13;
-}

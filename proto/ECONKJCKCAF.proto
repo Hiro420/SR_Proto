@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "CGEFIHFMLFN.proto";
+
+message ECONKJCKCAF {
+  bool DKMLOKPBMKF = 5;
+  CGEFIHFMLFN APGFKJNEDHA = 9;
+}

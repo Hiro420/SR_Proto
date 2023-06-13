@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "CMPCLBGLEMG.proto";
+
+message BHEIEPKANLI {
+  uint32 ILPILFAPHAB = 3;
+  CMPCLBGLEMG GEGFLDFFDDP = 10;
+}

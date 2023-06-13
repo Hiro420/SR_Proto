@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JCBGPNIFMCM.proto";
-
-message LMJABBKJMGI {
-  uint32 BNNOMIBDHAA = 6;
-  repeated JCBGPNIFMCM CGAPONLOFEC = 5;
-}

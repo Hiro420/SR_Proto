@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "CHAFIOCKDJC.proto";
+
+message OINBBLFNEEA {
+  bool PCBIEGMOCDD = 9;
+  repeated CHAFIOCKDJC KNCFMJBLJPL = 8;
+  uint32 BBPOOAKNGDE = 11;
+}

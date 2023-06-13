@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message DALOKNODPON {
-  uint32 MCNFOHMOGIA = 14;
-  uint32 MIBGDGGFLKJ = 10;
-  uint32 PDFLFLEOICP = 2;
-}

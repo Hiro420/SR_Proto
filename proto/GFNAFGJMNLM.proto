@@ -1,0 +1,15 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "COJLKMHMFJE.proto";
+import "DPMJLILFDIL.proto";
+import "PBLJOANMLIP.proto";
+
+message GFNAFGJMNLM {
+  oneof OGEIJBBIPJG {
+    COJLKMHMFJE MNDCOFKHDDI = 11;
+    DPMJLILFDIL HDPIFOFMMON = 3;
+    PBLJOANMLIP IOBHJJMGEAO = 12;
+  }
+}

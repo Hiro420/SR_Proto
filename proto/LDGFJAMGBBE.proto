@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GKMKKOJJFOG.proto";
+
+message LDGFJAMGBBE {
+  uint32 ILPILFAPHAB = 13;
+  GKMKKOJJFOG LKDHNGKBCEH = 12;
+}

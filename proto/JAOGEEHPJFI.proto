@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ECEEODOJAFL.proto";
+
+message JAOGEEHPJFI {
+  repeated ECEEODOJAFL GFONOLAKPAC = 11;
+  uint32 KOHKENHBCAK = 6;
+}

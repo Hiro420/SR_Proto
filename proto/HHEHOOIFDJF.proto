@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "LOKDGEKFHOH.proto";
+
+message HHEHOOIFDJF {
+  repeated LOKDGEKFHOH LJLGLLELEMI = 11;
+  uint32 FMCELIDLCBJ = 7;
+  uint32 ILPILFAPHAB = 15;
+}

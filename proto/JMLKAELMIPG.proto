@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message JMLKAELMIPG {
+  string OEGGFHPAAFM = 4;
+  uint32 KGBEEOKKLPO = 7;
+  uint32 NMBONGGHLNC = 8;
+}

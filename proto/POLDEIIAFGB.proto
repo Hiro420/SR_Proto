@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message POLDEIIAFGB {
-  uint32 ACNMBMODGAC = 4;
-  repeated uint32 KIJENCOPKHK = 15;
-}

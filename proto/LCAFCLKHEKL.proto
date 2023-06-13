@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FMEDJCPMOAG.proto";
+import "HBLEPMHHLLM.proto";
+
+message LCAFCLKHEKL {
+  repeated uint32 DHBLICEPKBO = 7;
+  FMEDJCPMOAG OJIOHEHIBAJ = 4;
+  string ABIOPKFBDCD = 13;
+  HBLEPMHHLLM JFDBFBDDCJC = 5;
+}

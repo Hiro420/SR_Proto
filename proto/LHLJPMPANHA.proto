@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LHLJPMPANHA {
+  uint32 BLPNBCEFFKJ = 3;
+  uint32 GHJNJGDMIDM = 7;
+  string JDLAMCLABKL = 12;
+}

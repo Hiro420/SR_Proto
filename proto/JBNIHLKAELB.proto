@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DAODOHIDLCI.proto";
+
+message JBNIHLKAELB {
+  DAODOHIDLCI JFGFKANAOOF = 8;
+  uint32 HICDOKIDPDA = 13;
+}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message IMPOCDBAIBH {
-  uint32 JAMBOCIOPJK = 5;
-}

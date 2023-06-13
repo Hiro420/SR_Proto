@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OCDJBPCMOAF.proto";
-
-message DANFFBGAOLN {
-  repeated OCDJBPCMOAF JHINIGGNPHM = 2;
-  uint32 BNNOMIBDHAA = 15;
-}

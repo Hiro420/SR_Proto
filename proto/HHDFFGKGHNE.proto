@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum HHDFFGKGHNE {
-  HHDFFGKGHNE_K_B_G_D_H_E_N_J_K_N_K = 0;
-  HHDFFGKGHNE_E_L_N_F_D_G_H_J_F_H_J = 1;
-  HHDFFGKGHNE_B_N_E_A_P_I_C_A_O_N_I = 2;
-  HHDFFGKGHNE_D_C_F_I_L_F_O_B_J_G_N = 3;
-  HHDFFGKGHNE_L_M_H_G_O_M_B_H_O_N_J = 4;
-}

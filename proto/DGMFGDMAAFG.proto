@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DGMFGDMAAFG {
+  uint32 CJBFGCOAKFD = 1;
+  uint32 JIKNHOGDEMB = 2;
+  uint32 FLCBJGMGPCK = 3;
+  uint32 PIBLKBJMJBM = 4;
+  repeated uint32 FLNLKCJEBIK = 5;
+  map<string, float> GHIFCCBHAEJ = 6;
+}

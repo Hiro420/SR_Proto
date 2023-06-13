@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "CGNLHGGEDME.proto";
-
-message JKLDDBJLKDK {
-  uint32 JAMBOCIOPJK = 2;
-  CGNLHGGEDME CIIIBAGKJFF = 1;
-}

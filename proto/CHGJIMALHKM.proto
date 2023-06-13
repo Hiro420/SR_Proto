@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MNGMCIGNKCI.proto";
-
-message CHGJIMALHKM {
-  MNGMCIGNKCI INPBEMHJOCB = 3;
-  uint32 AHDIOMBDDAO = 10;
-}

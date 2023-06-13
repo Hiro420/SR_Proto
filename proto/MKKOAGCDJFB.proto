@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OACOBMNDFEG.proto";
+
+message MKKOAGCDJFB {
+  uint32 LILBDANEIDB = 1;
+  uint32 PMPCEOHNJCL = 6;
+  uint32 IOMADPBLHEG = 5;
+  uint32 BBKAOMCEMMN = 8;
+  OACOBMNDFEG AGJAPMCBELG = 11;
+}

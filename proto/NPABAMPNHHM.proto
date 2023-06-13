@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OHHOACLNHDA.proto";
+
+message NPABAMPNHHM {
+  uint32 GEFDBOLODOJ = 3;
+  OHHOACLNHDA DDGOBDFHNGL = 12;
+}

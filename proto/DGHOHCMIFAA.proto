@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DGHOHCMIFAA {
+  uint32 IFKFGDCBFPG = 15;
+}

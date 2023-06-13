@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ENIADOCBGLH {
+  uint32 OMCKKOFFLJA = 14;
+  uint32 NLAGFPCCFLK = 13;
+  uint32 PFLMBCJONAM = 12;
+  uint64 IJOMNMIICIH = 8;
+  string BGMADEOICOC = 15;
+  uint32 KGBEEOKKLPO = 1;
+  uint32 BJCJJBOJPLP = 10;
+}

@@ -1,7 +1,9 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "FeatureSwitchInfo.proto";
 
 message UpdateFeatureSwitchScNotify {
-  repeated FeatureSwitchInfo switch_info_list = 1;
+  repeated FeatureSwitchInfo switch_info_list = 9;
 }

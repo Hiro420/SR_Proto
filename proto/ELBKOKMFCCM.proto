@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BMLOOCFDGFK.proto";
+import "FKAEABKBFBP.proto";
+
+message ELBKOKMFCCM {
+  uint32 ILPILFAPHAB = 6;
+  repeated BMLOOCFDGFK MANHDBLCOAG = 13;
+  repeated FKAEABKBFBP LNCKIEKCIEH = 4;
+}

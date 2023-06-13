@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "SceneEntityInfo.proto";
+
+message ECEEODOJAFL {
+  oneof CHHFAHHKLMG {
+    SceneEntityInfo LNMGGPKPDDM = 9;
+    uint32 INCKCEDAKOI = 14;
+    uint32 MCGMKBJEJHG = 15;
+  }
+}

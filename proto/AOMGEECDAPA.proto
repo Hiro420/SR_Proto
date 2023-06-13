@@ -1,0 +1,15 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NPPKKKMPCJF.proto";
+
+message AOMGEECDAPA {
+  uint32 CGBLGAIDCAB = 3;
+  uint32 CNEAAFPFBKL = 14;
+  uint32 CPHCEKHFFFF = 2;
+  repeated uint32 CIJKBNNCGAF = 1;
+  uint32 DMMAGMCBNMN = 8;
+  repeated uint32 GGDPKECKALL = 5;
+  NPPKKKMPCJF MIHANDLOHLE = 10;
+}

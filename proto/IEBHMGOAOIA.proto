@@ -1,0 +1,42 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IDLNIKJHFJP.proto";
+import "INILMOJDKCH.proto";
+import "DKBBCNIDPLJ.proto";
+import "KJCGFOKGOKG.proto";
+import "GPAKCMJGHIH.proto";
+import "PEJJBCNDKFJ.proto";
+import "PIHDHMLGCIF.proto";
+import "FBHOHIADGLD.proto";
+import "BFBFKPJOMIK.proto";
+import "MBLKNGNAAIB.proto";
+import "DKAJAOGHOEM.proto";
+import "BPLFENPJHNM.proto";
+import "MABDEPEHBNF.proto";
+import "ItemList.proto";
+import "HHIKHCCACJM.proto";
+
+message IEBHMGOAOIA {
+  repeated IDLNIKJHFJP LMPJLPFMAFM = 1428;
+  repeated uint32 IIIBCCFJGDB = 7;
+  repeated uint32 NOKKKOOFDDD = 1892;
+  INILMOJDKCH MKFCJIJJABG = 12;
+  repeated DKBBCNIDPLJ ALAEMNLAPHJ = 750;
+  repeated KJCGFOKGOKG NMLCCAGBNPD = 3;
+  repeated DKBBCNIDPLJ JLEHGIBCMJC = 14;
+  repeated GPAKCMJGHIH HEJAGLDNFHB = 13;
+  repeated uint32 OKBLPOEDKGK = 4;
+  PEJJBCNDKFJ MDLPHCOBLDG = 9;
+  repeated PIHDHMLGCIF IIDPADGNJNA = 5;
+  FBHOHIADGLD LKHABNBNBBP = 8;
+  BFBFKPJOMIK MJDAPAGMMJI = 1594;
+  repeated MBLKNGNAAIB KMHANFHGPAB = 11;
+  repeated DKAJAOGHOEM PCBOMAGAHCH = 385;
+  BPLFENPJHNM BHGJJOINEAO = 10;
+  MABDEPEHBNF MDEJKCKLGLB = 1;
+  uint32 JIANGMDCMGM = 841;
+  ItemList EAFKFEMMBLD = 1054;
+  repeated HHIKHCCACJM EJEHFHNGADK = 2;
+}

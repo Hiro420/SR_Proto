@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BOAAGILBGJA.proto";
+
+message NBDDBHLOKBD {
+  BOAAGILBGJA LNNHLAJHAKF = 9;
+}

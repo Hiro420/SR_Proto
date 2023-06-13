@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message AAIEBLNECKI {
+  uint32 LEOCPJJBMBF = 11;
+  uint32 ILPILFAPHAB = 1;
+}

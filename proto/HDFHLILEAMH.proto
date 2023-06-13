@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FKAEABKBFBP.proto";
+
+message HDFHLILEAMH {
+  FKAEABKBFBP PANLMNADEHG = 7;
+  int64 OFPIOFFAGEH = 11;
+}

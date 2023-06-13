@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FGFPLDJLOLB.proto";
-
-message FIMLMEDPMOE {
-  FGFPLDJLOLB FJHNBLIKAHP = 8;
-  uint32 CIMBHNKHNGA = 12;
-  uint32 BNNOMIBDHAA = 9;
-}

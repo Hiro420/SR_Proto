@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message LJCKHIJJDAM {
+  uint32 OMCKKOFFLJA = 11;
+  AOFCNIKCJFD HFGBLPABIFP = 15;
+}

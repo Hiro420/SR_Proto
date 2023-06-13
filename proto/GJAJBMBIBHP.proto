@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message GJAJBMBIBHP {
+  uint32 LPECDCAKMID = 8;
+  uint32 KDEPOGJKKLM = 13;
+  uint32 KLCELKLBAJB = 12;
+  uint32 BCMHPEAJJMF = 7;
+}

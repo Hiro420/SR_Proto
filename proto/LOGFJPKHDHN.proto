@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LOGFJPKHDHN {
+  uint32 JGJJLOEMOOF = 1;
+  map<uint32, uint32> DPIMJBBFLAG = 15;
+  uint32 INIDACHEKOL = 9;
+  uint32 MNACAFOIAFH = 2;
+  map<uint32, uint32> HFHHGGFFIHB = 11;
+  uint32 PCAPNPBMOPE = 6;
+  bool HNIFELCNAED = 10;
+}

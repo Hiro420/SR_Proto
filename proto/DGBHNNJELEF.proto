@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum DGBHNNJELEF {
-  DGBHNNJELEF_K_E_P_C_F_H_E_P_G_A_L = 0;
-  DGBHNNJELEF_H_B_O_L_A_F_A_H_G_D_A = 1;
-}

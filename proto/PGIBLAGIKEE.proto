@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "NLDBAJLBELG.proto";
-
-message PGIBLAGIKEE {
-  repeated NLDBAJLBELG ENPEMEKDFHC = 5;
-}

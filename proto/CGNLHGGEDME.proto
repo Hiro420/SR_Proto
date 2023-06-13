@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum CGNLHGGEDME {
-  CGNLHGGEDME_K_E_P_C_F_H_E_P_G_A_L = 0;
-  CGNLHGGEDME_M_L_D_J_F_J_A_M_I_B_M = 1;
-  CGNLHGGEDME_D_H_O_I_P_L_E_E_K_H_D = 2;
-  CGNLHGGEDME_I_K_F_G_I_D_H_K_C_O_E = 3;
-  CGNLHGGEDME_N_D_B_J_J_D_A_M_E_M_N = 4;
-}

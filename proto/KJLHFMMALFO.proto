@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KJLHFMMALFO {
+  uint32 MPLGAIBMLMB = 1;
+}

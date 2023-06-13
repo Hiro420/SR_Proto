@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GFKMPLFHDML.proto";
+import "ODKGDMCHJEH.proto";
+
+message CDHOOFNDEGH {
+  uint32 ILPILFAPHAB = 3;
+  GFKMPLFHDML DCHBNHKHHDL = 8;
+  ODKGDMCHJEH FKKBPMGIABL = 12;
+}

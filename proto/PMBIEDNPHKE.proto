@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message PMBIEDNPHKE {
-  string DMMFINHDBDM = 1;
-  double MNIDEOEOHLB = 2;
-}

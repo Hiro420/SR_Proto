@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HCALLILHPHA.proto";
+
+message GMCHCHFFMEI {
+  uint32 LEBAHEOBCEF = 1;
+  uint32 AHGDIAOPAPI = 4;
+  repeated HCALLILHPHA FFNDDJLLAJO = 6;
+  uint32 DFBKPEOCCAJ = 14;
+}

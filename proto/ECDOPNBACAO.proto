@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ECDOPNBACAO {
+  uint32 OKNIHHBGEFJ = 12;
+  uint32 GDDFNFOCBBF = 10;
+}

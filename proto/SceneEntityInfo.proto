@@ -1,20 +1,22 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "IJDFHMLLNJH.proto";
-import "CNLJADPDCHA.proto";
-import "KGNMNEBGHPK.proto";
-import "IGNIHMKPDHP.proto";
-import "IFIKFIOBEHM.proto";
+import "NPPKKKMPCJF.proto";
+import "AEBGFDBIJMJ.proto";
+import "IIJLCEBENML.proto";
+import "PGPFNNGJJAD.proto";
+import "LOKNLAGGAPO.proto";
 
 message SceneEntityInfo {
   oneof entity_case {
-    CNLJADPDCHA actor = 7;
-    KGNMNEBGHPK npc_monster = 4;
-    IGNIHMKPDHP npc = 11;
-    IFIKFIOBEHM prop = 3;
+    AEBGFDBIJMJ actor = 11;
+    IIJLCEBENML npc_monster = 6;
+    PGPFNNGJJAD npc = 15;
+    LOKNLAGGAPO prop = 7;
   }
-  uint32 group_id = 9;
-  uint32 entity_id = 15;
-  uint32 inst_id = 13;
-  IJDFHMLLNJH motion = 5;
+  NPPKKKMPCJF motion = 5;
+  uint32 entity_id = 9;
+  uint32 inst_id = 4;
+  uint32 group_id = 10;
 }

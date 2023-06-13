@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OEEPAGHOAJG {
+  bool LBHNMOPPPEA = 1;
+  uint32 JGKAAEEPNPP = 2;
+  bool KIOKFJNPIBD = 3;
+  string MDIPAOCKAFF = 4;
+  bool MEHHGHIJOKA = 5;
+}

@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message HHLICIKEBOH {
+  repeated ItemList CEAELDDHLDG = 1;
+  uint32 ILPILFAPHAB = 10;
+  repeated uint32 CJAOAGPONCO = 2;
+  uint32 JALALNGCAHD = 14;
+}

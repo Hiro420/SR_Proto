@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "IGMIIAIAJOB.proto";
-
-message LFOGIACPLIB {
-  repeated IGMIIAIAJOB DHMPJDNGBED = 9;
-  uint32 KGBFINIOJGN = 13;
-  bool DCHJMFCNDOB = 1;
-}

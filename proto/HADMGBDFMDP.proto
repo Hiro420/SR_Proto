@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PMKNDBGACEJ.proto";
+
+message HADMGBDFMDP {
+  uint32 ILPILFAPHAB = 10;
+  uint64 CBOLAPOCOEI = 13;
+  repeated PMKNDBGACEJ FEFIBKOEKOA = 9;
+}

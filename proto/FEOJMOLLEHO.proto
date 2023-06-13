@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OptionalReward.proto";
+
+message FEOJMOLLEHO {
+  repeated OptionalReward GGMICBBGJJA = 7;
+}

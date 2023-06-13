@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message LKMPIDAPBID {
+  ItemList JNBKOKACNNA = 1;
+  uint32 ILPILFAPHAB = 10;
+  repeated uint32 DEMBGBOOAEB = 15;
+}

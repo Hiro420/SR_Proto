@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message GEOALLBFNMM {
-  uint32 APOBJEICKNH = 11;
-  ItemList LAMNGBFHMIM = 14;
-}

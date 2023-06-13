@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HKBFHCEOGME {
+  int64 LOLBDMMFDIN = 1;
+  int64 KCPPDLILGDH = 6;
+}

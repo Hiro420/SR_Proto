@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DDCONOKOJEL.proto";
+
+message NAPOEJFNEEN {
+  bool NMJAMMMAIEP = 7;
+  bool MBBMGLNEHGD = 1;
+  uint32 DMBJBEHNJDO = 15;
+  bool NIBGGHHOPIP = 8;
+  repeated DDCONOKOJEL FDGEDPOAIED = 1879;
+  uint32 AJALIBDLMKJ = 12;
+  bool GJKMAODDBFL = 13;
+  uint32 MPNPDLOPLNJ = 4;
+}

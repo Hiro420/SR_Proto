@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HDKDJLILFHC {
+  bool OPJHLKEONOH = 1;
+  repeated uint32 INMHKHJJFNI = 2;
+  uint32 CJCBFNCCKNK = 3;
+  uint32 KJGOGKJOBKC = 4;
+}

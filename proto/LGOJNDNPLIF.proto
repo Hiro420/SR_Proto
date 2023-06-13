@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "CIIDHCJDJHO.proto";
+
+message LGOJNDNPLIF {
+  uint32 ILPILFAPHAB = 3;
+  CIIDHCJDJHO FFLODGDPDJO = 4;
+}

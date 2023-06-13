@@ -1,0 +1,24 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "JEOAHOLOGLM.proto";
+import "NHIMPECNLIN.proto";
+import "GMJKECCDPMO.proto";
+
+message LFANHGEFAAG {
+  map<string, uint32> DEEIOAINCFH = 8;
+  bytes FBLMHGFALCP = 12;
+  JEOAHOLOGLM MFNADDFFAII = 10;
+  bool KIOKFJNPIBD = 5;
+  uint32 AMEJBAEBDAP = 1;
+  repeated NHIMPECNLIN IKJNMHFPEJB = 2;
+  uint32 BJCJJBOJPLP = 7;
+  GMJKECCDPMO NABHPKACFAN = 15;
+  uint32 CMGEOFAILBH = 4;
+  uint32 ACAKAMKDKNH = 11;
+  uint32 BEKNOFMBIHK = 13;
+  bool NGIJHDNBHCB = 3;
+  uint32 HDHACCNNHPA = 14;
+  string BJCFCNGMOPB = 9;
+}

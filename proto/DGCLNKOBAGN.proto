@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message DGCLNKOBAGN {
+  ItemList JNBKOKACNNA = 13;
+  uint32 DIMJKAICMDD = 1;
+  uint32 ILPILFAPHAB = 3;
+  uint32 KOHKENHBCAK = 9;
+}

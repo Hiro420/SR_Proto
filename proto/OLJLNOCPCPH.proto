@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "PunkLordBattleRecord.proto";
-
-message OLJLNOCPCPH {
-  repeated PunkLordBattleRecord MAALOIHABOA = 1;
-}

@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HOCOEANMANH {
+  repeated uint32 HLPIDLHLBIC = 1;
+  repeated uint32 PJJGLKNJDOP = 9;
+  repeated uint32 JDMGPEDHHIO = 15;
+}

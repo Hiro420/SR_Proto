@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FMIJPDNGAKE.proto";
-
-message JOJEPNMLNPC {
-  uint32 DJPJKFEEGML = 10;
-  float JCGCPJFFMOO = 15;
-  repeated FMIJPDNGAKE AAPHPGKCEKF = 4;
-}

@@ -1,0 +1,56 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OMDBAAJOIMH {
+  uint32 ILPILFAPHAB = 2;
+  string JLNGIDEDKOG = 721;
+  bool CMFPJHNHAKD = 2000;
+  string DINGINMGDDG = 538;
+  string IBMFHEFAGJB = 743;
+  uint32 GDHKJNPMDLP = 12;
+  string ODJHICOJFKM = 673;
+  string FNDAIHKBKLB = 201;
+  string KPMHBKFMMCC = 688;
+  string LHOFELJJNFC = 56;
+  string MCPNDLJFEPC = 1858;
+  string NFNHDOLGBJD = 1157;
+  string IJGAPNBJNGI = 1650;
+  string AOGLHPOFEMA = 13;
+  string OEEGGCOMJBG = 1491;
+  string PACLEMBMGHI = 941;
+  string JALILBOPHNB = 347;
+  bool JEINJFKGGDM = 220;
+  bool HNCMGBCBCHC = 444;
+  string EKEMGKNJLFL = 838;
+  string NPPHKOKENOD = 7;
+  bool LDICODIBJLL = 1818;
+  bool HFFECHGJCJI = 395;
+  string IOFIELJNFMM = 14;
+  string CFBPLJDDKGK = 1623;
+  bool NIPEDAKLEEF = 6;
+  int64 LOLBDMMFDIN = 15;
+  bool PIPKDNHEEJB = 1128;
+  bool PFJDOAOGKJK = 1958;
+  string BHJFGDFDPBM = 3;
+  string GJDCFGLJDHF = 5;
+  string CNJOBJPHPNA = 274;
+  string MLALKCGJFME = 1984;
+  string EHNIOMACOAD = 1872;
+  string FNGFBEKJKBO = 698;
+  uint32 PIIHAKIOOCD = 1;
+  bool PPEKFMGGKOO = 161;
+  string PNPLKLCNAPO = 742;
+  bool FHNJHNIFGHG = 330;
+  bool KGJBMAHDNPB = 10;
+  string AMFDJHLECAO = 9;
+  int64 KCPPDLILGDH = 8;
+  string DDPLIFCDLEI = 869;
+  bool MJCBNJLNLHI = 1547;
+  string NDHKLOIFFGF = 1515;
+  uint32 NAMCMCENFDJ = 11;
+  string PEMHCNDFIPG = 1639;
+  string ADNAJOOEFJJ = 4;
+  string DMPEOAKKCJL = 1422;
+  string FJLOBMGOJFB = 579;
+}

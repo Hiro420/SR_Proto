@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LFOGIACPLIB.proto";
-
-message LLNHIIGKKLF {
-  LFOGIACPLIB PCIPMHCMLAO = 15;
-}

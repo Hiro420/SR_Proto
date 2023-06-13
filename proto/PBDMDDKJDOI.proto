@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PBDMDDKJDOI {
+  uint32 INADJIIBFNO = 13;
+}

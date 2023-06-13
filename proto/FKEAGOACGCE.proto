@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GCHADCENEOK.proto";
+
+message FKEAGOACGCE {
+  uint32 ILPILFAPHAB = 8;
+  repeated GCHADCENEOK BMCMOKLNMBB = 5;
+  uint32 GEODBMKFPFE = 15;
+  uint32 OEFBNCFALLM = 14;
+}

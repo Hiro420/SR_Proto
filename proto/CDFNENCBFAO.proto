@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PHGLLNBOIMC.proto";
+
+message CDFNENCBFAO {
+  uint32 ILPILFAPHAB = 7;
+  repeated PHGLLNBOIMC JLPENKAONDC = 2;
+}

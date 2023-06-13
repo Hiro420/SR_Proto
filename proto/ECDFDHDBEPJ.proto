@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message ECDFDHDBEPJ {
-  repeated uint32 IODEEAENAMK = 3;
-}

@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message AHOFNKCAPAM {
+  uint32 JBPDECGDEIN = 11;
+  bool KEFMIPJAHFH = 8;
+}

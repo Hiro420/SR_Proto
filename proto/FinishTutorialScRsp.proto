@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "Tutorial.proto";
 
 message FinishTutorialScRsp {
-  uint32 retcode = 14;
-  Tutorial tutorial = 8;
+  Tutorial tutorial = 11;
+  uint32 retcode = 2;
 }

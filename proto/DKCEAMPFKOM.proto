@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ABPFFMGKNAO.proto";
+
+message DKCEAMPFKOM {
+  ABPFFMGKNAO OBLDGHNJFFA = 9;
+  uint32 ILPILFAPHAB = 2;
+}

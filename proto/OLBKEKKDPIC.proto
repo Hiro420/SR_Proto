@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HMKIIOEEDDF.proto";
+
+message OLBKEKKDPIC {
+  uint32 CJBFGCOAKFD = 1;
+  uint32 JIKNHOGDEMB = 2;
+  uint32 GKOPLKCHBBA = 3;
+  repeated HMKIIOEEDDF BMCPMCHNPBP = 4;
+  uint32 DDOGKCKHAOA = 5;
+  uint32 LHHJHGAONBM = 6;
+  uint32 BBALAAGNIFI = 7;
+  uint32 CMIFJJMHNNO = 8;
+}

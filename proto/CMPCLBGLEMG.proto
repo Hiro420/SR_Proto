@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PLFDCFKCILN.proto";
+
+message CMPCLBGLEMG {
+  uint32 CJBFGCOAKFD = 15;
+  uint32 OLIONBIJMDD = 1;
+  PLFDCFKCILN APGFKJNEDHA = 7;
+}

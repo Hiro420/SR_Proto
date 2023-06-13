@@ -1,0 +1,34 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AHEOLMNEADD.proto";
+import "FKJNCGDMBPE.proto";
+import "ANJAHBPJHMA.proto";
+
+message MHMOCFHFKIK {
+  uint32 CHFCIFIHJHH = 2;
+  string MCNJANINIBE = 3;
+  uint32 HOALKNHLNHL = 206;
+  AHEOLMNEADD BEEBFNPGDON = 12;
+  string FNEPFPGLKJM = 8;
+  string IOOEHNEMGGE = 962;
+  bool LBMPCGBJBAJ = 1402;
+  string OPMBDCFPFDK = 4;
+  uint32 HDHACCNNHPA = 13;
+  string FPBEPBGBFJC = 1;
+  string EOAPBLBABBP = 1327;
+  string BPLLKLAHILF = 10;
+  string AMEJBAEBDAP = 6;
+  string EDFIMCNHHPN = 1880;
+  FKJNCGDMBPE CFPADKFBNHM = 15;
+  uint64 PGLKMFDBFFC = 9;
+  string OMEALGKCLHF = 396;
+  uint32 AGBKHCDOHIB = 1959;
+  string KNFLJGBAADF = 501;
+  ANJAHBPJHMA PNGKACHEBME = 898;
+  string CDOKOGFDLCO = 5;
+  string FIPHBCAPNEF = 11;
+  string HKNJJBMEMHL = 14;
+  string IFMAJMBLNFE = 7;
+}

@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DCAKIMJMLBE {
+  uint32 HOKDECMDBNE = 1;
+  uint32 JIKNHOGDEMB = 2;
+}

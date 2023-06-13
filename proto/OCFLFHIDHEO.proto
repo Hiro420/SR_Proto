@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OLMLJEIMIML.proto";
+
+message OCFLFHIDHEO {
+  uint32 ILPILFAPHAB = 3;
+  OLMLJEIMIML JKEHCHDHCHP = 4;
+}

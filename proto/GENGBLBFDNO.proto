@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum GENGBLBFDNO {
-  GENGBLBFDNO_D_G_O_L_C_B_O_G_M_P_C = 0;
-  GENGBLBFDNO_H_I_A_E_K_N_J_L_M_P_K = 1;
-}

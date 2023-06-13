@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KNEDKAFPHPC.proto";
+
+message NNENGEGKPEA {
+  uint32 ILPILFAPHAB = 6;
+  repeated uint32 PBEBFOGOKMG = 2;
+  repeated KNEDKAFPHPC ENKEKFHMNBF = 15;
+}

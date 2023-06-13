@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AGFFBJOENHB.proto";
+
+message FCENCGBDHJL {
+  AGFFBJOENHB KEFAOCBMJOO = 6;
+  uint32 ILPILFAPHAB = 15;
+  uint32 EBEOFGAPPGB = 9;
+}

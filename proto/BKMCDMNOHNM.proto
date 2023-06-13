@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message BKMCDMNOHNM {
+  bool EDEIFMEECGJ = 14;
+  uint32 PGHDPIOCIKD = 8;
+  uint32 JMFKAHACHAM = 7;
+  uint32 MFOPLCBNNHL = 5;
+}

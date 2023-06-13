@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message EHECPPBLKGC {
+  uint32 NLBCBEHADPD = 1;
+  uint32 CGBLGAIDCAB = 14;
+}

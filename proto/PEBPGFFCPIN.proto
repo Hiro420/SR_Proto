@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "FFGMPEOFOLO.proto";
-
-message PEBPGFFCPIN {
-  FFGMPEOFOLO HFKCOFPIKAA = 8;
-  bool MNMJLEKBKAH = 15;
-  uint32 FABNPBNBBMC = 13;
-}

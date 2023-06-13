@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message IADADDMJMLF {
-  uint32 BNNOMIBDHAA = 4;
-}

@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "RogueUnlockProgress.proto";
+import "PEJBINIPFDO.proto";
+
+message LNIACHNOICI {
+  uint32 ODLHHGFGAKA = 15;
+  repeated RogueUnlockProgress OHANCIBAOHB = 2;
+  PEJBINIPFDO APGFKJNEDHA = 13;
+}

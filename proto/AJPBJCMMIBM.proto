@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BIHMPJLMAPH.proto";
-
-message AJPBJCMMIBM {
-  BIHMPJLMAPH GIMLFOLJCJP = 4;
-  uint32 GOCJOEEGPJI = 14;
-  uint32 BNNOMIBDHAA = 6;
-}

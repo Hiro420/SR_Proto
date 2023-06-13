@@ -1,10 +1,12 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "NLGNEAPKKAK.proto";
-import "KAGDPKOELEK.proto";
+import "HBGBGBHDPJH.proto";
+import "MIBIIMKGMPF.proto";
 
 message FeatureSwitchInfo {
-  NLGNEAPKKAK type = 1;
-  repeated KAGDPKOELEK switch_list = 2;
+  HBGBGBHDPJH type = 1;
+  repeated MIBIIMKGMPF switch_list = 2;
   bool is_all_closed = 3;
 }

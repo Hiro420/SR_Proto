@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GOGEEDAONPK.proto";
+
+message EFADJKPBOCN {
+  repeated GOGEEDAONPK OCFCHJBFNCM = 9;
+  uint32 AEOHEDIADDK = 12;
+  uint32 ILPILFAPHAB = 13;
+  repeated uint32 IBGKEONGKKF = 1;
+}

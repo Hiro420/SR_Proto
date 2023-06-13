@@ -1,0 +1,30 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NHOMLMGKIGO.proto";
+import "NAPOEJFNEEN.proto";
+import "TreasureDungeonRecordData.proto";
+import "KGDFADPIEOE.proto";
+import "POBHGNIOECJ.proto";
+import "DJAPJOMNCCF.proto";
+
+message ABPFFMGKNAO {
+  uint32 KAJMOPABMNN = 3;
+  repeated NHOMLMGKIGO FDGEDPOAIED = 1838;
+  repeated NAPOEJFNEEN KGILIMBLAJG = 12;
+  bool PNAGHCEPOCB = 85;
+  uint32 JINJEOEDHMG = 14;
+  uint32 HICDOKIDPDA = 6;
+  repeated TreasureDungeonRecordData PCOHHNJLKLJ = 13;
+  uint32 NLNONNPLINH = 10;
+  repeated KGDFADPIEOE OAPOJGHJHGD = 1303;
+  repeated POBHGNIOECJ HEAFKKGLIKJ = 1137;
+  uint32 GDHONBCLKCF = 2;
+  bool KEPKHPBFKKK = 619;
+  uint32 PCAPNPBMOPE = 11;
+  repeated POBHGNIOECJ OKAMMLGCNCH = 759;
+  bool JCGGNNLAFGH = 1977;
+  repeated DJAPJOMNCCF FGMFIJANDDK = 425;
+  uint32 MNACAFOIAFH = 9;
+}

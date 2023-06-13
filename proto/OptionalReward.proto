@@ -1,6 +1,8 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message OptionalReward {
-  uint32 level = 9;
-  uint32 optional_reward_id = 8;
+  uint32 level = 8;
+  uint32 optional_reward_id = 10;
 }

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PAIFIBFIGBG.proto";
+
+message ONGMCMBANKL {
+  uint32 ILPILFAPHAB = 6;
+  repeated PAIFIBFIGBG GHEEIMLLGHD = 3;
+}

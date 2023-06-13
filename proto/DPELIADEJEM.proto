@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "MECLABOMBAN.proto";
-
-message DPELIADEJEM {
-  uint32 AHBINLOAKIO = 9;
-  uint32 CLDNHFJBDJL = 4;
-  MECLABOMBAN NKCDIGCHBJL = 8;
-}

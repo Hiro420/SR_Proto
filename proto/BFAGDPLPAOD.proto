@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "KGJGNIPCMEG.proto";
-
-message BFAGDPLPAOD {
-  KGJGNIPCMEG OBLEAPHCGND = 6;
-}

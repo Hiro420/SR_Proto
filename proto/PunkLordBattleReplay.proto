@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "NGHIIKEBBJI.proto";
+import "OAIDOPBMEFG.proto";
 
 message PunkLordBattleReplay {
   string battle_replay_key = 1;
-  NGHIIKEBBJI replay_info = 2;
+  OAIDOPBMEFG replay_info = 2;
 }

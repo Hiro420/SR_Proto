@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message IBEMELAKIFE {
-  uint32 OGCPELLHAGL = 10;
-  uint32 DMNBPDKKLHP = 4;
-  uint32 PENPILBBAEB = 13;
-  uint32 FBGGDDFMAKN = 2;
-}

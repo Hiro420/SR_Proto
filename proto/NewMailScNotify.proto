@@ -1,5 +1,7 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message NewMailScNotify {
-  repeated uint32 mail_id_list = 9;
+  repeated uint32 mail_id_list = 5;
 }

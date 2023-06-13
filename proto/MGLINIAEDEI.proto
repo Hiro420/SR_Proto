@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message MGLINIAEDEI {
-  int64 GIEMGKNCIIG = 13;
-  int64 EHKKIFLBGGC = 3;
-  uint32 AAIJEIFFEAL = 15;
-}

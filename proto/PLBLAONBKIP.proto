@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message PLBLAONBKIP {
-  uint32 CIMBHNKHNGA = 12;
-}

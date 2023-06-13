@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "CMPDOIIIINI.proto";
-
-message IDLIGOEBPKI {
-  repeated CMPDOIIIINI NEAEHPKCBOP = 1;
-  uint32 BNNOMIBDHAA = 14;
-}

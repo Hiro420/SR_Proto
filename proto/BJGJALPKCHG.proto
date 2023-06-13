@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum BJGJALPKCHG {
-  BJGJALPKCHG_K_E_P_C_F_H_E_P_G_A_L = 0;
-  BJGJALPKCHG_F_B_D_O_I_P_J_K_H_O_H = 1;
-  BJGJALPKCHG_E_H_B_F_J_D_B_E_H_I_L = 2;
-}

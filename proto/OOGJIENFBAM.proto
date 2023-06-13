@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message OOGJIENFBAM {
-  ItemList LAMNGBFHMIM = 7;
-}

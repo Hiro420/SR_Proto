@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum NNKEEEBLMJH {
-  NNKEEEBLMJH_K_E_P_C_F_H_E_P_G_A_L = 0;
-  NNKEEEBLMJH_J_G_D_B_D_H_A_O_H_P_E = 1;
-  NNKEEEBLMJH_O_P_J_P_J_C_D_M_I_G_D = 2;
-}

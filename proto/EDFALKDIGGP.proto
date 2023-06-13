@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message EDFALKDIGGP {
+  uint32 FDAPLOPDKGM = 1;
+  AOFCNIKCJFD HFGBLPABIFP = 12;
+  uint32 CJBFGCOAKFD = 10;
+}

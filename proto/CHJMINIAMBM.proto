@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message CHJMINIAMBM {
+  uint32 ODLHHGFGAKA = 2;
+}

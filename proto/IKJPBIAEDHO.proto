@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MIJLKEDJAFO.proto";
-
-message IKJPBIAEDHO {
-  repeated MIJLKEDJAFO JIPIGCJMLOG = 14;
-  uint32 BNNOMIBDHAA = 9;
-}

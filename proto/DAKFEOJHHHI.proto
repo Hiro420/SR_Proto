@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AIPLBLPNPBL.proto";
+
+message DAKFEOJHHHI {
+  uint32 AABPPILHMKF = 14;
+  AIPLBLPNPBL LOPMFCJFKKK = 4;
+}

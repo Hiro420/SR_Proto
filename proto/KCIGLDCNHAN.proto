@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message KCIGLDCNHAN {
-  uint32 AHDIOMBDDAO = 5;
-}

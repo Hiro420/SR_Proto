@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message CGGPMFODEMP {
-  repeated uint32 MMHCFMGBAMB = 5;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "IBEMELAKIFE.proto";
-import "DKPGDHKAPNG.proto";
-
-message FCNJDMODNOJ {
-  IBEMELAKIFE MBNAJNBHBHM = 11;
-  DKPGDHKAPNG CIIIBAGKJFF = 3;
-}

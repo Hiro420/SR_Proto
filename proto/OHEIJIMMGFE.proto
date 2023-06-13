@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ICIFBMBJLIN.proto";
-
-message OHEIJIMMGFE {
-  uint32 BNNOMIBDHAA = 15;
-  ICIFBMBJLIN BJPAFDEGNFD = 9;
-}

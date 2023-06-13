@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message NONBEIKJIHE {
-  uint32 MPPGANPIMDJ = 1;
-  double NGLNPOPKFDP = 2;
-  repeated uint32 JFAMKHIIJFH = 3;
-  double MNIDEOEOHLB = 4;
-}

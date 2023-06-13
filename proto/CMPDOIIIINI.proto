@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "PNKBMIEBDGA.proto";
-import "NGDJIMPCOGK.proto";
-
-message CMPDOIIIINI {
-  PNKBMIEBDGA EHMOMGLHBDB = 9;
-  NGDJIMPCOGK EFAONEDACHL = 7;
-}

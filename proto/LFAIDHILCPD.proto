@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message LFAIDHILCPD {
-  uint32 AEKAEFDLBCH = 4;
-}

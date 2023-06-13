@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FightActivityGroup.proto";
+
+message DAINHJCHCJD {
+  bool IANHEHHMGIF = 8;
+  repeated FightActivityGroup DGCKLECLBND = 14;
+  map<uint32, uint32> PBBDAKADPBM = 6;
+  uint32 ILPILFAPHAB = 4;
+  uint32 OKEMNKMDNPO = 12;
+}

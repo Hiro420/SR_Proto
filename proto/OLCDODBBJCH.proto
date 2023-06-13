@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OLCDODBBJCH {
+  uint32 BJCJJBOJPLP = 1;
+  uint32 ILPILFAPHAB = 15;
+}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PBMJOEANEML.proto";
+
+message KCHGAHNBJMN {
+  PBMJOEANEML EOGKNPGAKJE = 4;
+  uint32 ILPILFAPHAB = 5;
+}

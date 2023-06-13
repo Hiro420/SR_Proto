@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LOAKDGPJHDF {
+  uint32 EDMJOPMOKIO = 9;
+  uint32 GFKONFPEIII = 10;
+}

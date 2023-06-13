@@ -1,0 +1,26 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DisplayAvatarDetailInfo.proto";
+import "MKKOAGCDJFB.proto";
+import "FKJNCGDMBPE.proto";
+
+message HIPHMFLBDOO {
+  repeated DisplayAvatarDetailInfo DHINCEGHHCF = 3;
+  bool LJNMNLJBHGL = 13;
+  DisplayAvatarDetailInfo OCMJCJACHNG = 15;
+  bool FODKJJNNCAI = 9;
+  string BGMADEOICOC = 14;
+  string FPBEPBGBFJC = 6;
+  uint32 KGBEEOKKLPO = 2;
+  MKKOAGCDJFB MIEALEOEHDN = 10;
+  string IOOEHNEMGGE = 7;
+  uint32 PFLMBCJONAM = 1;
+  uint32 IDBELBKNFGO = 4;
+  string EDFIMCNHHPN = 528;
+  FKJNCGDMBPE CFPADKFBNHM = 5;
+  uint32 KKHNJJCDCNG = 11;
+  uint32 OKEMNKMDNPO = 8;
+  uint32 JIKNHOGDEMB = 12;
+}

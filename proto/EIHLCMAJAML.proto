@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message EIHLCMAJAML {
-  uint32 IBCPCNLBICH = 7;
-}

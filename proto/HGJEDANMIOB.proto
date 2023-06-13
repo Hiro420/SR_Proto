@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HGJEDANMIOB {
+  uint32 KGBEEOKKLPO = 9;
+  bool KOFFCJPACPJ = 15;
+}

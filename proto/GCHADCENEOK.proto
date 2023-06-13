@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "HBLEPMHHLLM.proto";
+
+message GCHADCENEOK {
+  uint64 PGOMOCCCKMP = 1;
+  HBLEPMHHLLM JFDBFBDDCJC = 5;
+  uint32 NJNHLICHGMK = 4;
+  string IMOAFNDFLKD = 15;
+}

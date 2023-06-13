@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message BEPHJCAHCCB {
+  uint32 ILPILFAPHAB = 6;
+  ItemList JNBKOKACNNA = 5;
+  uint32 KBGCLBANHMF = 8;
+}

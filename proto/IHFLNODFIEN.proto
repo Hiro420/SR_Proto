@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OBMIIFEJDPH.proto";
-
-message IHFLNODFIEN {
-  OBMIIFEJDPH OICAKLFEHJH = 12;
-}

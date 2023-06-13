@@ -1,12 +1,14 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "ClientMail.proto";
 
 message GetMailScRsp {
-  bool is_end = 5;
-  repeated ClientMail mail_list = 13;
-  uint32 start = 8;
-  uint32 total_num = 4;
-  repeated ClientMail notice_mail_list = 7;
-  uint32 retcode = 12;
+  repeated ClientMail mail_list = 1;
+  uint32 total_num = 5;
+  uint32 start = 7;
+  bool is_end = 6;
+  repeated ClientMail notice_mail_list = 9;
+  uint32 retcode = 10;
 }

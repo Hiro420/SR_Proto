@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KEIPOOFDFGH.proto";
+import "KLGOBCBDMNG.proto";
+import "KKIJKCNIHIE.proto";
+
+message ACGIIEOFEAF {
+  uint32 MPNACGBHOGO = 13;
+  KEIPOOFDFGH HBJNMKLKMGP = 7;
+  uint32 PEBNFPLHBCO = 3;
+  repeated KLGOBCBDMNG GCLCIDMGAAI = 8;
+  KKIJKCNIHIE APGFKJNEDHA = 4;
+  uint32 JBPDECGDEIN = 14;
+}

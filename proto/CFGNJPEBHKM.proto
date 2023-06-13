@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FIOLBPPPEIF.proto";
+
+message CFGNJPEBHKM {
+  uint32 ILPILFAPHAB = 6;
+  repeated FIOLBPPPEIF HGPMBCMGGEI = 2;
+}

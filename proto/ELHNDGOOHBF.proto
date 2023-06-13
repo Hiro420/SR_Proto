@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message ELHNDGOOHBF {
+  uint32 ILPILFAPHAB = 7;
+  uint32 JBPDECGDEIN = 6;
+  ItemList JNBKOKACNNA = 11;
+  repeated uint32 GEOCBPLLNBP = 14;
+}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message AKCHMGEOHAP {
-  ItemList AJEJCBOINBI = 10;
-  uint32 BNNOMIBDHAA = 5;
-  uint32 CECNPNPFIDL = 2;
-}

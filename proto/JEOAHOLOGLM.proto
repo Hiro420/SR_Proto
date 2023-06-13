@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum JEOAHOLOGLM {
+  BATTLE_END_NONE = 0;
+  BATTLE_END_WIN = 1;
+  BATTLE_END_LOSE = 2;
+  BATTLE_END_QUIT = 3;
+}

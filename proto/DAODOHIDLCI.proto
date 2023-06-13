@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BBCAHLCCKLC.proto";
+
+message DAODOHIDLCI {
+  BBCAHLCCKLC CPNOMFMFLNF = 6;
+  uint32 BCGENDKMFAB = 9;
+  uint32 LGIFDADBCBI = 13;
+  BBCAHLCCKLC CKNOMOELHFD = 7;
+  uint32 JIMHFIKGFDJ = 4;
+}

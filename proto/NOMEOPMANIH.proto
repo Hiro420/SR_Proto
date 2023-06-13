@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "IEGJCHIKMKK.proto";
-
-message NOMEOPMANIH {
-  IEGJCHIKMKK KPHDHAKGIKN = 1;
-  uint32 MCNFOHMOGIA = 9;
-  uint32 MIBGDGGFLKJ = 6;
-}

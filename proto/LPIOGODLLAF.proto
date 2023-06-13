@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FLLGONEOHJB.proto";
+import "OINBBLFNEEA.proto";
+
+message LPIOGODLLAF {
+  uint32 ILPILFAPHAB = 13;
+  FLLGONEOHJB KJJEPDFDGHN = 3;
+  OINBBLFNEEA MKNNOILFAGA = 9;
+}

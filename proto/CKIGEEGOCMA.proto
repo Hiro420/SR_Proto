@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OBIFAKLOOAK.proto";
+
+message CKIGEEGOCMA {
+  OBIFAKLOOAK GHDBPHJMKEE = 5;
+  uint32 ILPILFAPHAB = 7;
+}

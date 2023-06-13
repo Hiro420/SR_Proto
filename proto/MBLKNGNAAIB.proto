@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MBLKNGNAAIB {
+  uint32 ADALINPELOC = 8;
+  uint32 EKKBFMJFBAC = 9;
+}

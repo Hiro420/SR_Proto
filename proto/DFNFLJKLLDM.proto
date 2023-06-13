@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "AEOEGPONFFP.proto";
-
-message DFNFLJKLLDM {
-  AEOEGPONFFP FBDCCIKLLPK = 10;
-}

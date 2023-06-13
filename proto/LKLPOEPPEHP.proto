@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LKLPOEPPEHP {
+  uint32 GGEBACNJNOO = 1;
+  double NPPBFHBAGCP = 2;
+  repeated uint32 BOKEEDNNKOA = 3;
+  double NLAGFPCCFLK = 4;
+}

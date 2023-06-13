@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message ODCAIOHFMMK {
-  uint32 JAMBOCIOPJK = 1;
-  uint32 KDAMDKEMLPK = 2;
-}

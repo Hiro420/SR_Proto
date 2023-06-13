@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "LNEOGCKLOPC.proto";
+
+message FEDODGGHKIH {
+  uint32 MDHPKFAENPK = 2;
+  uint32 JIKNHOGDEMB = 11;
+  LNEOGCKLOPC BBALAAGNIFI = 15;
+}

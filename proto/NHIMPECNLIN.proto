@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NHIMPECNLIN {
+  uint32 HJIECMAGKDJ = 1;
+  uint32 IFGDGONAPKO = 2;
+  uint32 BFKNKAOCBEM = 3;
+  uint32 EMBIDENOHCC = 4;
+  uint32 MMAKHKDBPOH = 5;
+  uint32 DMMAGMCBNMN = 6;
+  uint32 DMCLOEKHJNL = 7;
+  string APJHABDLGNI = 8;
+}

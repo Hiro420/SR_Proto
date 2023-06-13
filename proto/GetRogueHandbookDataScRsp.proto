@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "FKLBODGAJNL.proto";
+import "NMGHEEPMBAD.proto";
 
 message GetRogueHandbookDataScRsp {
-  FKLBODGAJNL handbook_info = 2;
-  uint32 retcode = 6;
+  uint32 retcode = 9;
+  NMGHEEPMBAD handbook_info = 5;
 }

@@ -1,0 +1,6 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PEMPDDHFGID {
+}

@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DEKBAABIOLI {
+  uint32 PCPBPACBAMM = 12;
+  uint32 CKGNEFMPKIL = 9;
+  uint32 ECBLMHEIDHD = 6;
+}

@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message COFBJAEEKGB {
+  uint32 GMELGJOGEMJ = 3;
+  int64 BCJGDLGPBGM = 14;
+  uint32 POIKJDNKLOB = 12;
+  uint32 APFEMEKGNPG = 5;
+  repeated uint32 NNNAGEGGLOM = 8;
+  uint32 JPJLKEGDIAN = 11;
+  uint32 ILPILFAPHAB = 15;
+  uint32 OAPFFPGHLEI = 13;
+}

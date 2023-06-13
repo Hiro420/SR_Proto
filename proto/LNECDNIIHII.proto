@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IAELHPIAHKA.proto";
-
-message LNECDNIIHII {
-  repeated IAELHPIAHKA JOLFGAAKJBH = 3;
-  bool LJFHNBLHOHB = 7;
-}

@@ -1,10 +1,12 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "TutorialGuide.proto";
 import "ItemList.proto";
+import "TutorialGuide.proto";
 
 message FinishTutorialGuideScRsp {
-  uint32 retcode = 12;
-  TutorialGuide tutorial_guide = 14;
-  ItemList reward = 7;
+  ItemList reward = 4;
+  TutorialGuide tutorial_guide = 3;
+  uint32 retcode = 13;
 }

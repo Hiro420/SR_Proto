@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KIKLOGOGFHA {
+  uint32 KOHKENHBCAK = 4;
+  uint32 DIMJKAICMDD = 3;
+}

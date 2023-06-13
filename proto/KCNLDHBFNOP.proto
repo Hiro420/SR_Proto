@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DGKAHHLLJOH.proto";
+import "FBPEFMCNIFK.proto";
+import "ODKGDMCHJEH.proto";
+
+message KCNLDHBFNOP {
+  DGKAHHLLJOH HMBAADOMJBH = 14;
+  uint32 ILPILFAPHAB = 10;
+  FBPEFMCNIFK FPFEPAHKMMJ = 11;
+  ODKGDMCHJEH FKKBPMGIABL = 12;
+}

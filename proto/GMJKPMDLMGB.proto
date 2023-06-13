@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+import "GEAPFJEPNKD.proto";
+import "EIJEGKNMHCE.proto";
+
+message GMJKPMDLMGB {
+  ItemList FGMFIJANDDK = 5;
+  repeated GEAPFJEPNKD IINHMHPKKML = 9;
+  uint32 IKJBJDFENBH = 4;
+  uint64 EMADCJLIDHN = 15;
+  uint32 OKEMNKMDNPO = 1;
+  EIJEGKNMHCE APGFKJNEDHA = 12;
+}

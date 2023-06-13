@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KNOKLCAPLGK {
+  bool IHHPIEKLCLF = 15;
+  uint32 GHJFNIIMPNE = 2;
+  uint32 CKGNEFMPKIL = 12;
+  bool IAICKCFAAEC = 4;
+  uint32 ILPILFAPHAB = 1;
+}

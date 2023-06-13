@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GOCAPHMCAOP {
-  uint32 JEDOGOCJABD = 2;
-  uint32 ABIBDJANJJC = 13;
-}

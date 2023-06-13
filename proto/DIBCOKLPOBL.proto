@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message DIBCOKLPOBL {
-  string MJBLDMEPFMO = 1;
-  string BHLILFMLNEE = 2;
-}

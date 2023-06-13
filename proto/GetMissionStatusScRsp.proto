@@ -1,11 +1,14 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "JOHFKDHKIHJ.proto";
+import "CMPCLBGLEMG.proto";
 
 message GetMissionStatusScRsp {
-  repeated uint32 unfinished_main_mission_id_list = 3;
-  repeated JOHFKDHKIHJ mission_event_status_list = 4;
-  repeated uint32 finished_main_mission_id_list = 1;
-  repeated JOHFKDHKIHJ sub_mission_status_list = 8;
-  uint32 retcode = 15;
+  repeated uint32 finished_main_mission_id_list = 6;
+  repeated CMPCLBGLEMG sub_mission_status_list = 8;
+  repeated CMPCLBGLEMG mission_event_status_list = 14;
+  repeated uint32 unfinished_main_mission_id_list = 4;
+  repeated uint32 disabled_main_mission_id_list = 3;
+  uint32 retcode = 1;
 }

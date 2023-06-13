@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PNPACIINLAE.proto";
+
+message GEAPFJEPNKD {
+  uint32 BNBDDOFICFH = 3;
+  uint32 OFNANEEOAMC = 13;
+  PNPACIINLAE GOKANHHMOAA = 14;
+}

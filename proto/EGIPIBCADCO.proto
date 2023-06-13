@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum EGIPIBCADCO {
-  EGIPIBCADCO_L_O_O_F_E_E_B_J_K_F_M = 0;
-  EGIPIBCADCO_K_J_J_I_A_H_F_E_O_L_F = 1;
-  EGIPIBCADCO_G_M_A_P_K_I_P_P_H_D_A = 2;
-  EGIPIBCADCO_K_H_F_O_L_H_E_F_G_G_C = 3;
-}

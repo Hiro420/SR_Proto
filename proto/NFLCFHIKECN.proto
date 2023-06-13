@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message NFLCFHIKECN {
-  uint32 FLBCNIKLNFE = 1;
-  int32 LJIJIMLNPKK = 2;
-}

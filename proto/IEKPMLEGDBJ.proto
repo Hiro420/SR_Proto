@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FNFKGAKDPBN.proto";
+
+message IEKPMLEGDBJ {
+  uint32 CFKCEODLJHK = 4;
+  FNFKGAKDPBN NBKONHPHMEP = 15;
+  uint32 JIKNHOGDEMB = 2;
+}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message PANAGFKDFBG {
+  uint32 OAFHLCJILIL = 4;
+  ItemList FGMFIJANDDK = 1;
+}

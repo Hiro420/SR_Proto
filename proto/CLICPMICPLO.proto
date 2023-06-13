@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message CLICPMICPLO {
-  uint32 BNNOMIBDHAA = 11;
-}

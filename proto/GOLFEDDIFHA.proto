@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AKNPBBMDFCL.proto";
+
+message GOLFEDDIFHA {
+  uint32 JBPDECGDEIN = 7;
+  repeated AKNPBBMDFCL NJPMKFLNIGC = 5;
+  repeated uint32 HEAFKKGLIKJ = 2;
+}

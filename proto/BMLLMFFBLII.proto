@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IJPJCDHFGNF.proto";
+
+message BMLLMFFBLII {
+  IJPJCDHFGNF GCKAGNPGKKG = 15;
+  bool KCNBGBPNMCN = 2;
+  string BGMADEOICOC = 9;
+}

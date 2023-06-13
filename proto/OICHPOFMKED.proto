@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PNKBMIEBDGA.proto";
-
-message OICHPOFMKED {
-  string EEIMKPMPDGL = 10;
-  PNKBMIEBDGA EHMOMGLHBDB = 2;
-}

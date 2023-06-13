@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NILMOBFGMNC.proto";
+import "OLHLPDGKEMI.proto";
+
+message PMPIFJPCBHM {
+  repeated NILMOBFGMNC PJCONGOIBNO = 5;
+  repeated OLHLPDGKEMI PFAJEGIDEIP = 6;
+  uint32 ILPILFAPHAB = 14;
+}

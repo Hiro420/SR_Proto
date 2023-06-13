@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "EHAOMOPEIGI.proto";
+import "CIIDHCJDJHO.proto";
+
+message DCMBEBOPFHO {
+  repeated EHAOMOPEIGI BEENFMDGHGN = 7;
+  bool EFMLOGOGCPA = 12;
+  CIIDHCJDJHO FFLODGDPDJO = 13;
+  repeated uint32 OPPCMHLJLII = 15;
+}

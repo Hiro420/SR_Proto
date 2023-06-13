@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GFNBMGDFEJO.proto";
+
+message APGDFMCPBLN {
+  repeated GFNBMGDFEJO PBKLMBMIIGD = 6;
+  GFNBMGDFEJO KGNDJKPDOJD = 2;
+}

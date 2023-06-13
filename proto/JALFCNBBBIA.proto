@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MBPOAJOPMEA.proto";
-
-message JALFCNBBBIA {
-  MBPOAJOPMEA OPFNOLJCCJL = 7;
-  repeated string JBKOJHCMBLG = 13;
-}

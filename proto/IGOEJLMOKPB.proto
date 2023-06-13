@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message IGOEJLMOKPB {
+  string FPBEPBGBFJC = 4;
+}

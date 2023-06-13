@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BAGPFGMEOPD.proto";
+
+message LBFAFCBMJEG {
+  repeated BAGPFGMEOPD EDDNGGNLBFC = 11;
+  uint32 OAFHLCJILIL = 13;
+  string FMEACLDOIDN = 15;
+}

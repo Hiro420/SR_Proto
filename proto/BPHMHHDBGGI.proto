@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message BPHMHHDBGGI {
+  uint32 ILPILFAPHAB = 11;
+}

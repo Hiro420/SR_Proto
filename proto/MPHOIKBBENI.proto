@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IPLOFDIADBK.proto";
+
+message MPHOIKBBENI {
+  uint32 GKOPLKCHBBA = 14;
+  uint32 MFFNEIDOBBH = 10;
+  uint32 MNDNHOPHDAK = 5;
+  uint32 PNIHPOFJIIF = 7;
+  IPLOFDIADBK BEDCMPKEFDK = 8;
+}

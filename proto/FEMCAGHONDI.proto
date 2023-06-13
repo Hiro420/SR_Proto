@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message FEMCAGHONDI {
+  uint32 JBPDECGDEIN = 15;
+}

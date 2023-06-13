@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NPPKKKMPCJF.proto";
+
+message NHMAGIEEKHN {
+  bool AMFEHIOAGBK = 5;
+  NPPKKKMPCJF EBMGENEGDJB = 4;
+}

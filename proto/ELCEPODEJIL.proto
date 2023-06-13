@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ELCEPODEJIL {
+  double PPEBCHFKIML = 1;
+  double FPOPEHOIJAK = 2;
+  double EFCCIJGGPAE = 3;
+  double HAKDKFNMBPG = 4;
+  double NLDBDAPOCCG = 5;
+  double JCBLCFHFDOG = 6;
+  double EGNAIPMHOOJ = 7;
+}

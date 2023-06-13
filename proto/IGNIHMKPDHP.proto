@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "OKFHLIFGCON.proto";
-
-message IGNIHMKPDHP {
-  uint32 MLKOKHOCMLL = 15;
-  OKFHLIFGCON OGFCHCEJHFG = 7;
-}

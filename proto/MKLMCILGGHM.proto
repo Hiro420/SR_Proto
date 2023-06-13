@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message MKLMCILGGHM {
+  ItemList JNBKOKACNNA = 3;
+}

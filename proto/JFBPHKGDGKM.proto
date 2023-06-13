@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message JFBPHKGDGKM {
+  uint32 LOBBGLIHMDC = 15;
+  uint32 JKCGMOPMLNO = 12;
+}

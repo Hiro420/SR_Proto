@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message ANIHJOGGJIN {
-  repeated uint32 CGHJKGPKPBJ = 1;
-}

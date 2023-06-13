@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HAHIAGBJELA.proto";
-
-message DBPNJIAFFNH {
-  HAHIAGBJELA KMAFPIKBKIP = 11;
-  uint32 BNNOMIBDHAA = 8;
-  uint32 POBHPIEDIHO = 7;
-}

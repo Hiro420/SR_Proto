@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "IAELHPIAHKA.proto";
-
-message DOCOHOCAOPG {
-  repeated IAELHPIAHKA JOLFGAAKJBH = 3;
-}

@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PHNHLDDOFLO {
+  uint32 ECBLMHEIDHD = 11;
+  uint32 PCPBPACBAMM = 4;
+  uint32 CKGNEFMPKIL = 10;
+}

@@ -1,0 +1,57 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+import "IIIBHGDDMLD.proto";
+import "DCAKIMJMLBE.proto";
+import "IEDNLCINAKB.proto";
+import "IPFFGIOGMHK.proto";
+import "LBGEHNOPBLO.proto";
+import "GFFKLDBBKKC.proto";
+import "OLBKEKKDPIC.proto";
+import "OCLBEJIFDKL.proto";
+
+message FCAKJCHMLOF {
+  AOFCNIKCJFD HFGBLPABIFP = 1;
+  uint32 CJBFGCOAKFD = 2;
+  uint32 EJEKNPNLBLF = 3;
+  uint32 DPAHCFDLEDN = 4;
+  uint32 LLBHMBDAIAB = 5;
+  IIIBHGDDMLD GOKMOHDKAPN = 6;
+  repeated DCAKIMJMLBE EIBJMPICALJ = 7;
+  repeated IEDNLCINAKB OPDHIFDIMHE = 8;
+  uint32 LCBMFOHALHA = 9;
+  double HNOKEAMELKI = 10;
+  double IGPNEBHALJD = 11;
+  double MDHAIBEHIEG = 12;
+  double FPGDLPILMFC = 13;
+  double LJLCFNILLKI = 14;
+  uint32 BJCJJBOJPLP = 15;
+  uint32 HDBBOJEGKCH = 16;
+  double MHGBPPBFLFE = 17;
+  repeated IPFFGIOGMHK MPGPMECAMFJ = 18;
+  repeated IPFFGIOGMHK OIBJKNBLNNH = 19;
+  repeated IPFFGIOGMHK DOOMHIBBCOH = 20;
+  repeated LBGEHNOPBLO EIBLLAHMILE = 21;
+  double EMECJCGKNLD = 22;
+  uint32 AHCMJKHDADK = 23;
+  repeated GFFKLDBBKKC EOCNAGONIAP = 24;
+  uint32 INHLHEEOPAF = 25;
+  uint32 LCBECOEPLJK = 26;
+  uint32 LDEHFIFLLHN = 27;
+  uint32 ILCICJENMLL = 28;
+  uint32 APBIKGLLADM = 29;
+  double CPIMDDLNFGE = 30;
+  double DEHCJEPAOOJ = 31;
+  double DDEHDLGECBA = 32;
+  IIIBHGDDMLD FHFJDDMKKOP = 33;
+  repeated OLBKEKKDPIC JCDAHLGFDJH = 34;
+  uint32 GLDGHGCAKBD = 35;
+  repeated IPFFGIOGMHK AHGLCCADNCI = 36;
+  double EGCEGDBFEKC = 37;
+  double NPIFIBAGCHP = 38;
+  double NPMFBAEOECI = 39;
+  double HALDPDIFHGN = 40;
+  repeated OCLBEJIFDKL IGIBJIPBALC = 41;
+}

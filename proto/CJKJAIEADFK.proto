@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OIPHDEMKFJA.proto";
+import "IJPJCDHFGNF.proto";
+import "HHIKHCCACJM.proto";
+
+message CJKJAIEADFK {
+  bool JICOKEDKJBB = 1;
+  bool APGPJIHBABL = 10;
+  OIPHDEMKFJA LBAJPLLHIDL = 13;
+  uint32 ILPILFAPHAB = 6;
+  IJPJCDHFGNF GCKAGNPGKKG = 3;
+  repeated HHIKHCCACJM EJEHFHNGADK = 11;
+}

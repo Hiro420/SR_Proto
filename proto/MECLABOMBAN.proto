@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum MECLABOMBAN {
-  MECLABOMBAN_K_E_P_C_F_H_E_P_G_A_L = 0;
-  MECLABOMBAN_E_E_M_G_H_N_M_K_G_I_I = 1;
-  MECLABOMBAN_B_I_M_H_P_L_E_K_H_O_O = 2;
-  MECLABOMBAN_H_D_E_G_E_A_O_J_F_C_A = 3;
-  MECLABOMBAN_N_M_P_N_K_L_J_N_N_A_K = 4;
-}

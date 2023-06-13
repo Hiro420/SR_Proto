@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BOAAGILBGJA.proto";
+
+message EBCHIALHCEN {
+  BOAAGILBGJA LNNHLAJHAKF = 4;
+  uint32 ILPILFAPHAB = 15;
+}

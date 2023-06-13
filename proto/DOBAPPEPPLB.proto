@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "HLFMKHHNBII.proto";
-
-message DOBAPPEPPLB {
-  repeated uint32 GCKFHHLDMFO = 8;
-  repeated HLFMKHHNBII GHAPKKNAIIN = 9;
-  uint32 BNNOMIBDHAA = 15;
-}

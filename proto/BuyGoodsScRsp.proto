@@ -1,11 +1,13 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "ItemList.proto";
 
 message BuyGoodsScRsp {
-  uint32 goods_buy_times = 1;
+  uint32 goods_id = 1;
+  uint32 goods_buy_times = 14;
+  ItemList return_item_list = 9;
+  uint32 retcode = 7;
   uint32 shop_id = 11;
-  uint32 retcode = 15;
-  uint32 goods_id = 14;
-  ItemList return_item_list = 7;
 }

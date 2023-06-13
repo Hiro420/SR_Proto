@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OBMIIFEJDPH.proto";
-
-message NGHMNFJDIFC {
-  OBMIIFEJDPH OICAKLFEHJH = 2;
-  bool APGIBDNBDEA = 10;
-  string BJDHLDEAKIP = 4;
-}

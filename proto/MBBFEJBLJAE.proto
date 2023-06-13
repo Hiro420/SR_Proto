@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MBBFEJBLJAE {
+  string CDDCPALNBEJ = 1;
+  string KNIAEJNOKEI = 2;
+  string PCDMHGHECEJ = 3;
+  string KHPHHJHAKIE = 4;
+  string BPCDCOEGACE = 5;
+  string NPPHKOKENOD = 6;
+}

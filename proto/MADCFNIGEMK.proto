@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message MADCFNIGEMK {
-  uint32 BNNOMIBDHAA = 3;
-  uint32 APOBJEICKNH = 6;
-}

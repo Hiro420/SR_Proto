@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AOFCNIKCJFD.proto";
+
+message HMIBIAANLGO {
+  uint32 KIGIOHEAIFF = 4;
+  uint32 MDHPKFAENPK = 8;
+  uint32 OKGAKEHFKFE = 15;
+  uint32 GHJFNIIMPNE = 12;
+  AOFCNIKCJFD PGBHBMDHAHK = 13;
+}

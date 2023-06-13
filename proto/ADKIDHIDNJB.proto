@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "CANLJCDDGNI.proto";
-
-message ADKIDHIDNJB {
-  CANLJCDDGNI EJBEGFNLFHK = 8;
-}

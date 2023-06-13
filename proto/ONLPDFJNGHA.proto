@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "CMPDOIIIINI.proto";
-
-message ONLPDFJNGHA {
-  CMPDOIIIINI IKFGIDHKCOE = 11;
-}

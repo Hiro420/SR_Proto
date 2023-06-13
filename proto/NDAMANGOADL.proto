@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "JGLBLPNOHAA.proto";
+
+message NDAMANGOADL {
+  JGLBLPNOHAA OEOPDELOMHI = 5;
+  uint32 ILPILFAPHAB = 8;
+}

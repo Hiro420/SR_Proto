@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message GGCMJMDNIEM {
-  uint32 APOBJEICKNH = 12;
-}

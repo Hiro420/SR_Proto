@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "IPLOPBMBKIE.proto";
-
-message PMDPLINOOOC {
-  repeated IPLOPBMBKIE DJEHFEELFCC = 4;
-  uint32 BNNOMIBDHAA = 11;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "KAPFCJLGMKI.proto";
-
-message ENDDPHOJKBK {
-  repeated KAPFCJLGMKI CCFPPGNFKFH = 4;
-  uint32 BNNOMIBDHAA = 3;
-}

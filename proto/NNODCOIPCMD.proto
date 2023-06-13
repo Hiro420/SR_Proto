@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NNODCOIPCMD {
+  uint32 JIKNHOGDEMB = 8;
+  uint32 ILPILFAPHAB = 3;
+  uint32 CFKCEODLJHK = 15;
+}

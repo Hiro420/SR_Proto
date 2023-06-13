@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OOLIBFJDOMN {
+  uint32 FPPICCGDMCC = 6;
+  string FNCFCDOCAGC = 13;
+}

@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "MBBFEJBLJAE.proto";
+
+message DIJNMPJDEGA {
+  uint32 ILPILFAPHAB = 1;
+  string NPPHKOKENOD = 2;
+  string MLDOJCIJAHC = 3;
+  repeated MBBFEJBLJAE MBKIJNNJHKG = 4;
+  string DIDFEABLEEE = 5;
+}

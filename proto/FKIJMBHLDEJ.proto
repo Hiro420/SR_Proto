@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GachaCeilingAvatar.proto";
+
+message FKIJMBHLDEJ {
+  repeated GachaCeilingAvatar HEAFKKGLIKJ = 1;
+  uint32 DOPEBAALINP = 9;
+  bool ILFLLEEAIDJ = 4;
+}

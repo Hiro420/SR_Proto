@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message PLLKMHCICKN {
-  uint32 AAIJEIFFEAL = 2;
-}

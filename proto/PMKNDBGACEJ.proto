@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DKNNNDJONEC.proto";
+
+message PMKNDBGACEJ {
+  uint32 EOFKAFGFLKM = 8;
+  string CALAEFIJEMI = 3;
+  uint32 MGIEMIEEMMF = 4;
+  DKNNNDJONEC CFACKEPPDPE = 6;
+  string DLCPFOLPNPN = 10;
+  bool LJDABGKGLDG = 1;
+}

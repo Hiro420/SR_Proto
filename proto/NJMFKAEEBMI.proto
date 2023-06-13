@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NJMFKAEEBMI {
+  uint32 LLGDAMCHCII = 1;
+}

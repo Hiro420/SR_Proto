@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message POGAIGDFDLJ {
+  uint32 ILPILFAPHAB = 4;
+  ItemList GOPLOIOEAJP = 9;
+  uint32 MPBEALJBIEA = 8;
+  uint32 MILFKMJNAEK = 14;
+}

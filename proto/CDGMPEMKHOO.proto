@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ONPDDAFCAIA.proto";
+
+message CDGMPEMKHOO {
+  ONPDDAFCAIA GLOPBHNOANO = 4;
+  uint32 ILPILFAPHAB = 7;
+  uint32 LBLAJCFMHJP = 2;
+  uint32 KGBEEOKKLPO = 9;
+}

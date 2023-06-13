@@ -1,9 +1,11 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "HHDFFGKGHNE.proto";
-import "LNIGPGPMBBC.proto";
+import "KKNPANBJDEJ.proto";
+import "FBPEFMCNIFK.proto";
 
 message SyncLineupNotify {
-  repeated HHDFFGKGHNE reason_list = 9;
-  LNIGPGPMBBC lineup = 11;
+  repeated KKNPANBJDEJ reason_list = 10;
+  FBPEFMCNIFK lineup = 7;
 }

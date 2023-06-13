@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "NLGNEAPKKAK.proto";
-
-message EPCJAGCEOKO {
-  NLGNEAPKKAK DBLIELBBDHK = 2;
-}

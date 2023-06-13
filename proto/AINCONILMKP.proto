@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "HLMHGEIBLKG.proto";
-
-message AINCONILMKP {
-  HLMHGEIBLKG BIPOGAKNFJH = 5;
-  uint32 BNNOMIBDHAA = 9;
-}

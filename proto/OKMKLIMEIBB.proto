@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "NLDBAJLBELG.proto";
-import "KCCJKBJIPAH.proto";
-
-message OKMKLIMEIBB {
-  NLDBAJLBELG ANKDMLIEPNO = 2;
-  KCCJKBJIPAH CIIIBAGKJFF = 11;
-}

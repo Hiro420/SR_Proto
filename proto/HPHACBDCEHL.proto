@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GJIDDPIJAEL.proto";
+
+message HPHACBDCEHL {
+  GJIDDPIJAEL BKIIBBNKBHN = 14;
+}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BCFGGMOOCDA.proto";
+
+message OJNIPNPLMGO {
+  uint32 ILPILFAPHAB = 4;
+  repeated BCFGGMOOCDA BOFNLAIFJKD = 6;
+}

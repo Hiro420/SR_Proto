@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IPLOFDIADBK.proto";
+
+message LOKFOMDAAJE {
+  uint32 EEIKJLADGMM = 6;
+  float NLILHIICDEH = 11;
+  IPLOFDIADBK HPCDMJMFBBM = 13;
+}

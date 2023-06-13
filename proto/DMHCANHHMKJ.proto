@@ -1,0 +1,15 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message DMHCANHHMKJ {
+  bool AIOLDALEAID = 11;
+  uint32 MFOPLCBNNHL = 4;
+  uint32 CDGLDKLEDFB = 13;
+  uint32 BJCJJBOJPLP = 6;
+  repeated uint32 LOPKKADPOHE = 7;
+  bool JAMLPJMBHKC = 5;
+  bool JCFDKHNIGPB = 12;
+  uint32 IFIGMNFCELG = 3;
+  uint32 IMGMPLCPKJA = 9;
+}

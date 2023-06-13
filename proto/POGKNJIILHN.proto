@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DOOFLBAAALL.proto";
+
+message POGKNJIILHN {
+  uint32 CLNGLICPBJI = 14;
+  uint64 GOHDKCGEHGP = 4;
+  repeated DOOFLBAAALL EMLIOCNLMNP = 2;
+}

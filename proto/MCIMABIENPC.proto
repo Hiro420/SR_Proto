@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message MCIMABIENPC {
-  repeated uint32 KLANGDLEOEM = 13;
-  uint32 BNNOMIBDHAA = 2;
-}

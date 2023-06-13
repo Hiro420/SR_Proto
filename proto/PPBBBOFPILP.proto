@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message PPBBBOFPILP {
+  uint32 JIKNHOGDEMB = 5;
+  uint32 GHJFNIIMPNE = 2;
+  map<string, float> GHIFCCBHAEJ = 8;
+  uint32 MNDNHOPHDAK = 7;
+  float PEIBKBLKPCJ = 3;
+  uint32 EEIKJLADGMM = 9;
+  uint64 DJECIABLCNC = 1;
+}

@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message EEEMDLHLFOL {
+  uint32 ILPILFAPHAB = 4;
+  string LFCIILHABDO = 15;
+}

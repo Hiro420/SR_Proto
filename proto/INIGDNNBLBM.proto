@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BKJMGLNHKLL.proto";
+
+message INIGDNNBLBM {
+  uint32 ILPILFAPHAB = 1;
+  repeated BKJMGLNHKLL PHCLPCJKACJ = 7;
+}

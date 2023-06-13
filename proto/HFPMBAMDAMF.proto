@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GEAPFJEPNKD.proto";
+
+message HFPMBAMDAMF {
+  uint32 OKEMNKMDNPO = 8;
+  uint32 IKJBJDFENBH = 5;
+  repeated GEAPFJEPNKD IINHMHPKKML = 6;
+}

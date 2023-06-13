@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum PLDLIBAEBBL {
-  PLDLIBAEBBL_I_P_P_E_M_A_I_M_J_B_H = 0;
-  PLDLIBAEBBL_L_L_G_J_C_H_F_I_I_M_I = 1;
-  PLDLIBAEBBL_J_O_J_P_O_E_B_J_M_E_M = 2;
-}

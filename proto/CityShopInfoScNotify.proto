@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message CityShopInfoScNotify {
-  uint32 level = 3;
   uint64 taken_level_reward = 11;
-  uint32 exp = 8;
-  uint32 shop_id = 12;
+  uint32 exp = 9;
+  uint32 level = 5;
+  uint32 shop_id = 4;
 }

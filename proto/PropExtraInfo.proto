@@ -1,11 +1,13 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "HGFEPKNOJLI.proto";
+import "OPBEKEKAGAF.proto";
 import "PropAeonInfo.proto";
 
 message PropExtraInfo {
   oneof info_case {
-    HGFEPKNOJLI rogue_info = 14;
-    PropAeonInfo aeon_info = 4;
+    OPBEKEKAGAF rogue_info = 4;
+    PropAeonInfo aeon_info = 15;
   }
 }

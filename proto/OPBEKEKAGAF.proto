@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OPBEKEKAGAF {
+  uint32 LAGOJHDLPKI = 8;
+  uint32 BCGENDKMFAB = 3;
+  uint32 LGIFDADBCBI = 1;
+  uint32 OBNLGPEMGCA = 14;
+}

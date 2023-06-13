@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "EADCJMDFHLG.proto";
-
-message DBHDILPKMEL {
-  repeated EADCJMDFHLG ENPPHHHABHJ = 12;
-}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum HPLAFHFKHKA {
+  MESSAGE_SECTION_NONE = 0;
+  MESSAGE_SECTION_DOING = 1;
+  MESSAGE_SECTION_FINISH = 2;
+  MESSAGE_SECTION_FROZEN = 3;
+}

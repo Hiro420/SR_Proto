@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message NIFJPFPBJPP {
-  repeated uint32 OEIAEMOGFCD = 9;
-  repeated uint32 IEGNFMKFNMC = 2;
-}

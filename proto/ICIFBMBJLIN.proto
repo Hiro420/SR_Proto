@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-message ICIFBMBJLIN {
-  uint32 ODHFICGNBDE = 15;
-  uint32 NMMMKCOPMFO = 11;
-  uint32 LEALGCKECHE = 10;
-  uint32 NHNFONGDDLC = 13;
-}

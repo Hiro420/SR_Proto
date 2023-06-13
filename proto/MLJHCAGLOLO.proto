@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MLJHCAGLOLO {
+  uint32 LBLAJCFMHJP = 3;
+  uint32 GBKHMAEAEGE = 10;
+  bool BLNBEOFBFPG = 6;
+  uint32 OKEMNKMDNPO = 12;
+  int64 PGOMOCCCKMP = 8;
+  uint32 OBMFMBAPJPH = 9;
+}

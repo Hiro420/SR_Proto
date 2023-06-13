@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "MECLABOMBAN.proto";
-
-message ADHFOALEOLA {
-  MECLABOMBAN NKCDIGCHBJL = 4;
-  uint32 FLBCNIKLNFE = 2;
-}

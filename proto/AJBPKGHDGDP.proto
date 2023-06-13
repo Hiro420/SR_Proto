@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "POILADMPJBH.proto";
+
+message AJBPKGHDGDP {
+  POILADMPJBH IIKCMPDFDHE = 15;
+}

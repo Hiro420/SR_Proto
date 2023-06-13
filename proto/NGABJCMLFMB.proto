@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message NGABJCMLFMB {
-  uint32 PBKFICLCKDL = 15;
-  uint32 MCEJECBKMBK = 6;
-}

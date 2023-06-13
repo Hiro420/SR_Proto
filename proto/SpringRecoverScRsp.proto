@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "FHCCBLPNOGF.proto";
+import "FLLGONEOHJB.proto";
 
 message SpringRecoverScRsp {
-  FHCCBLPNOGF heal_pool_info = 3;
-  uint32 retcode = 1;
+  uint32 retcode = 13;
+  FLLGONEOHJB heal_pool_info = 9;
 }

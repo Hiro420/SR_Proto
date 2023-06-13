@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KNIJOAHCPJO.proto";
+
+message BFBFKPJOMIK {
+  bool IIHABDFIJNH = 13;
+  string FPBEPBGBFJC = 8;
+  repeated KNIJOAHCPJO INOFDHKFFLC = 10;
+}

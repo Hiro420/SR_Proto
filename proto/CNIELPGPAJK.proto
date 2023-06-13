@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "MFNNCHEIBPJ.proto";
-
-message CNIELPGPAJK {
-  repeated MFNNCHEIBPJ CJFODGLNOBF = 11;
-}

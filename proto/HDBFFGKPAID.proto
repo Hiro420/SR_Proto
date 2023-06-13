@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message HDBFFGKPAID {
-  uint32 AANNCBIBMED = 4;
-}

@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message PGGPFCFIILD {
-  uint32 NMJABGNAGHA = 12;
-}

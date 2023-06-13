@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message EBGCDFCFMPE {
-  uint32 CEMBHDFBNGD = 13;
-  uint64 DCKJHALMELD = 9;
-}

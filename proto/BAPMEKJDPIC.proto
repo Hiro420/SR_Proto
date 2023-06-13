@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message BAPMEKJDPIC {
+  uint32 OKEMNKMDNPO = 11;
+  uint32 DJIABKNBKFM = 9;
+  bool DHFCJGACIJF = 12;
+  uint32 JIKNHOGDEMB = 14;
+}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "FBFFALCAIGM.proto";
-
-message EDDNCAKDGLH {
-  uint32 BNNOMIBDHAA = 15;
-  FBFFALCAIGM IICCLGNJBKJ = 2;
-}

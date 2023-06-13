@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message GDCEHIANHFK {
-  uint32 JEABOBFNJAK = 15;
-  uint32 BNNOMIBDHAA = 2;
-}

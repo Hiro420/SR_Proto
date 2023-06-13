@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "FCODGDIKCAI.proto";
-
-message HAPEIBHKEJO {
-  uint32 BNNOMIBDHAA = 7;
-  repeated FCODGDIKCAI CHIJFMFPEME = 14;
-}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ONBLOKGNJOG.proto";
+
+message KOLMKABEBBO {
+  ONBLOKGNJOG APGFKJNEDHA = 4;
+  uint32 EONOLLBLAFM = 6;
+}

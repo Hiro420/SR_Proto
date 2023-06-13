@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum LHLBKPBPFCM {
-  LHLBKPBPFCM_K_E_P_C_F_H_E_P_G_A_L = 0;
-  LHLBKPBPFCM_I_H_I_C_C_P_B_L_F_C_B = 1;
-  LHLBKPBPFCM_D_I_M_D_J_G_D_J_I_L_A = 2;
-}

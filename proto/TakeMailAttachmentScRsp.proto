@@ -1,11 +1,13 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "LADLGCJDNMK.proto";
 import "ItemList.proto";
+import "LMGIMPLDGCG.proto";
 
 message TakeMailAttachmentScRsp {
-  repeated LADLGCJDNMK fail_mail_list = 13;
   repeated uint32 succ_mail_id_list = 1;
-  ItemList attachment = 14;
-  uint32 retcode = 4;
+  ItemList attachment = 5;
+  repeated LMGIMPLDGCG fail_mail_list = 12;
+  uint32 retcode = 7;
 }

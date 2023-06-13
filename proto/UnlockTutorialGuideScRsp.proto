@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "TutorialGuide.proto";
 
 message UnlockTutorialGuideScRsp {
-  TutorialGuide tutorial_guide = 4;
-  uint32 retcode = 2;
+  TutorialGuide tutorial_guide = 8;
+  uint32 retcode = 10;
 }

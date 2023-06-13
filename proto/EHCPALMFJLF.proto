@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message EHCPALMFJLF {
+  uint32 FPLEMGIIAEK = 1;
+  bool EHKKHCFDKCA = 9;
+  uint32 LOEAEJCNLKO = 5;
+  float IJFPHABHKBB = 12;
+}

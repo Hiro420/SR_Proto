@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NOINGEMHPND {
+  uint32 ILPILFAPHAB = 7;
+  string DNKDHJIOEJO = 11;
+  uint32 IBJNOCDBMGP = 12;
+  string JAECCOADPPP = 5;
+  uint32 PPMODNGIOGD = 1;
+}

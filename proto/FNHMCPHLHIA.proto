@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BNEDCDJKCKP.proto";
+
+message FNHMCPHLHIA {
+  repeated BNEDCDJKCKP JLPGCDBODAL = 8;
+}

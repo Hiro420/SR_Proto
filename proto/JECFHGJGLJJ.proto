@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BMLOOCFDGFK.proto";
+
+message JECFHGJGLJJ {
+  uint32 KGBEEOKKLPO = 5;
+  bool KOFFCJPACPJ = 4;
+  BMLOOCFDGFK CBEFEEMJDAI = 3;
+  uint32 ILPILFAPHAB = 13;
+}

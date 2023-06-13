@@ -1,11 +1,13 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "ABCJOPBIBIO.proto";
-import "NGABJCMLFMB.proto";
+import "NBOIGCKADPA.proto";
+import "KNEDKAFPHPC.proto";
 
 message GetRaidInfoScRsp {
-  repeated ABCJOPBIBIO finished_raid_info_list = 15;
-  repeated uint32 challenge_taken_reward_id_list = 14;
-  repeated NGABJCMLFMB challenge_raid_list = 9;
+  repeated NBOIGCKADPA finished_raid_info_list = 2;
+  repeated uint32 challenge_taken_reward_id_list = 5;
+  repeated KNEDKAFPHPC challenge_raid_list = 7;
   uint32 retcode = 8;
 }

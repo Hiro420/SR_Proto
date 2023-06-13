@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GJIDDPIJAEL.proto";
+
+message OPBLAMNPLBB {
+  uint32 ILPILFAPHAB = 9;
+  repeated GJIDDPIJAEL GGOKNFKNPKD = 3;
+  uint32 JMFKAHACHAM = 6;
+  bool PHEGFCIFDEA = 7;
+}

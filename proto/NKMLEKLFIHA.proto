@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "EOEIGMPKAAO.proto";
+
+message NKMLEKLFIHA {
+  uint32 ILPILFAPHAB = 1;
+  repeated EOEIGMPKAAO BGNMJADGHHN = 15;
+}

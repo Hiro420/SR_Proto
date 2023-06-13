@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "AGLDHPGFMEM.proto";
+
+message KLKEEFGJEFP {
+  string FGFBLBHGGBA = 2;
+  AGLDHPGFMEM BBALAAGNIFI = 10;
+}

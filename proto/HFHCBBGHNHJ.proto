@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "MFFEMPAHFEJ.proto";
+
+message HFHCBBGHNHJ {
+  repeated MFFEMPAHFEJ NJPMKFLNIGC = 11;
+  repeated uint32 HEAFKKGLIKJ = 15;
+  uint32 LHJEHADAMDI = 4;
+  bool IEDALAHDNEF = 14;
+  uint32 JBPDECGDEIN = 3;
+  uint32 LPJNOJLFDKL = 1;
+  uint32 LAEMHIHGLDL = 7;
+  uint32 FNFJAEDKDKL = 12;
+}

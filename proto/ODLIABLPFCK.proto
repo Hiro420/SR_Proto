@@ -1,0 +1,15 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message ODLIABLPFCK {
+  string KHMNJNCMMKK = 9;
+  string DBKNIAOEKNG = 12;
+  uint32 OBMFMBAPJPH = 13;
+  int64 BJBLFKPCMIB = 14;
+  bool CCCMIADFCHF = 3;
+  string PIPGFJGGNLD = 5;
+  uint32 IEBCINCKLDK = 2;
+  uint32 IINPCAJCOPD = 8;
+  int64 IAJBOIOGEIF = 1;
+}

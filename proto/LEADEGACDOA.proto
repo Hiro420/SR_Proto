@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemList.proto";
-
-message LEADEGACDOA {
-  uint32 DPMNKPJDMAB = 10;
-  ItemList LAMNGBFHMIM = 14;
-  uint32 KPNPKICJDGJ = 9;
-}

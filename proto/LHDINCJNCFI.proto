@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message LHDINCJNCFI {
+  uint32 OEFBNCFALLM = 5;
+  uint32 GEODBMKFPFE = 14;
+}

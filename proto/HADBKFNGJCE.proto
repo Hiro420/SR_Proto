@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ItemCost.proto";
-
-message HADBKFNGJCE {
-  repeated ItemCost CJFODGLNOBF = 5;
-  uint32 JJJAEOCGLIJ = 3;
-  uint32 ABIBDJANJJC = 4;
-}

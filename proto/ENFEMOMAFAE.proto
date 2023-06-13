@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OLMLJEIMIML.proto";
+import "BKJMGLNHKLL.proto";
+
+message ENFEMOMAFAE {
+  repeated OLMLJEIMIML BBMNHGBBJED = 12;
+  repeated BKJMGLNHKLL PHCLPCJKACJ = 8;
+}

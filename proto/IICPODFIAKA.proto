@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message IICPODFIAKA {
+  uint32 LBJNMMMMENF = 6;
+  bool JAOOHKONPHN = 7;
+}

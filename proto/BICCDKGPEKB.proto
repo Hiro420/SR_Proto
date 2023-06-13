@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "CDLEPMAGOIP.proto";
-
-message BICCDKGPEKB {
-  CDLEPMAGOIP BAGFHDAHKJL = 2;
-}

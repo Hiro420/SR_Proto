@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OFIFLIMCHEM {
+  uint32 OCCMKKLCFEI = 7;
+  bool PPLOABNHHIG = 1;
+}

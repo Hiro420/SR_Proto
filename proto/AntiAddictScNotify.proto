@@ -1,7 +1,9 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message AntiAddictScNotify {
-  string level = 15;
-  string msg = 13;
-  uint32 msg_type = 1;
+  string msg = 4;
+  uint32 msg_type = 6;
+  string level = 7;
 }

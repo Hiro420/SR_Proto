@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "ItemCost.proto";
-
-message GOEJIHOANFA {
-  uint32 ACNMBMODGAC = 7;
-  repeated ItemCost CJFODGLNOBF = 3;
-}

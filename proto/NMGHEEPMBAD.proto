@@ -1,0 +1,16 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "EHAOMOPEIGI.proto";
+import "OIIDMKCNPFO.proto";
+import "KACHHLIMLOM.proto";
+import "JKNEGNENNEI.proto";
+
+message NMGHEEPMBAD {
+  uint32 JAOBFJKAEIM = 9;
+  repeated EHAOMOPEIGI BPEMBEKILDI = 4;
+  repeated OIIDMKCNPFO FDGEDPOAIED = 6;
+  repeated KACHHLIMLOM LEJHDBMLNGO = 3;
+  repeated JKNEGNENNEI BGNMJADGHHN = 1;
+}

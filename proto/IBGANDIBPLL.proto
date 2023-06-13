@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message IBGANDIBPLL {
+  string DLIAFGKODLD = 13;
+  uint32 KOHKENHBCAK = 11;
+}

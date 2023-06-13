@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KKDNIMBPPKD.proto";
+
+message KJCGFOKGOKG {
+  uint32 OLIONBIJMDD = 7;
+  int64 ANCOIKDNGMD = 12;
+  uint32 CJBFGCOAKFD = 3;
+  KKDNIMBPPKD APGFKJNEDHA = 8;
+  repeated uint32 AGIALDJABFM = 9;
+}

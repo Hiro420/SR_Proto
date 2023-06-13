@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "LJCKHIJJDAM.proto";
+
+message KJJJEDNHGHD {
+  repeated LJCKHIJJDAM HEAFKKGLIKJ = 15;
+  repeated uint32 FDGEDPOAIED = 10;
+}

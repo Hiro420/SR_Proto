@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GJIDDPIJAEL.proto";
+import "PunkLordBattleReplay.proto";
+import "PunkLordBattleRecord.proto";
+
+message BOFIMBGKILP {
+  GJIDDPIJAEL BKIIBBNKBHN = 7;
+  repeated PunkLordBattleReplay EDNMENMNFKH = 4;
+  repeated PunkLordBattleRecord DBGOINFPFKB = 8;
+  uint32 ILPILFAPHAB = 15;
+}

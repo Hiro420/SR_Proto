@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message OIAPCBOIPGK {
+  uint32 EMCCGEGGHLD = 3;
+  uint32 EHFBHKGAIDE = 8;
+  uint32 OKEMNKMDNPO = 4;
+  uint32 ECBLMHEIDHD = 1;
+}

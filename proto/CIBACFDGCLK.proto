@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FKOFCMNMDHD.proto";
+import "JELLIMOLHGL.proto";
+
+message CIBACFDGCLK {
+  repeated FKOFCMNMDHD LFMAPBPNINA = 1;
+  JELLIMOLHGL OJIMFDLOBIO = 2;
+}

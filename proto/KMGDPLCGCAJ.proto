@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+
+message KMGDPLCGCAJ {
+  ItemList GCPOAHDKNAH = 8;
+}

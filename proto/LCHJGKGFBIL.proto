@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OINBBLFNEEA.proto";
+
+message LCHJGKGFBIL {
+  uint32 ILPILFAPHAB = 9;
+  OINBBLFNEEA MKNNOILFAGA = 12;
+}

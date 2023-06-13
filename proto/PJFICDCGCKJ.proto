@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OAIDOPBMEFG.proto";
+
+message PJFICDCGCKJ {
+  uint32 ILPILFAPHAB = 11;
+  repeated OAIDOPBMEFG CLHJPBCMFDL = 3;
+}

@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DisplayAvatarDetailInfo.proto";
+import "FKAEABKBFBP.proto";
+
+message BOAAGILBGJA {
+  DisplayAvatarDetailInfo OCMJCJACHNG = 7;
+  FKAEABKBFBP PANLMNADEHG = 2;
+}

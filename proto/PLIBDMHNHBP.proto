@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+import "EGDMIHJJNPF.proto";
+
+message PLIBDMHNHBP {
+  oneof IJJKJNNCFGO {
+    ItemList CENEICPAKAG = 9;
+    EGDMIHJJNPF NMJCFFDOFNM = 3;
+  }
+  uint32 HBJOALEJLLC = 2;
+}

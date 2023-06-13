@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "OOENFLFONCP.proto";
-
-message HMPKCMDNPFM {
-  OOENFLFONCP JHHNFDLKCBB = 7;
-}

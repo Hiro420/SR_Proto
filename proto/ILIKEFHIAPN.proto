@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "POILADMPJBH.proto";
+
+message ILIKEFHIAPN {
+  uint64 MHLMNPCPIKB = 7;
+  POILADMPJBH IIKCMPDFDHE = 10;
+  uint64 CJBKMACOHFD = 5;
+  uint32 ILPILFAPHAB = 9;
+}

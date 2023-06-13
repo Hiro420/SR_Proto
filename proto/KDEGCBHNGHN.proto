@@ -1,0 +1,15 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KDEGCBHNGHN {
+  uint32 OMCKKOFFLJA = 1;
+  repeated uint32 OGMMGEIJLII = 2;
+  uint32 JADPFIAEGOK = 3;
+  double NLAGFPCCFLK = 4;
+  repeated uint32 GAIMLIMAEDG = 5;
+  int32 HDHJJMJMDHN = 6;
+  double OKMNKDDKBNF = 7;
+  uint32 GLJNFJALPHC = 8;
+  uint32 EMCCGEGGHLD = 9;
+}

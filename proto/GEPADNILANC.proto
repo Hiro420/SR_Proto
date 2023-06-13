@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "KMPJGPPCKEF.proto";
-
-message GEPADNILANC {
-  KMPJGPPCKEF DHIOKDHGEGE = 9;
-  uint32 BNNOMIBDHAA = 2;
-}

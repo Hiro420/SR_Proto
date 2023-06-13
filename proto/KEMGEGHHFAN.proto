@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OIPHDEMKFJA.proto";
+
+message KEMGEGHHFAN {
+  int64 HANDBCAGAJC = 2;
+  OIPHDEMKFJA LBAJPLLHIDL = 5;
+  uint32 ILPILFAPHAB = 13;
+  bool KCNBGBPNMCN = 7;
+}

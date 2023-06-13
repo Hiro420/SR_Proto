@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KLKEEFGJEFP.proto";
+
+message JMAHMKFOFMD {
+  uint32 ILPILFAPHAB = 6;
+  repeated KLKEEFGJEFP EFGOGAANOHK = 10;
+  bytes HGGIOMLDANA = 13;
+}

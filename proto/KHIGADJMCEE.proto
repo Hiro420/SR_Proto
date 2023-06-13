@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "GBBNNKEPDAP.proto";
-
-message KHIGADJMCEE {
-  repeated GBBNNKEPDAP LMFGMCCFMOM = 10;
-}

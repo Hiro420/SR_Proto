@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message KCCMGEBLILL {
-  bool FONNKLIAKHF = 5;
-  uint32 KDAMDKEMLPK = 14;
-  uint32 JAMBOCIOPJK = 3;
-}

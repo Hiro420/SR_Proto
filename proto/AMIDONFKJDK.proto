@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message AMIDONFKJDK {
+  uint32 MKKIPPNBEJA = 3;
+  string CDDCPALNBEJ = 12;
+  uint32 ILPILFAPHAB = 14;
+}

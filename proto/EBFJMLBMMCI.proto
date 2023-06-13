@@ -1,0 +1,21 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BLCCFKAAHEM.proto";
+import "CIBACFDGCLK.proto";
+import "DGMFGDMAAFG.proto";
+import "JBIFJJMLIML.proto";
+import "GIOMKGLAEHG.proto";
+import "PDPCNJHHAJB.proto";
+
+message EBFJMLBMMCI {
+  repeated BLCCFKAAHEM HEAFKKGLIKJ = 1;
+  repeated CIBACFDGCLK EDKNLAOALNP = 2;
+  repeated DGMFGDMAAFG FDGEDPOAIED = 3;
+  repeated uint32 AKMCAFABELI = 4;
+  repeated JBIFJJMLIML FHDLDLDIFOJ = 5;
+  repeated GIOMKGLAEHG HEFBEDPNADM = 6;
+  uint32 OKEMNKMDNPO = 7;
+  repeated PDPCNJHHAJB EJPPGOFMDOK = 8;
+}

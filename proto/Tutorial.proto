@@ -1,8 +1,10 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
-import "FCBMMBHLLKI.proto";
+import "HJCAEIMBEMI.proto";
 
 message Tutorial {
-  uint32 id = 12;
-  FCBMMBHLLKI status = 1;
+  uint32 id = 14;
+  HJCAEIMBEMI status = 3;
 }

@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KEIPOOFDFGH.proto";
+
+message GIKLMPFHLOP {
+  KEIPOOFDFGH HBJNMKLKMGP = 3;
+}

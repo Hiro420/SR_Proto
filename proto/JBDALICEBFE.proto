@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GOMFKKECDBK.proto";
+import "ItemList.proto";
+
+message JBDALICEBFE {
+  GOMFKKECDBK IJEPMDIACLG = 2;
+  bool BKPANBAKHPP = 11;
+  ItemList JNBKOKACNNA = 9;
+  uint32 GHJFNIIMPNE = 1;
+}

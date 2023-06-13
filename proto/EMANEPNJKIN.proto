@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message EMANEPNJKIN {
+  repeated uint32 OCCMKKLCFEI = 7;
+  uint32 FHEOIDGEDEB = 12;
+  bool DKLGHPPGFBH = 5;
+}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum KGIPOGNDBLN {
-  KGIPOGNDBLN_K_E_P_C_F_H_E_P_G_A_L = 0;
-  KGIPOGNDBLN_D_E_K_N_N_O_B_M_M_M_A = 1;
-  KGIPOGNDBLN_F_K_D_G_A_B_B_N_N_P_H = 2;
-  KGIPOGNDBLN_D_L_F_O_L_E_N_N_B_B_B = 3;
-}

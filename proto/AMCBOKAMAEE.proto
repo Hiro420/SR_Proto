@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DOOFLBAAALL.proto";
+import "POILADMPJBH.proto";
+
+message AMCBOKAMAEE {
+  repeated DOOFLBAAALL EMLIOCNLMNP = 2;
+  POILADMPJBH IIKCMPDFDHE = 7;
+  uint32 ILPILFAPHAB = 10;
+}

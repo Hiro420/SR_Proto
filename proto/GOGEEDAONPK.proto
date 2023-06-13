@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message GOGEEDAONPK {
+  repeated uint32 LOPKKADPOHE = 11;
+  uint32 CJBFGCOAKFD = 15;
+  uint32 ICOELJPKEAF = 12;
+  int64 PKKOEKLHEMK = 2;
+}

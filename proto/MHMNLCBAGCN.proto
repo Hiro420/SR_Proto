@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MHMNLCBAGCN {
+  uint32 APLBPNLIBNC = 1;
+}

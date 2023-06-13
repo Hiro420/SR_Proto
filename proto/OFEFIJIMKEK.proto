@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BHPMJOAPPAP.proto";
+
+message OFEFIJIMKEK {
+  uint64 MHLMNPCPIKB = 7;
+  BHPMJOAPPAP CIOHPCOALKL = 14;
+  uint32 KNPPMBOCELC = 8;
+}

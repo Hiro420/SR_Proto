@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NGCGMKGDCFG.proto";
+
+message OIIDMKCNPFO {
+  NGCGMKGDCFG APGFKJNEDHA = 5;
+  uint32 OLJAOFFGBAE = 14;
+}

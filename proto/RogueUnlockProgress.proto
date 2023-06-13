@@ -1,7 +1,9 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message RogueUnlockProgress {
-  uint32 progress = 5;
-  uint32 unlock_id = 12;
-  bool finish = 6;
+  uint32 unlock_id = 5;
+  bool finish = 9;
+  uint32 progress = 8;
 }

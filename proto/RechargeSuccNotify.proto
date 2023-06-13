@@ -1,10 +1,12 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "ItemList.proto";
 
 message RechargeSuccNotify {
-  string product_id = 15;
-  ItemList item_list = 8;
-  uint64 month_card_outdate_time = 6;
+  uint64 month_card_outdate_time = 12;
+  string product_id = 8;
   string channel_order_no = 2;
+  ItemList item_list = 5;
 }

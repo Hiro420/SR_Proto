@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message ICBLFHACECL {
-  repeated uint32 DAALJPBOPLC = 13;
-  repeated uint32 OHAMPJLLPHA = 8;
-  repeated uint32 OBEFNGAGMHH = 3;
-}

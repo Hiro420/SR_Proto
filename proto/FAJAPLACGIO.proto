@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message FAJAPLACGIO {
-  uint32 MLKOKHOCMLL = 7;
-  bool HIGMPHMHNGB = 4;
-}

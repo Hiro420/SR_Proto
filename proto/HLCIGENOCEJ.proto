@@ -1,0 +1,17 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BCHBHHEPIJO.proto";
+import "JEOAHOLOGLM.proto";
+import "GMJKECCDPMO.proto";
+
+message HLCIGENOCEJ {
+  BCHBHHEPIJO ILPILFAPHAB = 1;
+  JEOAHOLOGLM MFNADDFFAII = 2;
+  GMJKECCDPMO NABHPKACFAN = 3;
+  bytes EOAKDCHBBIG = 4;
+  map<string, uint32> MLJMOJAANCO = 5;
+  uint32 HLBOMGGMBMK = 6;
+  uint32 BEPBEABNIJJ = 7;
+}

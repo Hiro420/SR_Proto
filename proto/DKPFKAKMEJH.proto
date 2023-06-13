@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "DBGEONBKHLN.proto";
-
-message DKPFKAKMEJH {
-  uint32 BNNOMIBDHAA = 2;
-  repeated DBGEONBKHLN BHDKMOIPJDF = 10;
-}

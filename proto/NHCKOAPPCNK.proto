@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "IIEHDFBIFGP.proto";
+import "GFNBMGDFEJO.proto";
+
+message NHCKOAPPCNK {
+  IIEHDFBIFGP JADPFIAEGOK = 3;
+  GFNBMGDFEJO NBICODLHJON = 9;
+}

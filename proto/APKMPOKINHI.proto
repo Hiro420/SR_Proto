@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message APKMPOKINHI {
-  uint32 BNNOMIBDHAA = 2;
-  uint32 JAMBOCIOPJK = 5;
-}

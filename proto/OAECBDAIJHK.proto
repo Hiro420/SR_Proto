@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KEIPOOFDFGH.proto";
+
+message OAECBDAIJHK {
+  uint32 FKAHJFMIFLD = 9;
+  uint32 CKGNEFMPKIL = 11;
+  uint32 MKKIPPNBEJA = 15;
+  KEIPOOFDFGH HBJNMKLKMGP = 12;
+  uint32 PEPKCGPMHLP = 6;
+  bool IAICKCFAAEC = 3;
+}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "JLJJAHMALHM.proto";
-
-message OINOHEMCHKI {
-  uint32 BNNOMIBDHAA = 9;
-  repeated JLJJAHMALHM KLKPMBPADDI = 2;
-  uint32 KHFBPBDLHMI = 7;
-}

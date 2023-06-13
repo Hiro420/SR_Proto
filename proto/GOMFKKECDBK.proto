@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum GOMFKKECDBK {
+  ADD_AVATAR_SRC_NONE = 0;
+  ADD_AVATAR_SRC_GACHA = 1;
+  ADD_AVATAR_SRC_ROGUE = 2;
+}

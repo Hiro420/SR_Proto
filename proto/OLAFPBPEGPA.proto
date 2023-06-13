@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "OINBBLFNEEA.proto";
+
+message OLAFPBPEGPA {
+  OINBBLFNEEA MKNNOILFAGA = 12;
+}

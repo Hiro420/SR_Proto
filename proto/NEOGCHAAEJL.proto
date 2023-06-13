@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BPCJEEJHGGA.proto";
+import "GOIAPCFLMLA.proto";
+
+message NEOGCHAAEJL {
+  uint32 ILPILFAPHAB = 7;
+  repeated BPCJEEJHGGA PCAHLIKLKOA = 6;
+  repeated GOIAPCFLMLA PNEFOPANPKB = 15;
+}

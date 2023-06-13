@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-enum OBMIIFEJDPH {
-  OBMIIFEJDPH_K_E_P_C_F_H_E_P_G_A_L = 0;
-  OBMIIFEJDPH_J_F_H_D_K_K_I_J_F_M_O = 1;
-  OBMIIFEJDPH_B_D_B_K_E_P_K_K_K_A_M = 2;
-}

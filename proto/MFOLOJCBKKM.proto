@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MFOLOJCBKKM {
+  repeated uint32 PIIGAEDPEDP = 14;
+  uint32 GHJFNIIMPNE = 12;
+}

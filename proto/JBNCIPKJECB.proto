@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "GFNBMGDFEJO.proto";
+
+message JBNCIPKJECB {
+  GFNBMGDFEJO KGNDJKPDOJD = 7;
+  GFNBMGDFEJO OLLDKJNGENO = 12;
+  uint32 ILPILFAPHAB = 3;
+}

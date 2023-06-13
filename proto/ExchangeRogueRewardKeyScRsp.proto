@@ -1,6 +1,8 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 message ExchangeRogueRewardKeyScRsp {
-  uint32 count = 8;
-  uint32 retcode = 2;
+  uint32 retcode = 3;
+  uint32 count = 13;
 }

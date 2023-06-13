@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message KHKAJAAIGLA {
-  uint32 JOBHPNOEIGH = 11;
-}

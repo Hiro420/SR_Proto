@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "BOAAGILBGJA.proto";
+
+message KIEMCMELELK {
+  repeated BOAAGILBGJA DHLCDINCAHC = 3;
+  uint32 ILPILFAPHAB = 15;
+}

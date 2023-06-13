@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message JJIOGDDFMOM {
+  bool CADEKBEBPGC = 1;
+  uint32 ILPILFAPHAB = 3;
+}

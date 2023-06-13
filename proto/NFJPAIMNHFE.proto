@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FKJNCGDMBPE.proto";
+
+message NFJPAIMNHFE {
+  FKJNCGDMBPE CFPADKFBNHM = 10;
+  repeated string GNMNEBKHOEL = 6;
+}

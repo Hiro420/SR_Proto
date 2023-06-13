@@ -1,0 +1,7 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message AINNDKLDEFP {
+  uint32 ILPILFAPHAB = 13;
+}

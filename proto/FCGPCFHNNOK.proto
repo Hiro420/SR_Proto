@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PNJLBFLCPGJ.proto";
-
-message FCGPCFHNNOK {
-  PNJLBFLCPGJ BKHPIBPECMN = 12;
-  uint32 BNNOMIBDHAA = 9;
-}

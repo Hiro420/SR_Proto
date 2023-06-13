@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum KBLPDDHBEAI {
-  KBLPDDHBEAI_O_I_P_O_G_J_H_M_N_O_O = 0;
-  KBLPDDHBEAI_C_O_G_D_A_F_E_F_D_L_D = 1;
-}

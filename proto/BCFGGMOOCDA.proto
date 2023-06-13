@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "FKAEABKBFBP.proto";
+
+message BCFGGMOOCDA {
+  FKAEABKBFBP PANLMNADEHG = 9;
+  bool KPPJMMDCOKN = 3;
+}

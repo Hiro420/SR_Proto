@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DOOFLBAAALL.proto";
+
+message CNGMPPNMOPL {
+  uint32 CLNGLICPBJI = 4;
+  DOOFLBAAALL CJCNBJCGLPO = 5;
+}

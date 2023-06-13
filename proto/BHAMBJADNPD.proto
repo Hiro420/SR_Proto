@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "LIFIPLLMMDP.proto";
-
-message BHAMBJADNPD {
-  LIFIPLLMMDP AAEIDOPOLNC = 6;
-}

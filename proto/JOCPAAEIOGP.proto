@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message JOCPAAEIOGP {
-  uint32 HDFOLDPOKLL = 1;
-  uint32 BNNOMIBDHAA = 15;
-}

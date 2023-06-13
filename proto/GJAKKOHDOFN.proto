@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DOOFLBAAALL.proto";
+
+message GJAKKOHDOFN {
+  uint32 HHKLBCAGDIN = 5;
+  uint32 ILPILFAPHAB = 13;
+  DOOFLBAAALL CJCNBJCGLPO = 6;
+}

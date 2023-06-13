@@ -1,3 +1,5 @@
+// Decompiled with protodec
+
 syntax = "proto3";
 
 import "PunkLordBattleAvatar.proto";

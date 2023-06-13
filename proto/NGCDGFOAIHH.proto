@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message NGCDGFOAIHH {
+  uint32 BJPPKHCFCLC = 9;
+  uint32 MOHFBKMFJFG = 6;
+  uint32 ADALINPELOC = 12;
+  uint32 JIKNHOGDEMB = 11;
+  uint32 BOPEOKADKKE = 13;
+}

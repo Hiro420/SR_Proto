@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum KKIJKCNIHIE {
+  CHALLENGE_UNKNOWN = 0;
+  CHALLENGE_DOING = 1;
+  CHALLENGE_FINISH = 2;
+  CHALLENGE_FAILED = 3;
+}

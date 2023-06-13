@@ -1,0 +1,29 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+import "ILAMCHCKLGE.proto";
+import "AAEDJJEMGGN.proto";
+import "CCIENIBDLDO.proto";
+import "EBJHDJELFCL.proto";
+
+message GFKMPLFHDML {
+  ItemList JBNDLMMAMBH = 12;
+  uint32 CIHFOMBFMJE = 1;
+  uint32 JMFKAHACHAM = 13;
+  ItemList ADLHOCPEEMK = 6;
+  ILAMCHCKLGE HPJEFCMLLAC = 2;
+  AAEDJJEMGGN DGONBOGHJJN = 15;
+  uint32 PNMDDDHMKED = 14;
+  ILAMCHCKLGE ECEEAHALPFK = 4;
+  CCIENIBDLDO NFPGLHEBKGL = 11;
+  EBJHDJELFCL MIEALEOEHDN = 3;
+  uint32 HMAJMKMNOKE = 2044;
+  bool FKDFCCAGPOL = 7;
+  bool HNIFELCNAED = 8;
+  uint32 AKNECIMLFMF = 10;
+  ItemList HFOOLNLCMGB = 5;
+  uint32 OBBPAIKPNOD = 9;
+  uint32 CFKCEODLJHK = 1998;
+}

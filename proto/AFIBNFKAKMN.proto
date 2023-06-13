@@ -1,0 +1,17 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ONPDDAFCAIA.proto";
+
+message AFIBNFKAKMN {
+  uint32 KGBEEOKKLPO = 1;
+  uint32 LBLAJCFMHJP = 2;
+  uint32 OBMFMBAPJPH = 3;
+  uint32 OKEMNKMDNPO = 4;
+  int64 PGOMOCCCKMP = 5;
+  uint32 JCBLCFHFDOG = 6;
+  uint32 CJFFAAHNIKG = 7;
+  ONPDDAFCAIA GLOPBHNOANO = 8;
+  bool BLNBEOFBFPG = 9;
+}

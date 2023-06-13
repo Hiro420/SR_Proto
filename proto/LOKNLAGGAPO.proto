@@ -1,0 +1,14 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PropExtraInfo.proto";
+
+message LOKNLAGGAPO {
+  uint32 LIMHDDEJFFP = 8;
+  uint64 JMALLELJICC = 7;
+  uint32 JJANFDOCNKH = 4;
+  repeated string OPCOCDJOEGL = 6;
+  PropExtraInfo NKMDLMAOJCB = 3;
+  uint32 DJAMLBGDMAC = 11;
+}

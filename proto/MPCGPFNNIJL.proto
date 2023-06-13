@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "ADHFOALEOLA.proto";
-
-message MPCGPFNNIJL {
-  repeated uint32 MKHFGDDKBJB = 4;
-  repeated ADHFOALEOLA NJPCNFIINFD = 3;
-  uint32 GBDHKMEMJMC = 5;
-}

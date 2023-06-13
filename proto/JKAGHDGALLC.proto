@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum JKAGHDGALLC {
+  TAG_NONE = 0;
+  TAG_HIDE_NPC_MONSTER = 1;
+}

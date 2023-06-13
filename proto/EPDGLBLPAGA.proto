@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum EPDGLBLPAGA {
-  EPDGLBLPAGA_L_F_O_A_A_H_P_E_L_L_A = 0;
-  EPDGLBLPAGA_C_F_G_M_C_F_C_J_H_O_I = 1;
-  EPDGLBLPAGA_B_K_D_F_A_J_N_G_L_M_B = 2;
-  EPDGLBLPAGA_M_P_J_E_L_G_I_I_J_D_J = 3;
-}

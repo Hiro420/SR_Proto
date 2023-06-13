@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-message JJGADPHBNEF {
-  string NOPOBDPBHKF = 7;
-  uint32 BNNOMIBDHAA = 2;
-  uint32 NNKGFHIMJLA = 9;
-}

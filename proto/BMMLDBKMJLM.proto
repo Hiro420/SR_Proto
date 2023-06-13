@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+enum BMMLDBKMJLM {
+  UNKNOW = 0;
+  MISSION_REWARD = 1;
+  EVENT_BUY_STUFF = 2;
+  MARKET_BUY_STUFF = 3;
+  QUEST_REWARD = 4;
+  INITIAL = 5;
+  PHASE_FINISH_REWARD = 6;
+}

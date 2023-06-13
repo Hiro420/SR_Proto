@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "MMDLIPGBPFN.proto";
+
+message TreasureDungeonRecordData {
+  uint32 param2 = 1;
+  uint32 target_grid_id = 8;
+  MMDLIPGBPFN type = 6;
+  uint32 param1 = 3;
+  uint32 source_grid_id = 5;
+}

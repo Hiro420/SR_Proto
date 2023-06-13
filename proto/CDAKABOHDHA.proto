@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "PGJKNDMLMCM.proto";
-
-message CDAKABOHDHA {
-  uint32 JCCJKDBHOGO = 1;
-  PGJKNDMLMCM FPILAHADLGO = 10;
-  uint32 FIBIBDEJOFM = 12;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PNKBMIEBDGA.proto";
-
-message KDEAJAGJFAK {
-  repeated PNKBMIEBDGA OOFAPIMIBPJ = 12;
-  uint32 BNNOMIBDHAA = 5;
-}

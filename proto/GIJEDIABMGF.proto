@@ -1,0 +1,9 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "MOCPJAFBHPN.proto";
+
+message GIJEDIABMGF {
+  MOCPJAFBHPN ECIIBCBNHFP = 2;
+}

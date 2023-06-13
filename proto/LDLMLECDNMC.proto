@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "KHPHDKLCJGM.proto";
+
+message LDLMLECDNMC {
+  uint32 ILPILFAPHAB = 15;
+  repeated KHPHDKLCJGM DHLCDINCAHC = 5;
+}

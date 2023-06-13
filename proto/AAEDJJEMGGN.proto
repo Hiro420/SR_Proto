@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "DJODMPBEFGO.proto";
+
+message AAEDJJEMGGN {
+  float FNLLAGAFCIL = 1;
+  repeated DJODMPBEFGO CLBDOIEABJH = 3;
+  uint32 NDHGBELFDBM = 6;
+}

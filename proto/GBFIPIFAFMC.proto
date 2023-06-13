@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message GBFIPIFAFMC {
+  uint32 MNACAFOIAFH = 5;
+  bool KEFMIPJAHFH = 8;
+}

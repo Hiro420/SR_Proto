@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum MNGMCIGNKCI {
-  MNGMCIGNKCI_L_B_G_F_B_M_D_F_G_I_N = 0;
-  MNGMCIGNKCI_K_G_B_J_D_M_G_A_D_E_I = 1;
-  MNGMCIGNKCI_F_G_H_O_C_J_M_D_O_O_N = 2;
-  MNGMCIGNKCI_J_M_A_I_P_B_B_H_O_I_I = 3;
-}

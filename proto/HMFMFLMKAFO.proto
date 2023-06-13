@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "CPHMKFONMKK.proto";
-
-message HMFMFLMKAFO {
-  CPHMKFONMKK JCOGBGNMLCF = 11;
-  uint32 CMDHHHLGIKP = 15;
-}

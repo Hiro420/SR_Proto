@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "JBEFHMJGIND.proto";
-
-message MECBAENIBPP {
-  repeated JBEFHMJGIND DJMMHMOMCMH = 11;
-  uint32 MCEJECBKMBK = 13;
-  uint32 LAGLJPPCFPC = 2;
-}

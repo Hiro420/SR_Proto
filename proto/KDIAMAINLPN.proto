@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message KDIAMAINLPN {
+  uint32 ECBLMHEIDHD = 2;
+  uint32 AEPGMPFJLAG = 12;
+  uint32 IKJBJDFENBH = 13;
+  uint32 OKEMNKMDNPO = 10;
+  repeated uint32 HEAFKKGLIKJ = 3;
+}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "OICHPOFMKED.proto";
-
-message HIBGEOBMJGO {
-  OICHPOFMKED JNHBHIONNGG = 10;
-  uint32 JAMBOCIOPJK = 9;
-  bool FDMJAFCGBNG = 5;
-}

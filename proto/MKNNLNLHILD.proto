@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MKNNLNLHILD {
+  uint32 ECJCMODPEFI = 13;
+  repeated uint32 BPKFCCAHBEG = 15;
+}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-enum PJLBPMDHANP {
-  PJLBPMDHANP_G_M_C_C_I_A_B_H_K_H_L = 0;
-  PJLBPMDHANP_G_D_B_A_G_E_J_N_G_P_A = 1;
-  PJLBPMDHANP_L_L_H_M_L_G_K_N_J_O_H = 2;
-  PJLBPMDHANP_N_I_G_C_B_J_D_B_P_M_M = 3;
-  PJLBPMDHANP_P_K_I_B_C_N_F_G_K_E_D = 4;
-}

@@ -1,0 +1,10 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ACGIIEOFEAF.proto";
+
+message CFLDFKIANML {
+  uint32 ILPILFAPHAB = 5;
+  ACGIIEOFEAF FKFKBPMCLCM = 10;
+}

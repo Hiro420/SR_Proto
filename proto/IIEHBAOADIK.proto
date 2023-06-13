@@ -1,0 +1,11 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "NCDCKPBALBE.proto";
+
+message IIEHBAOADIK {
+  repeated string DBLCKJLFEFD = 12;
+  NCDCKPBALBE BBALAAGNIFI = 7;
+  repeated uint32 IJCHBOOIMIB = 11;
+}

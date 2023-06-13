@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "JBNBCBAPMPF.proto";
-
-message LDJHADIACEK {
-  uint32 BNNOMIBDHAA = 4;
-  repeated JBNBCBAPMPF JKIPLKOGHKC = 12;
-}

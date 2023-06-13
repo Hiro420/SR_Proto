@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-enum KHELJGHFKEA {
-  KHELJGHFKEA_I_L_P_B_F_E_A_M_H_H_H = 0;
-  KHELJGHFKEA_A_O_D_L_N_H_O_C_F_C_B = 1;
-}

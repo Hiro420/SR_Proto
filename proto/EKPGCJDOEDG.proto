@@ -1,9 +1,0 @@
-syntax = "proto3";
-
-import "BFPHFGHENMM.proto";
-
-message EKPGCJDOEDG {
-  oneof MKCIPHKENMC {
-    BFPHFGHENMM BNOOLNJFJMN = 10;
-  }
-}

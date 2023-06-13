@@ -1,7 +1,0 @@
-syntax = "proto3";
-
-import "BJKOELEJJJL.proto";
-
-message JPPICFCMJJC {
-  BJKOELEJJJL DMLOPMDIGFE = 12;
-}

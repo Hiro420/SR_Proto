@@ -1,0 +1,13 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "ItemList.proto";
+import "Item.proto";
+
+message MEMLEKLMHCO {
+  bool BKPANBAKHPP = 10;
+  ItemList OGABJADABEB = 13;
+  Item GPAPMDDJFCG = 9;
+  ItemList PODLGKLONKN = 2;
+}

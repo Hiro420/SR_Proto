@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-import "PNKBMIEBDGA.proto";
-
-message OJBNNFCPMHM {
-  PNKBMIEBDGA JDGDBDHFCGP = 2;
-  uint32 BNNOMIBDHAA = 5;
-}

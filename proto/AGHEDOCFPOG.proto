@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-message AGHEDOCFPOG {
-  uint32 PIIPAECAKBA = 8;
-}

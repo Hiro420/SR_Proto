@@ -1,8 +1,0 @@
-syntax = "proto3";
-
-enum IBMBELOICJL {
-  IBMBELOICJL_G_C_M_E_O_C_E_E_M_F_H = 0;
-  IBMBELOICJL_J_N_G_F_C_G_G_E_B_I_H = 1;
-  IBMBELOICJL_P_M_E_E_F_B_P_D_H_D_J = 2;
-  IBMBELOICJL_C_F_K_N_F_A_L_D_M_I_A = 3;
-}

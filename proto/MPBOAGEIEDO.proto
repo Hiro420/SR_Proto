@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message MPBOAGEIEDO {
+  bool KCNBGBPNMCN = 3;
+  string BGMADEOICOC = 15;
+}

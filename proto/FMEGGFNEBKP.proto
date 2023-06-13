@@ -1,0 +1,12 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+import "PCKAGOPGLHK.proto";
+import "EFIIIKFMGEN.proto";
+
+message FMEGGFNEBKP {
+  PCKAGOPGLHK OMDNAPDCLDJ = 13;
+  repeated PCKAGOPGLHK BPEMBEKILDI = 15;
+  EFIIIKFMGEN JADPFIAEGOK = 14;
+}

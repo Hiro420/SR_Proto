@@ -1,0 +1,8 @@
+// Decompiled with protodec
+
+syntax = "proto3";
+
+message HIIFMEGLPIG {
+  bool DMFPAKBFLKD = 6;
+  uint32 ADELBPGJADC = 3;
+}
